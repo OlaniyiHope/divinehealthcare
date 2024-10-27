@@ -292,7 +292,7 @@ const Home = () => {
                                 >
                                   <img
                                     decoding="async"
-                                    src="wp-content/uploads/2022/09/features_img.png"
+                                    src="wp-content/uploads/2022/09/group10.png"
                                     alt=""
                                   />
                                 </div>
@@ -312,15 +312,52 @@ const Home = () => {
                                         <div class="features-content">
                                           <h4
                                             class="title"
-                                            style={{ color: "black" }}
+                                            style={{ color: "white" }}
                                           >
-                                            Multi Fruits Flavour
+                                            Health Benefits
                                           </h4>
 
-                                          <p style={{ color: "black" }}>
-                                            A thing added to something else in
-                                            order to complete or enhance it.
-                                          </p>
+                                          <ul>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              strengthens Men Organ
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Increase stability of erection
+                                              during intercourse
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Increase sperm motility and
+                                              viability of sperm cell
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Promote cell growth and healing of
+                                              sex organ
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Ensure potency and increase
+                                              fertiity
+                                            </li>
+                                          </ul>
                                         </div>
                                       </div>
                                     </div>
@@ -335,61 +372,44 @@ const Home = () => {
                                         <div class="features-content">
                                           <h4
                                             class="title"
-                                            style={{ color: "black" }}
+                                            style={{ color: "white" }}
                                           >
-                                            Flower Formula
+                                            INgredients
                                           </h4>
-
-                                          <p style={{ color: "black" }}>
-                                            A thing added to something else in
-                                            order to complete or enhance it.
-                                          </p>
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-8">
-                                      <div class="features-item">
-                                        <div class="features-icon">
-                                          <i
-                                            aria-hidden="true"
-                                            class="tp flaticon-weight"
-                                          ></i>{" "}
-                                        </div>
-                                        <div class="features-content">
-                                          <h4
-                                            class="title"
-                                            style={{ color: "black" }}
-                                          >
-                                            Fishbone Diagram
-                                          </h4>
-
-                                          <p style={{ color: "black" }}>
-                                            A thing added to something else in
-                                            order to complete or enhance it.
-                                          </p>
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-8">
-                                      <div class="features-item">
-                                        <div class="features-icon">
-                                          <i
-                                            aria-hidden="true"
-                                            class="tp flaticon-abs"
-                                          ></i>{" "}
-                                        </div>
-                                        <div class="features-content">
-                                          <h4
-                                            class="title"
-                                            style={{ color: "black" }}
-                                          >
-                                            100% Fat Blasting
-                                          </h4>
-
-                                          <p style={{ color: "black" }}>
-                                            A thing added to something else in
-                                            order to complete or enhance it.
-                                          </p>
+                                          <ul>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Garcinia Kola
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Tetrapleure tetraptera
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Arista Kochia Albida
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Aframomum Melagueta
+                                            </li>
+                                          </ul>
                                         </div>
                                       </div>
                                     </div>
@@ -433,7 +453,7 @@ const Home = () => {
                                     <div class="main-img">
                                       <img
                                         decoding="async"
-                                        src="wp-content/uploads/2022/09/features_product01.png"
+                                        src="wp-content/uploads/2022/09/product6.png"
                                         alt="img"
                                       />
                                     </div>
@@ -449,24 +469,33 @@ const Home = () => {
                                   <div class="features-product-content">
                                     <h2 class="title">
                                       <a href="product/box-full-of-muscles/index.html">
-                                        Seriour Mass
+                                        Mix Purifier
                                       </a>
                                     </h2>
 
                                     <h6 class="features-product-quantity">
-                                      High-strength, 5000IU
+                                      Benefits
                                     </h6>
 
-                                    <p>
-                                      Vitamin D3 supplements are commonly
-                                      recommended for people at risk for vitamin
-                                      D deficiency. Low vitamin D levels cause
-                                      depression, fatigue, and muscle weakness.
-                                      Over time, vitamin D deficiency can lead
-                                      to weak bones, rickets in children, and
-                                      osteoporosis in adults.
-                                    </p>
+                                    <ul>
+                                      <li>
+                                        Tackles urinary tract infection in men
+                                        and women
+                                      </li>
+                                      <li>Handles women discharge</li>
+                                      <li>Cares for skin infection</li>
+                                      <li>Boost fertility in men and women</li>
+                                    </ul>
+                                    {/*} <h6 class="features-product-quantity">
+                                      Ingredients
+                                    </h6>
 
+                                    <ul>
+                                      <li>Allium Sativum</li>
+                                      <li>Zingiber Officinale</li>
+                                      <li>Cymbopogen Citrates</li>
+                                      <li>Panax Quinquefolius</li>
+                                    </ul>*/}
                                     <div class="features-product-bottom">
                                       <a
                                         href="checkout/indexe038.html?add-to-cart=82"
@@ -478,16 +507,16 @@ const Home = () => {
                                         <del>
                                           <span class="woocommerce-Price-amount amount">
                                             <span class="woocommerce-Price-currencySymbol">
-                                              &#036;
+                                              N
                                             </span>
-                                            59.99
+                                            20,000
                                           </span>
                                         </del>{" "}
                                         <span class="woocommerce-Price-amount amount">
                                           <span class="woocommerce-Price-currencySymbol">
-                                            &#036;
+                                            N
                                           </span>
-                                          39.99
+                                          40,000
                                         </span>
                                       </span>
                                     </div>
@@ -496,7 +525,7 @@ const Home = () => {
                               </div>
                             </div>
 
-                            <div class="features-products-wrap">
+                            {/*}  <div class="features-products-wrap">
                               <div class="row justify-content-center">
                                 <div class="col-lg-6 col-md-8">
                                   <div class="features-products-thumb">
@@ -564,9 +593,9 @@ const Home = () => {
                                   </div>
                                 </div>
                               </div>
-                            </div>
+                            </div>*/}
 
-                            <div class="features-products-wrap">
+                            {/*} <div class="features-products-wrap">
                               <div class="row justify-content-center">
                                 <div class="col-lg-6 col-md-8">
                                   <div class="features-products-thumb">
@@ -634,7 +663,7 @@ const Home = () => {
                                   </div>
                                 </div>
                               </div>
-                            </div>
+                            </div>*/}
                           </div>
                           <div class="fp-shapes-wrap">
                             <div class="fp-shape-one">
@@ -1107,7 +1136,7 @@ const Home = () => {
                 </div>
               </div>
             </section>
-            <section
+            {/*<section
               class="elementor-section elementor-top-section elementor-element elementor-element-696c4cd elementor-section-full_width elementor-section-height-default elementor-section-height-default"
               data-id="696c4cd"
               data-element_type="section"
@@ -1168,8 +1197,8 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-            </section>
-            <section
+            </section>*/}
+            {/*} <section
               class="elementor-section elementor-top-section elementor-element elementor-element-c58b431 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
               data-id="c58b431"
               data-element_type="section"
@@ -1243,7 +1272,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-            </section>
+            </section>*/}
             <section
               class="elementor-section elementor-top-section elementor-element elementor-element-54ab94f elementor-section-full_width elementor-section-height-default elementor-section-height-default"
               data-id="54ab94f"
@@ -1271,7 +1300,7 @@ const Home = () => {
                                 <div class="ingredients-img">
                                   <img
                                     decoding="async"
-                                    src="wp-content/uploads/2022/09/ingredients_img.png"
+                                    src="wp-content/uploads/2022/09/procare.png"
                                     alt=""
                                   />
                                   <img
@@ -1290,7 +1319,7 @@ const Home = () => {
                                       .. Increased Energy With Suxnix ..
                                     </p>
 
-                                    <h2 class="title">Suxnix Ingredients</h2>
+                                    <h2 class="title">Procare</h2>
                                   </div>
 
                                   <div class="row justify-content-center justify-content-lg-start">
@@ -1299,23 +1328,15 @@ const Home = () => {
                                         class="ingredients-item wow fadeInUp"
                                         data-wow-delay=".2s"
                                       >
-                                        <div class="ingredients-thumb">
-                                          <img
-                                            decoding="async"
-                                            class="light"
-                                            src="wp-content/uploads/2022/09/ingredients_item01.png"
-                                            alt=""
-                                          />
-                                        </div>
                                         <div class="ingredients-content">
-                                          <h5 class="title">
-                                            Helps You Stick To Your Diet
-                                          </h5>
+                                          <h5 class="title">Health Benefit</h5>
 
-                                          <p>
-                                            A thing added to something else in
-                                            order to complete or enhance it.
-                                          </p>
+                                          <ul>
+                                            <li>improve urinary function</li>
+                                            <li>handles enlarged prostrate</li>
+                                            <li>boost libido in men</li>
+                                            <li>boost libido in men</li>
+                                          </ul>
                                         </div>
                                       </div>
                                     </div>
@@ -1324,73 +1345,15 @@ const Home = () => {
                                         class="ingredients-item wow fadeInUp"
                                         data-wow-delay="0.3s"
                                       >
-                                        <div class="ingredients-thumb">
-                                          <img
-                                            decoding="async"
-                                            class="light"
-                                            src="wp-content/uploads/2022/09/ingredients_item02.png"
-                                            alt=""
-                                          />
-                                        </div>
                                         <div class="ingredients-content">
-                                          <h5 class="title">
-                                            Only 3g Net Carbs In Every Jar
-                                          </h5>
+                                          <h5 class="title">Ingredients</h5>
 
-                                          <p>
-                                            A thing added to something else in
-                                            order to complete or enhance it.
-                                          </p>
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-8">
-                                      <div
-                                        class="ingredients-item wow fadeInUp"
-                                        data-wow-delay="0.4s"
-                                      >
-                                        <div class="ingredients-thumb">
-                                          <img
-                                            decoding="async"
-                                            class="light"
-                                            src="wp-content/uploads/2022/09/ingredients_item03.png"
-                                            alt=""
-                                          />
-                                        </div>
-                                        <div class="ingredients-content">
-                                          <h5 class="title">
-                                            Ingredients To Fuel Your Body
-                                          </h5>
-
-                                          <p>
-                                            A thing added to something else in
-                                            order to complete or enhance it.
-                                          </p>
-                                        </div>
-                                      </div>
-                                    </div>
-                                    <div class="col-md-6 col-sm-8">
-                                      <div
-                                        class="ingredients-item wow fadeInUp"
-                                        data-wow-delay="0.5s"
-                                      >
-                                        <div class="ingredients-thumb">
-                                          <img
-                                            decoding="async"
-                                            class="light"
-                                            src="wp-content/uploads/2022/09/ingredients_item04.png"
-                                            alt=""
-                                          />
-                                        </div>
-                                        <div class="ingredients-content">
-                                          <h5 class="title">
-                                            Clean Ingredients Only
-                                          </h5>
-
-                                          <p>
-                                            A thing added to something else in
-                                            order to complete or enhance it.
-                                          </p>
+                                          <ul>
+                                            <li>Pyguem Africana</li>
+                                            <li>Serona repean</li>
+                                            <li>origano volgae</li>
+                                            <li>origano volgae</li>
+                                          </ul>
                                         </div>
                                       </div>
                                     </div>
@@ -1435,7 +1398,7 @@ const Home = () => {
                                 <div class="formula-img">
                                   <img
                                     decoding="async"
-                                    src="wp-content/uploads/2022/09/formula_img.png"
+                                    src="wp-content/uploads/2022/09/esss.png"
                                     alt=""
                                   />
                                 </div>
@@ -1444,49 +1407,38 @@ const Home = () => {
                               <div class="col-lg-6">
                                 <div class="formula-content">
                                   <div class="section-title white-title mb-50">
-                                    <p class="sub-title">
-                                      .. Suxnix Formula ..
-                                    </p>
-
                                     <h2
                                       class="title"
-                                      style={{ color: "black" }}
+                                      style={{ color: "white" }}
                                     >
-                                      Why We Chose This Formula
+                                      Health Benefit
                                     </h2>
                                   </div>
 
                                   <ul class="formula-list list-wrap">
-                                    <li style={{ color: "black" }}>
-                                      Tastes like dessert without added sugars
-                                      or sugar alcohols
+                                    <li style={{ color: "white" }}>
+                                      Boost blood and immunity
                                     </li>
-                                    <li style={{ color: "black" }}>
-                                      No artificial sweeteners, dairy, say or
-                                      corn fiber
+                                    <li style={{ color: "white" }}>
+                                      Good for sickle cell
                                     </li>
-                                    <li style={{ color: "black" }}>
-                                      10G of collagen protein from grass-fed
-                                      cows
+                                    <li style={{ color: "white" }}>
+                                      Boost fertility for both men and women
                                     </li>
-                                    <li style={{ color: "black" }}>
-                                      Formulated to reduce blood sugar intact
+                                    <li style={{ color: "white" }}>
+                                      Serves as Anti-oxidant
                                     </li>
-                                    <li>
-                                      Organic almond Butter, Sunflower Lecithin
+                                    <li>Anti-inflammatory</li>
+                                    <li style={{ color: "white" }}>
+                                      Promote digestion
                                     </li>
-                                    <li style={{ color: "black" }}>
-                                      No energy crashes. Collagen Protein,
-                                      Stevia
-                                    </li>
-                                    <li style={{ color: "black" }}>
-                                      10G of collagen protein from grass-fed
-                                      cows
+                                    <li style={{ color: "white" }}>
+                                      Prevent diseases
                                     </li>
                                   </ul>
 
                                   <a
-                                    href="contact-us/index.html"
+                                    href="/contact"
                                     target="_self"
                                     rel="nofollow"
                                     class="btn btn-two"
@@ -1504,7 +1456,7 @@ const Home = () => {
                 </div>
               </div>
             </section>
-            <section
+            {/*} <section
               class="elementor-section elementor-top-section elementor-element elementor-element-abcb398 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
               data-id="abcb398"
               data-element_type="section"
@@ -1746,7 +1698,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-            </section>
+            </section>*/}
             <section
               class="elementor-section elementor-top-section elementor-element elementor-element-8976bfb elementor-section-full_width elementor-section-height-default elementor-section-height-default"
               data-id="8976bfb"
