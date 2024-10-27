@@ -27,6 +27,7 @@ import Hiv from "./pages/Hiv";
 import Fibroid from "./pages/Fibroid";
 import Hbp from "./pages/Hbp";
 import PageTitleSetter from "./pages/PageTitleSetter";
+import Pricing from "./pages/Pricing";
 
 function App() {
   return (
@@ -55,6 +56,7 @@ function App() {
           <Route exact path="/product/hiv-cancer-hepatitis" element={<Hiv />} />
           <Route exact path="/product/fibroid" element={<Fibroid />} />
           <Route exact path="/product/Hbp" element={<Hbp />} />
+          <Route exact path="/pricing" element={<Pricing />} />
           {/*}  <Route exact path="/banner" element={<Banner />} />
           <Route exact path="/register" element={<LoginPage />} />
           <Route exact path="/blog" element={<News />} />

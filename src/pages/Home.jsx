@@ -71,7 +71,7 @@ const Home = () => {
                                   </h2>
 
                                   <a
-                                    href="/product/shop"
+                                    href="/shop"
                                     target="_self"
                                     rel="nofollow"
                                     class="btn btn-two"
