@@ -6,62 +6,344 @@ import Footer from "../components/Footer";
 const Contact = () => {
   return (
     <>
-      <body class="page-template page-template-elementor_header_footer page page-id-623 ehf-template-hello-elementor ehf-stylesheet-hello-elementor jkit-color-scheme elementor-default elementor-template-full-width elementor-kit-3 elementor-page elementor-page-623">
-        <div id="page" class="jkit-template  site">
+      <body class="page-template page-template-elementor_header_footer page page-id-87 wp-embed-responsive theme-suxnix woocommerce-no-js tinvwl-theme-style no-sidebar elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-87">
+        <main class="main-area fix">
+          <section
+            class="breadcrumb-area breadcrumb-bg "
+            data-background="https://themegenix.net/wp/suxnix/wp-content/themes/suxnix/assets/img/bg/video_bg.jpg"
+          >
+            <div class="container">
+              <div class="row justify-content-center">
+                <div class="col-xl-10">
+                  <div class="breadcrumb-content text-center">
+                    <h2 class="title">Contact Us</h2>
+                    <nav aria-label="breadcrumb" class="breadcrumb">
+                      <span property="itemListElement" typeof="ListItem">
+                        <a
+                          property="item"
+                          typeof="WebPage"
+                          title="Go to Suxnix."
+                          href="https://themegenix.net/wp/suxnix"
+                          class="home"
+                        >
+                          <span property="name">Suxnix</span>
+                        </a>
+                      </span>
+                      <span class="breadcrumb-separator">
+                        <i class="fas fa-angle-right"></i>
+                      </span>
+                      <span property="itemListElement" typeof="ListItem">
+                        <span
+                          property="name"
+                          class="post post-page current-item"
+                        >
+                          Contact Us
+                        </span>
+                      </span>{" "}
+                    </nav>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="video-shape one">
+              <img
+                src="../wp-content/themes/suxnix/assets/img/others/video_shape01.png"
+                alt="shape"
+              />
+            </div>
+            <div class="video-shape two">
+              <img
+                src="../wp-content/themes/suxnix/assets/img/others/video_shape02.png"
+                alt="shape"
+              />
+            </div>
+          </section>
+
           <div
             data-elementor-type="wp-page"
-            data-elementor-id="948"
-            class="elementor elementor-948"
+            data-elementor-id="87"
+            class="elementor elementor-87"
           >
             <section
-              class="elementor-section elementor-top-section elementor-element elementor-element-d2a4987 elementor-section-content-middle elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-              data-id="d2a4987"
+              class="elementor-section elementor-top-section elementor-element elementor-element-b7b2079 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+              data-id="b7b2079"
               data-element_type="section"
-              data-settings='{"background_background":"classic"}'
             >
-              <div class="elementor-background-overlay"></div>
-              <div class="elementor-container elementor-column-gap-default">
+              <div class="elementor-container elementor-column-gap-no">
                 <div
-                  class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7c0d3ed"
-                  data-id="7c0d3ed"
+                  class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f87c9fe"
+                  data-id="f87c9fe"
                   data-element_type="column"
                 >
                   <div class="elementor-widget-wrap elementor-element-populated">
                     <div
-                      class="elementor-element elementor-element-7435d9b elementor-widget elementor-widget-heading"
-                      data-id="7435d9b"
+                      class="elementor-element elementor-element-6702840 elementor-widget elementor-widget-contact-info"
+                      data-id="6702840"
                       data-element_type="widget"
-                      data-widget_type="heading.default"
+                      data-widget_type="contact-info.default"
                     >
                       <div class="elementor-widget-container">
-                        <h2 class="elementor-heading-title elementor-size-default">
-                          Contact
-                        </h2>{" "}
-                      </div>
-                    </div>
-                    <div
-                      class="elementor-element elementor-element-eff82bc elementor-icon-list--layout-inline elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                      data-id="eff82bc"
-                      data-element_type="widget"
-                      data-widget_type="icon-list.default"
-                    >
-                      <div class="elementor-widget-container">
-                        <ul class="elementor-icon-list-items elementor-inline-items">
-                          <li class="elementor-icon-list-item elementor-inline-item">
-                            <span class="elementor-icon-list-text">Home</span>
-                          </li>
-                          <li class="elementor-icon-list-item elementor-inline-item">
-                            <span class="elementor-icon-list-icon">
-                              <i
-                                aria-hidden="true"
-                                class="fas fa-chevron-right"
-                              ></i>{" "}
-                            </span>
-                            <span class="elementor-icon-list-text">
-                              Contact
-                            </span>
-                          </li>
-                        </ul>
+                        <section class="contact-area">
+                          <div class="container">
+                            <div class="contact-box-wrapper">
+                              <div class="row justify-content-center">
+                                <div class="col-lg-4 col-md-6 col-sm-9">
+                                  <div class="contact-box">
+                                    <div class="contact-icon">
+                                      <span class="overlay-icon">
+                                        <i class="fas fa-check"></i>
+                                      </span>
+
+                                      <i
+                                        aria-hidden="true"
+                                        class="far fa-map"
+                                      ></i>
+                                    </div>
+                                    <div class="contact-content">
+                                      <h5 class="title">Office Address</h5>
+
+                                      <p class="contact-desc">
+                                        99 NY Address Street, Brooklyn, United
+                                        State
+                                      </p>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-9">
+                                  <div class="contact-box">
+                                    <div class="contact-icon">
+                                      <span class="overlay-icon">
+                                        <i class="fas fa-check"></i>
+                                      </span>
+
+                                      <i
+                                        aria-hidden="true"
+                                        class="fas fa-phone"
+                                      ></i>
+                                    </div>
+                                    <div class="contact-content">
+                                      <h5 class="title">Phone Number</h5>
+
+                                      <p class="contact-desc">
+                                        875 7556 464 7658 <br /> 765 648 567 98
+                                      </p>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-9">
+                                  <div class="contact-box">
+                                    <div class="contact-icon">
+                                      <span class="overlay-icon">
+                                        <i class="fas fa-check"></i>
+                                      </span>
+
+                                      <i
+                                        aria-hidden="true"
+                                        class="fas fa-globe"
+                                      ></i>
+                                    </div>
+                                    <div class="contact-content">
+                                      <h5 class="title">Web Connect</h5>
+
+                                      <p class="contact-desc">
+                                        info@suxnixmail.com <br />{" "}
+                                        suxnixexample.com
+                                      </p>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </section>
+
+                        <section class="contact-form-area">
+                          <div class="container">
+                            <div class="row">
+                              <div class="col-xl-6">
+                                <div id="contact-map">
+                                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d96811.54759587669!2d-74.01263924803828!3d40.6880494567041!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25bae694479a3%3A0xb9949385da52e69e!2sBarclays%20Center!5e0!3m2!1sen!2sbd!4v1636195194646!5m2!1sen!2sbd"></iframe>{" "}
+                                </div>
+                              </div>
+                              <div class="col-xl-6">
+                                <div class="contact-form-wrap">
+                                  <div class="section-title mb-50">
+                                    <p class="sub-title">.. request make ..</p>
+
+                                    <h2 class="title">
+                                      Asked Anything You <br /> Want To Know
+                                    </h2>
+                                  </div>
+
+                                  <div
+                                    class="wpcf7 no-js"
+                                    id="wpcf7-f269-p87-o1"
+                                    lang="en-US"
+                                    dir="ltr"
+                                  >
+                                    <div class="screen-reader-response">
+                                      <p
+                                        role="status"
+                                        aria-live="polite"
+                                        aria-atomic="true"
+                                      ></p>{" "}
+                                      <ul></ul>
+                                    </div>
+                                    <form
+                                      action="https://themegenix.net/wp/suxnix/contact-us/#wpcf7-f269-p87-o1"
+                                      method="post"
+                                      class="wpcf7-form init"
+                                      aria-label="Contact form"
+                                      novalidate="novalidate"
+                                      data-status="init"
+                                    >
+                                      <div style="display: none;">
+                                        <input
+                                          type="hidden"
+                                          name="_wpcf7"
+                                          value="269"
+                                        />
+                                        <input
+                                          type="hidden"
+                                          name="_wpcf7_version"
+                                          value="5.8.1"
+                                        />
+                                        <input
+                                          type="hidden"
+                                          name="_wpcf7_locale"
+                                          value="en_US"
+                                        />
+                                        <input
+                                          type="hidden"
+                                          name="_wpcf7_unit_tag"
+                                          value="wpcf7-f269-p87-o1"
+                                        />
+                                        <input
+                                          type="hidden"
+                                          name="_wpcf7_container_post"
+                                          value="87"
+                                        />
+                                        <input
+                                          type="hidden"
+                                          name="_wpcf7_posted_data_hash"
+                                          value=""
+                                        />
+                                      </div>
+                                      <div class="contact-form">
+                                        <div class="row">
+                                          <div class="col-md-6">
+                                            <div class="form-grp">
+                                              <label for="full-name">
+                                                Full Name
+                                              </label>
+                                              <span
+                                                class="wpcf7-form-control-wrap"
+                                                data-name="your-name"
+                                              >
+                                                <input
+                                                  size="40"
+                                                  class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
+                                                  id="full-name"
+                                                  aria-required="true"
+                                                  aria-invalid="false"
+                                                  placeholder="Enter here"
+                                                  value=""
+                                                  type="text"
+                                                  name="your-name"
+                                                />
+                                              </span>
+                                            </div>
+                                          </div>
+                                          <div class="col-md-6">
+                                            <div class="form-grp">
+                                              <label for="email">
+                                                Email Address
+                                              </label>
+                                              <span
+                                                class="wpcf7-form-control-wrap"
+                                                data-name="your-email"
+                                              >
+                                                <input
+                                                  size="40"
+                                                  class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email"
+                                                  id="email"
+                                                  aria-required="true"
+                                                  aria-invalid="false"
+                                                  placeholder="Enter here"
+                                                  value=""
+                                                  type="email"
+                                                  name="your-email"
+                                                />
+                                              </span>
+                                            </div>
+                                          </div>
+                                          <span
+                                            class="wpcf7-form-control-wrap"
+                                            data-name="your-subject"
+                                          >
+                                            <select
+                                              class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required form-select"
+                                              aria-required="true"
+                                              aria-invalid="false"
+                                              name="your-subject"
+                                            >
+                                              <option value="Select Subject **">
+                                                Select Subject **
+                                              </option>
+                                              <option value="Delivery &amp; Orders">
+                                                Delivery &amp; Orders
+                                              </option>
+                                              <option value="Diet &amp; Exercise">
+                                                Diet &amp; Exercise
+                                              </option>
+                                              <option value="Marketing &amp; Press">
+                                                Marketing &amp; Press
+                                              </option>
+                                              <option value="Share Your Success">
+                                                Share Your Success
+                                              </option>
+                                              <option value="Wholesale And Returns">
+                                                Wholesale And Returns
+                                              </option>
+                                            </select>
+                                          </span>
+                                          <div class="form-grp">
+                                            <label for="message">Message</label>
+                                            <span
+                                              class="wpcf7-form-control-wrap"
+                                              data-name="your-message"
+                                            >
+                                              <textarea
+                                                cols="40"
+                                                rows="10"
+                                                class="wpcf7-form-control wpcf7-textarea"
+                                                id="message"
+                                                aria-invalid="false"
+                                                placeholder="Enter here"
+                                                name="your-message"
+                                              ></textarea>
+                                            </span>
+                                          </div>
+                                          <div class="form-btn">
+                                            <input
+                                              class="wpcf7-form-control wpcf7-submit has-spinner btn"
+                                              type="submit"
+                                              value="make request"
+                                            />
+                                          </div>
+                                        </div>
+                                      </div>
+                                      <div
+                                        class="wpcf7-response-output"
+                                        aria-hidden="true"
+                                      ></div>
+                                    </form>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </section>
                       </div>
                     </div>
                   </div>
@@ -69,389 +351,105 @@ const Contact = () => {
               </div>
             </section>
             <section
-              class="elementor-section elementor-top-section elementor-element elementor-element-26aaec1c elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-              data-id="26aaec1c"
+              class="elementor-section elementor-top-section elementor-element elementor-element-9b4e891 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+              data-id="9b4e891"
               data-element_type="section"
             >
-              <div class="elementor-container elementor-column-gap-default">
+              <div class="elementor-container elementor-column-gap-no">
                 <div
-                  class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-71a9a2d0"
-                  data-id="71a9a2d0"
+                  class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ab2673f"
+                  data-id="ab2673f"
                   data-element_type="column"
                 >
                   <div class="elementor-widget-wrap elementor-element-populated">
                     <div
-                      class="elementor-element elementor-element-d4f964e elementor-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                      data-id="d4f964e"
+                      class="elementor-element elementor-element-690dc3a elementor-widget elementor-widget-tg-gallery"
+                      data-id="690dc3a"
                       data-element_type="widget"
-                      data-widget_type="icon-list.default"
+                      data-widget_type="tg-gallery.default"
                     >
                       <div class="elementor-widget-container">
-                        <ul class="elementor-icon-list-items">
-                          <li class="elementor-icon-list-item">
-                            <span class="elementor-icon-list-icon">
-                              <i
-                                aria-hidden="true"
-                                class="far fa-dot-circle"
-                              ></i>{" "}
-                            </span>
-                            <span class="elementor-icon-list-text">
-                              Let's Contact Us
-                            </span>
-                          </li>
-                        </ul>
-                      </div>
-                    </div>
-                    <div
-                      class="elementor-element elementor-element-3cb045a8 elementor-widget elementor-widget-heading"
-                      data-id="3cb045a8"
-                      data-element_type="widget"
-                      data-widget_type="heading.default"
-                    >
-                      <div class="elementor-widget-container">
-                        <h2 class="elementor-heading-title elementor-size-default">
-                          Get In Touch
-                        </h2>{" "}
-                      </div>
-                    </div>
-                    <div
-                      class="elementor-element elementor-element-51e03af elementor-widget elementor-widget-text-editor"
-                      data-id="51e03af"
-                      data-element_type="widget"
-                      data-widget_type="text-editor.default"
-                    >
-                      <div class="elementor-widget-container">
-                        <p>
-                          want to know more about our services, or have any
-                          other inquiries, our team is ready to assist you. Feel
-                          free to reach out to us via phone, email, or by
-                          visiting one of our locations.
-                        </p>{" "}
-                      </div>
-                    </div>
-                    <section
-                      class="elementor-section elementor-inner-section elementor-element elementor-element-a533048 elementor-section-content-bottom elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                      data-id="a533048"
-                      data-element_type="section"
-                    >
-                      <div class="elementor-container elementor-column-gap-no">
-                        <div
-                          class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-445c1260"
-                          data-id="445c1260"
-                          data-element_type="column"
-                          data-settings='{"background_background":"classic"}'
-                        >
-                          <div class="elementor-widget-wrap elementor-element-populated">
-                            <div
-                              class="elementor-element elementor-element-2603961 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon"
-                              data-id="2603961"
-                              data-element_type="widget"
-                              data-widget_type="icon.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <div class="elementor-icon-wrapper">
-                                  <div class="elementor-icon elementor-animation-float">
-                                    <i
-                                      aria-hidden="true"
-                                      class="jki jki-map-line"
-                                    ></i>{" "}
-                                  </div>
+                        <div class="footer-instagram">
+                          <div class="container">
+                            <div class="row g-0 instagram-active">
+                              <div class="col-2">
+                                <div class="footer-insta-item">
+                                  <a href="../wp-content/uploads/2022/09/instagram_post01.jpg">
+                                    <img
+                                      decoding="async"
+                                      src="../wp-content/uploads/2022/09/instagram_post01.jpg"
+                                      alt=""
+                                    />
+                                  </a>
                                 </div>
                               </div>
-                            </div>
-                            <div
-                              class="elementor-element elementor-element-74c7be8b jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box"
-                              data-id="74c7be8b"
-                              data-element_type="widget"
-                              data-widget_type="jkit_icon_box.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_948_1_66a66a1db1aac">
-                                  <div class="jkit-icon-box-wrapper hover-from-left">
-                                    <div class="icon-box icon-box-body">
-                                      <h3 class="title">Our offices</h3>
-                                      <p class="icon-box-description">
-                                        Cvilla resort, Road 45, lekki peninsula
-                                        scheme II, Ajah, Lagos
-                                      </p>
-                                      <p class="icon-box-description">
-                                        i201 Ogba Multipurpose shopping complex,
-                                        wempco road, Ikeja, Lagos
-                                      </p>
-                                    </div>
-                                  </div>
-                                </div>{" "}
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div
-                          class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5ab46e84"
-                          data-id="5ab46e84"
-                          data-element_type="column"
-                          data-settings='{"background_background":"classic"}'
-                        >
-                          <div class="elementor-widget-wrap elementor-element-populated">
-                            <div
-                              class="elementor-element elementor-element-8f1fa66 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon"
-                              data-id="8f1fa66"
-                              data-element_type="widget"
-                              data-widget_type="icon.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <div class="elementor-icon-wrapper">
-                                  <div class="elementor-icon elementor-animation-float">
-                                    <i
-                                      aria-hidden="true"
-                                      class="jki jki-phone-line"
-                                    ></i>{" "}
-                                  </div>
+                              <div class="col-2">
+                                <div class="footer-insta-item">
+                                  <a href="../wp-content/uploads/2022/09/instagram_post02.jpg">
+                                    <img
+                                      decoding="async"
+                                      src="../wp-content/uploads/2022/09/instagram_post02.jpg"
+                                      alt=""
+                                    />
+                                  </a>
                                 </div>
                               </div>
-                            </div>
-                            <div
-                              class="elementor-element elementor-element-61cb4a77 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box"
-                              data-id="61cb4a77"
-                              data-element_type="widget"
-                              data-widget_type="jkit_icon_box.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_948_2_66a66a1db3b02">
-                                  <div class="jkit-icon-box-wrapper hover-from-left">
-                                    <div class="icon-box icon-box-body">
-                                      <h3 class="title">Our Phone</h3>
-                                      <p class="icon-box-description">
-                                        (+234) 707 877 1831 | Hotline (+234) 707
-                                        877 1831, +234 803 876 3637
-                                      </p>
-                                    </div>
-                                  </div>
-                                </div>{" "}
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div
-                          class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-681a0e4c"
-                          data-id="681a0e4c"
-                          data-element_type="column"
-                          data-settings='{"background_background":"classic"}'
-                        >
-                          <div class="elementor-widget-wrap elementor-element-populated">
-                            <div
-                              class="elementor-element elementor-element-4238738 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon"
-                              data-id="4238738"
-                              data-element_type="widget"
-                              data-widget_type="icon.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <div class="elementor-icon-wrapper">
-                                  <div class="elementor-icon elementor-animation-float">
-                                    <i
-                                      aria-hidden="true"
-                                      class="jki jki-envelope2-light"
-                                    ></i>{" "}
-                                  </div>
+                              <div class="col-2">
+                                <div class="footer-insta-item">
+                                  <a href="../wp-content/uploads/2022/09/instagram_post03.jpg">
+                                    <img
+                                      decoding="async"
+                                      src="../wp-content/uploads/2022/09/instagram_post03.jpg"
+                                      alt=""
+                                    />
+                                  </a>
                                 </div>
                               </div>
-                            </div>
-                            <div
-                              class="elementor-element elementor-element-387d7317 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box"
-                              data-id="387d7317"
-                              data-element_type="widget"
-                              data-widget_type="jkit_icon_box.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_948_3_66a66a1db5921">
-                                  <div class="jkit-icon-box-wrapper hover-from-left">
-                                    <div class="icon-box icon-box-body">
-                                      <h3 class="title">Our Email</h3>
-                                      <p class="icon-box-description">
-                                        info@ogapos.com
-                                      </p>
-                                    </div>
-                                  </div>
-                                </div>{" "}
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div
-                          class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-4fd6758e"
-                          data-id="4fd6758e"
-                          data-element_type="column"
-                          data-settings='{"background_background":"classic"}'
-                        >
-                          <div class="elementor-widget-wrap elementor-element-populated">
-                            <div
-                              class="elementor-element elementor-element-e4ed855 elementor-widget__width-auto elementor-view-default elementor-widget elementor-widget-icon"
-                              data-id="e4ed855"
-                              data-element_type="widget"
-                              data-widget_type="icon.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <div class="elementor-icon-wrapper">
-                                  <div class="elementor-icon elementor-animation-float">
-                                    <i
-                                      aria-hidden="true"
-                                      class="jki jki-clock-1-light"
-                                    ></i>{" "}
-                                  </div>
+                              <div class="col-2">
+                                <div class="footer-insta-item">
+                                  <a href="../wp-content/uploads/2022/09/instagram_post04.jpg">
+                                    <img
+                                      decoding="async"
+                                      src="../wp-content/uploads/2022/09/instagram_post04.jpg"
+                                      alt=""
+                                    />
+                                  </a>
                                 </div>
                               </div>
-                            </div>
-                            <div
-                              class="elementor-element elementor-element-750dbdf7 jkit-equal-height-disable elementor-widget elementor-widget-jkit_icon_box"
-                              data-id="750dbdf7"
-                              data-element_type="widget"
-                              data-widget_type="jkit_icon_box.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <div class="jeg-elementor-kit jkit-icon-box icon-position- elementor-animation- jeg_module_948_4_66a66a1db781f">
-                                  <div class="jkit-icon-box-wrapper hover-from-left">
-                                    <div class="icon-box icon-box-body">
-                                      <h3 class="title">Working Hours</h3>
-                                      <p class="icon-box-description">
-                                        Mon - Sat : 8:00 AM - 9:00 PM, Sun :
-                                        Closed
-                                      </p>
-                                    </div>
-                                  </div>
-                                </div>{" "}
+                              <div class="col-2">
+                                <div class="footer-insta-item">
+                                  <a href="../wp-content/uploads/2022/09/instagram_post05.jpg">
+                                    <img
+                                      decoding="async"
+                                      src="../wp-content/uploads/2022/09/instagram_post05.jpg"
+                                      alt=""
+                                    />
+                                  </a>
+                                </div>
+                              </div>
+                              <div class="col-2">
+                                <div class="footer-insta-item">
+                                  <a href="../wp-content/uploads/2022/09/instagram_post06.jpg">
+                                    <img
+                                      decoding="async"
+                                      src="../wp-content/uploads/2022/09/instagram_post06.jpg"
+                                      alt=""
+                                    />
+                                  </a>
+                                </div>
                               </div>
                             </div>
                           </div>
                         </div>
                       </div>
-                    </section>
-                    <section
-                      class="elementor-section elementor-inner-section elementor-element elementor-element-1f46d56b elementor-reverse-tablet elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                      data-id="1f46d56b"
-                      data-element_type="section"
-                    >
-                      <div class="elementor-container elementor-column-gap-default">
-                        <div
-                          class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2ba66440"
-                          data-id="2ba66440"
-                          data-element_type="column"
-                        >
-                          <div class="elementor-widget-wrap elementor-element-populated">
-                            <div
-                              class="elementor-element elementor-element-132b4035 elementor-widget elementor-widget-google_maps"
-                              data-id="132b4035"
-                              data-element_type="widget"
-                              data-widget_type="google_maps.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <div class="elementor-custom-embed">
-                                  <iframe
-                                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.533756387091!2d3.576358074027861!3d6.45384342397089!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf76180c1af57%3A0xda2430d35f331824!2sCVilla%20Resort!5e0!3m2!1sen!2sng!4v1722450189122!5m2!1sen!2sng"
-                                    width="600"
-                                    height="450"
-                                    style={{ border: "0" }}
-                                    allowfullscreen=""
-                                    loading="lazy"
-                                    referrerpolicy="no-referrer-when-downgrade"
-                                  ></iframe>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div
-                          class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4699b262"
-                          data-id="4699b262"
-                          data-element_type="column"
-                          data-settings='{"background_background":"classic"}'
-                        >
-                          <div class="elementor-widget-wrap elementor-element-populated">
-                            <div
-                              class="elementor-element elementor-element-666f2bf elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                              data-id="666f2bf"
-                              data-element_type="widget"
-                              data-widget_type="icon-list.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <ul class="elementor-icon-list-items">
-                                  <li class="elementor-icon-list-item">
-                                    <span class="elementor-icon-list-icon">
-                                      <i
-                                        aria-hidden="true"
-                                        class="far fa-dot-circle"
-                                      ></i>{" "}
-                                    </span>
-                                    <span class="elementor-icon-list-text">
-                                      Write A Message
-                                    </span>
-                                  </li>
-                                </ul>
-                              </div>
-                            </div>
-                            <div
-                              class="elementor-element elementor-element-903db46 elementor-widget elementor-widget-heading"
-                              data-id="903db46"
-                              data-element_type="widget"
-                              data-widget_type="heading.default"
-                            >
-                              <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default">
-                                  Leave A Message
-                                </h2>{" "}
-                              </div>
-                            </div>
-                            <div
-                              class="elementor-element elementor-element-bf19d2f elementor-widget elementor-widget-metform"
-                              data-id="bf19d2f"
-                              data-element_type="widget"
-                              data-widget_type="metform.default"
-                            >
-                              <form>
-                                <div>
-                                  <label htmlFor="name">Name</label>
-                                  <input
-                                    type="text"
-                                    id="name"
-                                    name="name"
-                                    style={{ marginBottom: "20px" }}
-                                    required
-                                  />
-                                </div>
-                                <div>
-                                  <label htmlFor="email">Email</label>
-                                  <input
-                                    type="email"
-                                    id="email"
-                                    name="email"
-                                    style={{ marginBottom: "20px" }}
-                                    required
-                                  />
-                                </div>
-                                <div>
-                                  <label htmlFor="message">Message</label>
-                                  <textarea
-                                    id="message"
-                                    name="message"
-                                    required
-                                    style={{
-                                      height: "200px",
-                                      marginBottom: "20px",
-                                    }}
-                                  ></textarea>
-                                </div>
-                                <button type="submit">Send Message</button>
-                              </form>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </section>
+                    </div>
                   </div>
                 </div>
               </div>
             </section>
           </div>
-          <Footer />
-        </div>
+        </main>
+        <Footer />
       </body>
     </>
   );
