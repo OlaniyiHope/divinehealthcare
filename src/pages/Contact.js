@@ -197,7 +197,7 @@ const Contact = () => {
                                       novalidate="novalidate"
                                       data-status="init"
                                     >
-                                      <div style="display: none;">
+                                      <div style={{ display: "none" }}>
                                         <input
                                           type="hidden"
                                           name="_wpcf7"
