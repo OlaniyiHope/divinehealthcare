@@ -474,7 +474,7 @@ const Home = () => {
                                     <div class="main-img">
                                       <img
                                         decoding="async"
-                                        src="wp-content/uploads/2022/09/product6.png"
+                                        src="wp-content/uploads/2022/09/work.png"
                                         alt="img"
                                       />
                                     </div>
@@ -1419,7 +1419,7 @@ const Home = () => {
                                 <div class="formula-img">
                                   <img
                                     decoding="async"
-                                    src="wp-content/uploads/2022/09/esss.png"
+                                    src="wp-content/uploads/2022/09/clear2.png"
                                     alt=""
                                   />
                                 </div>
@@ -1744,6 +1744,9 @@ const Home = () => {
                           data-background="https://themegenix.net/wp/suxnix/wp-content/uploads/2022/09/testimonial_bg.jpg"
                         >
                           <div class="testimonial-overlay"></div>
+                          <h1 style={{ color: "white", textAlign: "center" }}>
+                            Recent testimonial
+                          </h1>
                           <div class="container">
                             <div class="row justify-content-center">
                               <div class="col-xxl-8 col-xl-9 col-lg-11">
@@ -1756,29 +1759,12 @@ const Home = () => {
                                       <i class="fas fa-star"></i>
                                       <i class="fas fa-star-half-alt"></i>
                                     </div>
-                                    <p>
-                                      “Becoming more involved in administration
-                                      within the (MidMichigan) health system
-                                      over the years, I had been researching
-                                      options for further education that would
-                                      assist in this transition and fit my busy
-                                      schedule”
-                                    </p>
-                                    <div class="testimonial-avatar-wrap">
-                                      <div class="testi-avatar-img">
-                                        <img
-                                          decoding="async"
-                                          src="wp-content/uploads/2022/09/testi_avatar02.jpg"
-                                          alt=""
-                                        />
-                                      </div>
-
-                                      <div class="testi-avatar-info">
-                                        <h5 class="name">Janeta Cooper</h5>
-                                      </div>
-                                    </div>
+                                    <img
+                                      decoding="async"
+                                      src="wp-content/uploads/2022/09/r4.jpeg"
+                                      alt=""
+                                    />
                                   </div>
-
                                   <div class="testimonial-item text-center">
                                     <div class="testimonial-rating">
                                       <i class="fas fa-star"></i>
@@ -1787,29 +1773,12 @@ const Home = () => {
                                       <i class="fas fa-star"></i>
                                       <i class="fas fa-star-half-alt"></i>
                                     </div>
-                                    <p>
-                                      “Becoming more involved in administration
-                                      within the (MidMichigan) health system
-                                      over the years, I had been researching
-                                      options for further education that would
-                                      assist in this transition and fit my busy
-                                      schedule”
-                                    </p>
-                                    <div class="testimonial-avatar-wrap">
-                                      <div class="testi-avatar-img">
-                                        <img
-                                          decoding="async"
-                                          src="wp-content/uploads/2022/09/testi_avatar03.jpg"
-                                          alt=""
-                                        />
-                                      </div>
-
-                                      <div class="testi-avatar-info">
-                                        <h5 class="name">Lempor Kooper</h5>
-                                      </div>
-                                    </div>
+                                    <img
+                                      decoding="async"
+                                      src="wp-content/uploads/2022/09/r3.jpeg"
+                                      alt=""
+                                    />
                                   </div>
-
                                   <div class="testimonial-item text-center">
                                     <div class="testimonial-rating">
                                       <i class="fas fa-star"></i>
@@ -1818,27 +1787,25 @@ const Home = () => {
                                       <i class="fas fa-star"></i>
                                       <i class="fas fa-star-half-alt"></i>
                                     </div>
-                                    <p>
-                                      “Becoming more involved in administration
-                                      within the (MidMichigan) health system
-                                      over the years, I had been researching
-                                      options for further education that would
-                                      assist in this transition and fit my busy
-                                      schedule”
-                                    </p>
-                                    <div class="testimonial-avatar-wrap">
-                                      <div class="testi-avatar-img">
-                                        <img
-                                          decoding="async"
-                                          src="wp-content/uploads/2022/09/testi_avatar01.jpg"
-                                          alt=""
-                                        />
-                                      </div>
-
-                                      <div class="testi-avatar-info">
-                                        <h5 class="name">Zonalos Neko</h5>
-                                      </div>
+                                    <img
+                                      decoding="async"
+                                      src="wp-content/uploads/2022/09/r7.png"
+                                      alt=""
+                                    />
+                                  </div>
+                                  <div class="testimonial-item text-center">
+                                    <div class="testimonial-rating">
+                                      <i class="fas fa-star"></i>
+                                      <i class="fas fa-star"></i>
+                                      <i class="fas fa-star"></i>
+                                      <i class="fas fa-star"></i>
+                                      <i class="fas fa-star-half-alt"></i>
                                     </div>
+                                    <img
+                                      decoding="async"
+                                      src="wp-content/uploads/2022/09/r6.png"
+                                      alt=""
+                                    />
                                   </div>
                                 </div>
                               </div>
