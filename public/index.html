@@ -29,34 +29,7 @@
       href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap"
       rel="stylesheet"
     />
-
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        const pageTitleMap = {
-          "/": " Divine Health Care - Natural Solution for Wellness Essentials",
-          "/product/arthritis-and-stroke":
-            "Divine Health Care Treatment for Arthritis and Stroke",
-          "/product/ulcer": "Divine Health Care Treatment for Ulcer",
-          "/product/diabetes": "Divine Health Care Treatment forDiabetes",
-          "/product/fertility-booster":
-            "Divine Health Care Treatment for Fertility Booster",
-          "/product/hiv-cancer-hepatitis":
-            "Divine Health Care Treatment for HIV, Cancer, Hepatitis, Kidney",
-          "/product/fibroid": "Divine Health Care Treatment for Fibroid/Cyst",
-          "/product/Hbp":
-            "Divine Health Care Treatment for High Blood Pressure (Hbp)",
-          "/pricing": "Pricing",
-          "/shop": "Shop",
-          "/blog": "Blog",
-          "/contact": "Contact Us",
-        };
-
-        const currentPath = window.location.pathname;
-        const pageTitle = pageTitleMap[currentPath] || "Divine Health Care";
-
-        document.title = pageTitle;
-      });
-    </script>
+    <title>Divine Health Care - Natural Solution for Wellness Essentials</title>
 
     <script
       type="text/javascript"
@@ -1056,57 +1029,55 @@
       media="all"
     />
     <script>
-      jQuery(document).ready(function($){
-
-  /*=============================================
+      jQuery(document).ready(function ($) {
+        /*=============================================
     =         Instagram Active          =
   =============================================*/
-  $('.instagram-active').slick({
-    dots: false,
-    infinite: true,
-    speed: 1000,
-    autoplay: true,
-    arrows: false,
-    swipe: false,
-    slidesToShow: 5,
-    slidesToScroll: 1,
-    responsive: [
-      {
-      breakpoint: 1200,
-        settings: {
+        $(".instagram-active").slick({
+          dots: false,
+          infinite: true,
+          speed: 1000,
+          autoplay: true,
+          arrows: false,
+          swipe: false,
           slidesToShow: 5,
           slidesToScroll: 1,
-          infinite: true,
-        }
-      },
-      {
-      breakpoint: 992,
-        settings: {
-          slidesToShow: 4,
-          slidesToScroll: 1
-        }
-      },
-      {
-      breakpoint: 767,
-        settings: {
-          slidesToShow: 3,
-          slidesToScroll: 1,
-          arrows: false,
-        }
-      },
-      {
-      breakpoint: 575,
-        settings: {
-          slidesToShow: 2,
-          slidesToScroll: 1,
-          arrows: false,
-        }
-      },
-    ]
-  });
-
+          responsive: [
+            {
+              breakpoint: 1200,
+              settings: {
+                slidesToShow: 5,
+                slidesToScroll: 1,
+                infinite: true,
+              },
+            },
+            {
+              breakpoint: 992,
+              settings: {
+                slidesToShow: 4,
+                slidesToScroll: 1,
+              },
+            },
+            {
+              breakpoint: 767,
+              settings: {
+                slidesToShow: 3,
+                slidesToScroll: 1,
+                arrows: false,
+              },
+            },
+            {
+              breakpoint: 575,
+              settings: {
+                slidesToShow: 2,
+                slidesToScroll: 1,
+                arrows: false,
+              },
+            },
+          ],
+        });
       });
-  </script>
+    </script>
     <link
       rel="stylesheet"
       id="elementor-icons-css"

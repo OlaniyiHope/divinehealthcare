@@ -34,38 +34,186 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-          <Route exact path="/" element={<Home />} />
-
-          <Route exact path="/about" element={<About />} />
-          <Route exact path="/login" element={<Login />} />
-          <Route exact path="/services" element={<Services />} />
-          <Route exact path="/contact" element={<Contact />} />
-          <Route exact path="/blog" element={<Blog />} />
-          <Route exact path="/shop" element={<Shop />} />
-          <Route exact path="/shop-details" element={<ShopDetail />} />
-          <Route path="/product/arthritis-and-stroke" element={<Arthritis />} />
-          <Route exact path="/faq" element={<Faq />} />
-          <Route exact path="/product/ulcer" element={<Ulcer />} />
-          <Route exact path="/product/diabetes" element={<Diabetes />} />
+          <Route
+            exact
+            path="/"
+            element={
+              <>
+                <PageTitleSetter />
+                <Home />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/about"
+            element={
+              <>
+                <PageTitleSetter />
+                <About />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/login"
+            element={
+              <>
+                <PageTitleSetter />
+                <Login />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/services"
+            element={
+              <>
+                <PageTitleSetter />
+                <Services />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/contact"
+            element={
+              <>
+                <PageTitleSetter />
+                <Contact />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/blog"
+            element={
+              <>
+                <PageTitleSetter />
+                <Blog />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/shop"
+            element={
+              <>
+                <PageTitleSetter />
+                <Shop />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/shop-details"
+            element={
+              <>
+                <PageTitleSetter />
+                <ShopDetail />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/product/arthritis-and-stroke"
+            element={
+              <>
+                <PageTitleSetter />
+                <Arthritis />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/faq"
+            element={
+              <>
+                <PageTitleSetter />
+                <Faq />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/product/ulcer"
+            element={
+              <>
+                <PageTitleSetter />
+                <Ulcer />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/product/diabetes"
+            element={
+              <>
+                <PageTitleSetter />
+                <Diabetes />
+              </>
+            }
+          />
           <Route
             exact
             path="/product/fertility-booster"
-            element={<Fertility />}
+            element={
+              <>
+                <PageTitleSetter />
+                <Fertility />
+              </>
+            }
           />
-          <Route exact path="/pos-agent" element={<Posagent />} />
-          <Route exact path="/product/hiv-cancer-hepatitis" element={<Hiv />} />
-          <Route exact path="/product/fibroid" element={<Fibroid />} />
-          <Route exact path="/product/Hbp" element={<Hbp />} />
-          <Route exact path="/pricing" element={<Pricing />} />
-          {/*}  <Route exact path="/banner" element={<Banner />} />
-          <Route exact path="/register" element={<LoginPage />} />
-          <Route exact path="/blog" element={<News />} />
-          <Route exact path="/singleblog/:slug" element={<NewsDet />} />
-         
-          <Route exact path="/sidebar" element={<Sidebar />} />
-          <Route exact path="" element={<BlogDet />} />
-
-        */}
+          <Route
+            exact
+            path="/pos-agent"
+            element={
+              <>
+                <PageTitleSetter />
+                <Posagent />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/product/hiv-cancer-hepatitis"
+            element={
+              <>
+                <PageTitleSetter />
+                <Hiv />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/product/fibroid"
+            element={
+              <>
+                <PageTitleSetter />
+                <Fibroid />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/product/Hbp"
+            element={
+              <>
+                <PageTitleSetter />
+                <Hbp />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/pricing"
+            element={
+              <>
+                <PageTitleSetter />
+                <Pricing />
+              </>
+            }
+          />
         </Routes>
       </Router>
     </div>
