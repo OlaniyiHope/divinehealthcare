@@ -26,6 +26,7 @@ import Fertility from "./pages/Fertility";
 import Hiv from "./pages/Hiv";
 import Fibroid from "./pages/Fibroid";
 import Hbp from "./pages/Hbp";
+import PageTitleSetter from "./pages/PageTitleSetter";
 
 function App() {
   return (
