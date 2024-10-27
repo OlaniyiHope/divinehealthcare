@@ -165,7 +165,7 @@ const Home = () => {
                                   <div class="row">
                                     <div class="col-12">
                                       <h2 class="title">
-                                        Perfect Brand is Featured on
+                                        Treatment for all kind of illness
                                       </h2>{" "}
                                     </div>
                                   </div>
@@ -175,78 +175,99 @@ const Home = () => {
                             <div class="row brand-active">
                               <div class="col-2">
                                 <div class="brand-item">
-                                  <a href="#">
-                                    <img
-                                      decoding="async"
-                                      src="wp-content/uploads/2022/09/brand_01.png"
-                                      alt=""
-                                    />
+                                  <a
+                                    href="/product/diabetes"
+                                    style={{
+                                      color: "black",
+                                      fontSize: "25px",
+                                      fontWeight: "500",
+                                    }}
+                                  >
+                                    Diabetes
                                   </a>
                                 </div>
                               </div>
                               <div class="col-2">
                                 <div class="brand-item">
-                                  <a href="#">
-                                    <img
-                                      decoding="async"
-                                      src="wp-content/uploads/2022/09/brand_02.png"
-                                      alt=""
-                                    />
+                                  <a
+                                    href="/product/arthritis-and-stroke"
+                                    style={{
+                                      color: "black",
+                                      fontSize: "25px",
+                                      fontWeight: "500",
+                                    }}
+                                  >
+                                    Arthritis & Stroke
                                   </a>
                                 </div>
                               </div>
                               <div class="col-2">
                                 <div class="brand-item">
-                                  <a href="#">
-                                    <img
-                                      decoding="async"
-                                      src="wp-content/uploads/2022/09/brand_03.png"
-                                      alt=""
-                                    />
+                                  <a
+                                    href="/product/ulcer"
+                                    style={{
+                                      color: "black",
+                                      fontSize: "25px",
+                                      fontWeight: "500",
+                                    }}
+                                  >
+                                    Ulcer
                                   </a>
                                 </div>
                               </div>
                               <div class="col-2">
                                 <div class="brand-item">
-                                  <a href="#">
-                                    <img
-                                      decoding="async"
-                                      src="wp-content/uploads/2022/09/brand_04.png"
-                                      alt=""
-                                    />
+                                  <a
+                                    href="/product/hiv-cancer-hepatitis"
+                                    style={{
+                                      color: "black",
+                                      fontSize: "25px",
+                                      fontWeight: "500",
+                                    }}
+                                  >
+                                    HIV/Cancer
                                   </a>
                                 </div>
                               </div>
                               <div class="col-2">
                                 <div class="brand-item">
-                                  <a href="#">
-                                    <img
-                                      decoding="async"
-                                      src="wp-content/uploads/2022/09/brand_05.png"
-                                      alt=""
-                                    />
+                                  <a
+                                    href="/product/fibroid"
+                                    style={{
+                                      color: "black",
+                                      fontSize: "25px",
+                                      fontWeight: "500",
+                                    }}
+                                  >
+                                    Fibroid
                                   </a>
                                 </div>
                               </div>
                               <div class="col-2">
                                 <div class="brand-item">
-                                  <a href="#">
-                                    <img
-                                      decoding="async"
-                                      src="wp-content/uploads/2022/09/brand_06.png"
-                                      alt=""
-                                    />
+                                  <a
+                                    href="/product/Hbp"
+                                    style={{
+                                      color: "black",
+                                      fontSize: "25px",
+                                      fontWeight: "500",
+                                    }}
+                                  >
+                                    HBP
                                   </a>
                                 </div>
                               </div>
                               <div class="col-2">
                                 <div class="brand-item">
-                                  <a href="#">
-                                    <img
-                                      decoding="async"
-                                      src="wp-content/uploads/2022/09/brand_03.png"
-                                      alt=""
-                                    />
+                                  <a
+                                    href="#"
+                                    style={{
+                                      color: "black",
+                                      fontSize: "25px",
+                                      fontWeight: "500",
+                                    }}
+                                  >
+                                    Weak Erection
                                   </a>
                                 </div>
                               </div>
@@ -723,7 +744,7 @@ const Home = () => {
                 </div>
               </div>
             </section>
-            <section
+            {/*} <section
               class="elementor-section elementor-top-section elementor-element elementor-element-105b343 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
               data-id="105b343"
               data-element_type="section"
@@ -1135,7 +1156,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-            </section>
+            </section>*/}
             {/*<section
               class="elementor-section elementor-top-section elementor-element elementor-element-696c4cd elementor-section-full_width elementor-section-height-default elementor-section-height-default"
               data-id="696c4cd"
@@ -1830,7 +1851,7 @@ const Home = () => {
                 </div>
               </div>
             </section>
-            <section
+            {/*}   <section
               class="elementor-section elementor-top-section elementor-element elementor-element-4f93b80 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
               data-id="4f93b80"
               data-element_type="section"
@@ -2213,7 +2234,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-            </section>
+            </section>*/}
           </div>
         </main>
         <Footer />
