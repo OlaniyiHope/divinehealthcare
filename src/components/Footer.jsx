@@ -132,7 +132,7 @@ const Footer = () => {
                       <div class="footer-contact-wrap">
                         <ul class="list-wrap">
                           <li class="phone">
-                            <i class="fas fa-phone"></i> +1 31-6555-0116
+                            <i class="fas fa-phone"></i> +234 811 320 1322
                           </li>
                           <li class="mail">
                             <i class="fas fa-envelope"></i>{" "}
