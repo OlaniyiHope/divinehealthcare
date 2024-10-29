@@ -26,7 +26,7 @@ const Footer = () => {
                       <div class="footer-logo logo">
                         <a href="https://themegenix.net/wp/suxnix">
                           <img
-                            src="wp-content/uploads/2022/09/white_logo.png"
+                            src="wp-content/uploads/2022/09/realfoot.png"
                             alt="Suxnix"
                           />
                         </a>
@@ -34,9 +34,8 @@ const Footer = () => {
 
                       <div class="footer-text">
                         <p>
-                          Making beauty, especially relating complot especial
-                          common questions tend to recur through posts or
-                          queries standards very orem donor comm and tei.
+                          Natural solution for wellness essentials Elevate your
+                          well-being : the latest health news and trends
                         </p>
                       </div>
 
@@ -72,37 +71,20 @@ const Footer = () => {
                           id="menu-item-92"
                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-92"
                         >
-                          <a href="contact-us/index.html">About Company</a>
+                          <a href="/">About</a>
                         </li>
-                        <li
-                          id="menu-item-93"
-                          class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93"
-                        >
-                          <a href="#">Affiliate Program</a>
-                        </li>
-                        <li
-                          id="menu-item-94"
-                          class="menu-item menu-item-type-custom menu-item-object-custom menu-item-94"
-                        >
-                          <a href="#">Customer Spotlight</a>
-                        </li>
-                        <li
-                          id="menu-item-95"
-                          class="menu-item menu-item-type-custom menu-item-object-custom menu-item-95"
-                        >
-                          <a href="#">Reseller Program</a>
-                        </li>
+
                         <li
                           id="menu-item-96"
                           class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96"
                         >
-                          <a href="shop/index.html">Our Shop</a>
+                          <a href="/shop">Our Shop</a>
                         </li>
                         <li
                           id="menu-item-97"
                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"
                         >
-                          <a href="#">Price &#038; Plans</a>
+                          <a href="/pricing">Pricing</a>
                         </li>
                       </ul>
                     </div>
@@ -117,40 +99,24 @@ const Footer = () => {
                     <div class="menu-support-menu-container">
                       <ul id="menu-support-menu" class="menu">
                         <li
-                          id="menu-item-98"
-                          class="menu-item menu-item-type-custom menu-item-object-custom menu-item-98"
-                        >
-                          <a href="#">Knowledge Base</a>
-                        </li>
-                        <li
                           id="menu-item-103"
                           class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"
                         >
-                          <a href="blog/index.html">Our Blog</a>
+                          <a href="/blog">Our Blog</a>
                         </li>
-                        <li
-                          id="menu-item-99"
-                          class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99"
-                        >
-                          <a href="#">Developer API</a>
-                        </li>
+
                         <li
                           id="menu-item-104"
                           class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104"
                         >
-                          <a href="#">Faq</a>
+                          <a href="/">Faq</a>
                         </li>
-                        <li
-                          id="menu-item-100"
-                          class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100"
-                        >
-                          <a href="#">Team</a>
-                        </li>
+
                         <li
                           id="menu-item-101"
                           class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"
                         >
-                          <a href="contact-us/index.html">Contact Us</a>
+                          <a href="/contact">Contact Us</a>
                         </li>
                       </ul>
                     </div>
@@ -164,16 +130,17 @@ const Footer = () => {
                     <h4 class="fw-title">CONTACT US</h4>
                     <div class="textwidget custom-html-widget">
                       <div class="footer-contact-wrap">
-                        <p>4140 Parker Rd. Allentown, New Mexico 31134</p>
                         <ul class="list-wrap">
                           <li class="phone">
                             <i class="fas fa-phone"></i> +1 31-6555-0116
                           </li>
                           <li class="mail">
-                            <i class="fas fa-envelope"></i> Suxnix@example.com
+                            <i class="fas fa-envelope"></i>{" "}
+                            info@divinehealthcare.com
                           </li>
                           <li class="website">
-                            <i class="fas fa-globe"></i> www.suxnixdomain.com
+                            <i class="fas fa-globe"></i>{" "}
+                            www.divinehealthcare.com
                           </li>
                         </ul>
                       </div>
@@ -209,7 +176,7 @@ const Footer = () => {
             <div class="row align-items-center">
               <div class="col-md-7">
                 <div class="copyright-text">
-                  <p>Copyright © 2022 Suxnix All Rights Reserved.</p>
+                  <p>Copyright © 2022 divinehealthcare All Rights Reserved.</p>
                 </div>
               </div>
               <div class="col-md-5">
