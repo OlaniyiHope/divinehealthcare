@@ -197,7 +197,7 @@ const Home = () => {
                                       fontWeight: "500",
                                     }}
                                   >
-                                    Arthritis & Stroke
+                                    Arthritis
                                   </a>
                                 </div>
                               </div>
@@ -313,7 +313,8 @@ const Home = () => {
                                 >
                                   <img
                                     decoding="async"
-                                    src="wp-content/uploads/2022/09/group10.png"
+                                    // src="wp-content/uploads/2022/09/group10.png"
+                                    src="wp-content/uploads/2022/09/repair.png"
                                     alt=""
                                   />
                                 </div>
@@ -345,7 +346,7 @@ const Home = () => {
                                                 fontSize: "20px",
                                               }}
                                             >
-                                              strengthens Men Organ
+                                              Powerful blend of natural herbs
                                             </li>
                                             <li
                                               style={{
@@ -353,8 +354,8 @@ const Home = () => {
                                                 fontSize: "20px",
                                               }}
                                             >
-                                              Increase stability of erection
-                                              during intercourse
+                                              Supports overall health and
+                                              wellness
                                             </li>
                                             <li
                                               style={{
@@ -362,8 +363,7 @@ const Home = () => {
                                                 fontSize: "20px",
                                               }}
                                             >
-                                              Increase sperm motility and
-                                              viability of sperm cell
+                                              Detoxifies and purifies the body
                                             </li>
                                             <li
                                               style={{
@@ -371,12 +371,15 @@ const Home = () => {
                                                 fontSize: "20px",
                                               }}
                                             >
-                                              Promote cell growth and healing of
-                                              sex organ
+                                              Boost immune function
                                             </li>
-                                            <li style={{ color: "white" }}>
-                                              Ensure potency and increase
-                                              fertiity
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Promote healthy blood pressure
                                             </li>
                                           </ul>
                                         </div>
@@ -387,7 +390,7 @@ const Home = () => {
                                         <div class="features-icon">
                                           <i
                                             aria-hidden="true"
-                                            class="tp flaticon-test"
+                                            class="tp flaticon-tape-measure"
                                           ></i>{" "}
                                         </div>
                                         <div class="features-content">
@@ -395,7 +398,7 @@ const Home = () => {
                                             class="title"
                                             style={{ color: "white" }}
                                           >
-                                            INgredients
+                                            More benefits
                                           </h4>
                                           <ul>
                                             <li
@@ -404,7 +407,7 @@ const Home = () => {
                                                 fontSize: "20px",
                                               }}
                                             >
-                                              Garcinia Kola
+                                              Reverses signs of aging
                                             </li>
                                             <li
                                               style={{
@@ -412,7 +415,7 @@ const Home = () => {
                                                 fontSize: "20px",
                                               }}
                                             >
-                                              Tetrapleure tetraptera
+                                              Enhances energy levels
                                             </li>
                                             <li
                                               style={{
@@ -420,7 +423,7 @@ const Home = () => {
                                                 fontSize: "20px",
                                               }}
                                             >
-                                              Arista Kochia Albida
+                                              Improves skin quality
                                             </li>
                                             <li
                                               style={{
@@ -428,7 +431,15 @@ const Home = () => {
                                                 fontSize: "20px",
                                               }}
                                             >
-                                              Aframomum Melagueta
+                                              Aids in digestion
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Helps manage chronic conditions
                                             </li>
                                           </ul>
                                         </div>
@@ -447,296 +458,333 @@ const Home = () => {
               </div>
             </section>
             <section
-              class="elementor-section elementor-top-section elementor-element elementor-element-30a933c elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-              data-id="30a933c"
+              class="elementor-section elementor-top-section elementor-element elementor-element-54ab94f elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+              data-id="54ab94f"
               data-element_type="section"
+              id="ingredient"
             >
               <div class="elementor-container elementor-column-gap-no">
                 <div
-                  class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dd81f5b"
-                  data-id="dd81f5b"
+                  class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3b2ad98"
+                  data-id="3b2ad98"
                   data-element_type="column"
                 >
                   <div class="elementor-widget-wrap elementor-element-populated">
                     <div
-                      class="elementor-element elementor-element-41a413a elementor-widget elementor-widget-features-products"
-                      data-id="41a413a"
+                      class="elementor-element elementor-element-11b4b55 elementor-widget elementor-widget-ingredient"
+                      data-id="11b4b55"
                       data-element_type="widget"
-                      data-widget_type="features-products.default"
+                      data-widget_type="ingredient.default"
                     >
                       <div class="elementor-widget-container">
-                        <section id="paroller" class="features-products">
+                        <section class="ingredients-area">
                           <div class="container">
-                            <div class="features-products-wrap">
-                              <div class="row justify-content-center">
-                                <div class="col-lg-6 col-md-8">
-                                  <div class="features-products-thumb">
-                                    <div class="main-img">
-                                      <img
-                                        decoding="async"
-                                        src="wp-content/uploads/2022/09/work.png"
-                                        alt="img"
-                                      />
-                                    </div>
-                                    <img
-                                      decoding="async"
-                                      src="wp-content/uploads/2022/09/features_product_shape01.png"
-                                      alt="shape"
-                                      class="shape-img"
-                                    />
-                                  </div>
+                            <div class="row align-items-center justify-content-center">
+                              <div class="col-xl-5 col-lg-6 col-md-7">
+                                <div class="ingredients-img yoo">
+                                  <img
+                                    decoding="async"
+                                    src="wp-content/uploads/2022/09/product5.png"
+                                    alt=""
+                                  />
+                                  <img
+                                    decoding="async"
+                                    src="wp-content/uploads/2022/09/ingredients_shape.png"
+                                    alt=""
+                                    class="shape"
+                                  />
                                 </div>
-                                <div class="col-lg-6 col-md-10">
-                                  <div class="features-product-content">
-                                    <h2 class="title">
-                                      <a href="product/box-full-of-muscles/index.html">
-                                        Mix Purifier
-                                      </a>
-                                    </h2>
+                              </div>
 
-                                    <h6 class="features-product-quantity">
-                                      Benefits
-                                    </h6>
+                              <div class="col-xl-7 col-lg-9">
+                                <div class="ingredients-items-wrap">
+                                  <div class="section-title mb-60">
+                                    <h2 class="title">Mix Purifier</h2>
+                                  </div>
 
-                                    <ul>
-                                      <li>
-                                        Tackles urinary tract infection in men
-                                        and women
-                                      </li>
-                                      <li>Handles women discharge</li>
-                                      <li>Cares for skin infection</li>
-                                      <li>Boost fertility in men and women</li>
-                                    </ul>
-                                    {/*} <h6 class="features-product-quantity">
-                                      Ingredients
-                                    </h6>
-
-                                    <ul>
-                                      <li>Allium Sativum</li>
-                                      <li>Zingiber Officinale</li>
-                                      <li>Cymbopogen Citrates</li>
-                                      <li>Panax Quinquefolius</li>
-                                    </ul>*/}
-                                    <div class="features-product-bottom">
-                                      <a
-                                        href="checkout/indexe038.html?add-to-cart=82"
-                                        class="btn"
+                                  <div class="row justify-content-center justify-content-lg-start">
+                                    <div class="col-md-6 col-sm-8">
+                                      <div
+                                        class="ingredients-item wow fadeInUp"
+                                        data-wow-delay=".2s"
                                       >
-                                        Order Now
-                                      </a>
-                                      <span class="price">
-                                        <del>
-                                          <span class="woocommerce-Price-amount amount">
-                                            <span class="woocommerce-Price-currencySymbol">
-                                              N
-                                            </span>
-                                            20,000
-                                          </span>
-                                        </del>{" "}
-                                        <span class="woocommerce-Price-amount amount">
-                                          <span class="woocommerce-Price-currencySymbol">
-                                            N
-                                          </span>
-                                          40,000
-                                        </span>
-                                      </span>
+                                        <div class="ingredients-content">
+                                          <h5 class="title">Health Benefit</h5>
+
+                                          <ul>
+                                            <li>
+                                              {" "}
+                                              Tackles urinary tract infection in
+                                              men and women
+                                            </li>
+                                            <li>Handles women discharge</li>
+                                            <li>Cares for skin infection</li>
+                                            <li>
+                                              Boost fertility in men and women
+                                            </li>
+                                          </ul>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-8">
+                                      <div
+                                        class="ingredients-item wow fadeInUp"
+                                        data-wow-delay="0.3s"
+                                      >
+                                        <div class="ingredients-content">
+                                          <h5 class="title">Ingredients</h5>
+
+                                          <ul>
+                                            <li>Allium Sativum</li>
+                                            <li>Zingiber Officinale</li>
+                                            <li>Cymbopogen Citrates</li>
+                                            <li>Panax Quinquefolius</li>
+                                          </ul>
+                                        </div>
+                                      </div>
                                     </div>
                                   </div>
                                 </div>
                               </div>
-                            </div>
-
-                            {/*}  <div class="features-products-wrap">
-                              <div class="row justify-content-center">
-                                <div class="col-lg-6 col-md-8">
-                                  <div class="features-products-thumb">
-                                    <div class="main-img">
-                                      <img
-                                        decoding="async"
-                                        src="wp-content/uploads/2022/09/features_product02.png"
-                                        alt="img"
-                                      />
-                                    </div>
-                                    <img
-                                      decoding="async"
-                                      src="wp-content/uploads/2022/09/features_product_shape02.png"
-                                      alt="shape"
-                                      class="shape-img"
-                                    />
-                                  </div>
-                                </div>
-                                <div class="col-lg-6 col-md-10">
-                                  <div class="features-product-content">
-                                    <h2 class="title">
-                                      <a href="product/antiaging-and-longevity/index.html">
-                                        Protein Whey
-                                      </a>
-                                    </h2>
-
-                                    <h6 class="features-product-quantity">
-                                      High-strength, 4000IU
-                                    </h6>
-
-                                    <p>
-                                      Vitamin D3 supplements are commonly
-                                      recommended for people at risk for vitamin
-                                      D deficiency. Low vitamin D levels cause
-                                      depression, fatigue, and muscle weakness.
-                                      Over time, vitamin D deficiency can lead
-                                      to weak bones, rickets in children, and
-                                      osteoporosis in adults.
-                                    </p>
-
-                                    <div class="features-product-bottom">
-                                      <a
-                                        href="checkout/index70f8.html?add-to-cart=79"
-                                        class="btn"
-                                      >
-                                        Order Now
-                                      </a>
-                                      <span class="price">
-                                        <del>
-                                          <span class="woocommerce-Price-amount amount">
-                                            <span class="woocommerce-Price-currencySymbol">
-                                              &#036;
-                                            </span>
-                                            39.99
-                                          </span>
-                                        </del>{" "}
-                                        <span class="woocommerce-Price-amount amount">
-                                          <span class="woocommerce-Price-currencySymbol">
-                                            &#036;
-                                          </span>
-                                          19.99
-                                        </span>
-                                      </span>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>*/}
-
-                            {/*} <div class="features-products-wrap">
-                              <div class="row justify-content-center">
-                                <div class="col-lg-6 col-md-8">
-                                  <div class="features-products-thumb">
-                                    <div class="main-img">
-                                      <img
-                                        decoding="async"
-                                        src="wp-content/uploads/2022/09/features_product03.png"
-                                        alt="img"
-                                      />
-                                    </div>
-                                    <img
-                                      decoding="async"
-                                      src="wp-content/uploads/2022/09/features_product_shape03.png"
-                                      alt="shape"
-                                      class="shape-img"
-                                    />
-                                  </div>
-                                </div>
-                                <div class="col-lg-6 col-md-10">
-                                  <div class="features-product-content">
-                                    <h2 class="title">
-                                      <a href="product/body-shaping-foods/index.html">
-                                        Max Mass 3xl
-                                      </a>
-                                    </h2>
-
-                                    <h6 class="features-product-quantity">
-                                      High-strength, 3000IU
-                                    </h6>
-
-                                    <p>
-                                      Vitamin D3 supplements are commonly
-                                      recommended for people at risk for vitamin
-                                      D deficiency. Low vitamin D levels cause
-                                      depression, fatigue, and muscle weakness.
-                                      Over time, vitamin D deficiency can lead
-                                      to weak bones, rickets in children, and
-                                      osteoporosis in adults.
-                                    </p>
-
-                                    <div class="features-product-bottom">
-                                      <a
-                                        href="checkout/index6b8f.html?add-to-cart=86"
-                                        class="btn"
-                                      >
-                                        Order Now
-                                      </a>
-                                      <span class="price">
-                                        <del>
-                                          <span class="woocommerce-Price-amount amount">
-                                            <span class="woocommerce-Price-currencySymbol">
-                                              &#036;
-                                            </span>
-                                            49.99
-                                          </span>
-                                        </del>{" "}
-                                        <span class="woocommerce-Price-amount amount">
-                                          <span class="woocommerce-Price-currencySymbol">
-                                            &#036;
-                                          </span>
-                                          29.99
-                                        </span>
-                                      </span>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>*/}
-                          </div>
-                          <div class="fp-shapes-wrap">
-                            <div class="fp-shape-one">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2022/09/features_sec_shape01.png"
-                                alt="shape"
-                                class="paroller"
-                                data-paroller-factor="0.25"
-                                data-paroller-factor-lg="0.20"
-                                data-paroller-factor-md="0.25"
-                                data-paroller-factor-sm="0.10"
-                                data-paroller-type="foreground"
-                                data-paroller-direction="vertical"
-                              />
-                            </div>
-
-                            <div class="fp-shape-two">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2022/09/features_sec_shape02.png"
-                                alt="shape"
-                                class="paroller"
-                                data-paroller-factor="-0.25"
-                                data-paroller-factor-lg="0.20"
-                                data-paroller-factor-md="0.25"
-                                data-paroller-factor-sm="0.10"
-                                data-paroller-type="foreground"
-                                data-paroller-direction="vertical"
-                              />
-                            </div>
-
-                            <div class="fp-shape-three">
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2022/09/features_sec_shape03.png"
-                                alt="shape"
-                                class="paroller"
-                                data-paroller-factor="0.25"
-                                data-paroller-factor-lg="0.20"
-                                data-paroller-factor-md="0.25"
-                                data-paroller-factor-sm="0.10"
-                                data-paroller-type="foreground"
-                                data-paroller-direction="vertical"
-                              />
                             </div>
                           </div>
-                          <div class="fp-circle one"></div>
-                          <div class="fp-circle two"></div>
-                          <div class="fp-circle three"></div>
-                          <div class="fp-circle four"></div>
-                          <div class="fp-circle five"></div>
+                        </section>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <section
+              class="elementor-section elementor-top-section elementor-element elementor-element-be24124 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
+              data-id="be24124"
+              data-element_type="section"
+            >
+              <div class="elementor-container elementor-column-gap-no">
+                <div
+                  class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-faa853f"
+                  data-id="faa853f"
+                  data-element_type="column"
+                >
+                  <div class="elementor-widget-wrap elementor-element-populated">
+                    <div
+                      class="elementor-element elementor-element-9690b0f elementor-widget elementor-widget-formula"
+                      data-id="9690b0f"
+                      data-element_type="widget"
+                      data-widget_type="formula.default"
+                    >
+                      <div class="elementor-widget-container">
+                        <section
+                          class="formula-area formula-bg"
+                          data-background="https://themegenix.net/wp/suxnix/wp-content/uploads/2022/09/formula_bg.jpg"
+                        >
+                          <div class="container">
+                            <div class="row align-items-center">
+                              <div class="col-lg-6 order-0 order-lg-2">
+                                <div class="formula-img">
+                                  <img
+                                    decoding="async"
+                                    src="wp-content/uploads/2022/09/female.png"
+                                    alt=""
+                                  />
+                                </div>
+                              </div>
+
+                              {/*}  <div class="col-lg-6">
+                              <div class="formula-content">
+                                <div class="section-title white-title mb-50">
+                                  <h2
+                                    class="title"
+                                    style={{ color: "white" }}
+                                  >
+                                    Health Benefit
+                                  </h2>
+                                </div>
+
+                                <ul class="formula-list list-wrap">
+                                  <li style={{ color: "white" }}>
+                                    Boost blood and immunity
+                                  </li>
+                                  <li style={{ color: "white" }}>
+                                    Good for sickle cell
+                                  </li>
+                                  <li style={{ color: "white" }}>
+                                    Boost fertility for both men and women
+                                  </li>
+                                  <li style={{ color: "white" }}>
+                                    Serves as Anti-oxidant
+                                  </li>
+                                  <li>Anti-inflammatory</li>
+                                  <li style={{ color: "white" }}>
+                                    Promote digestion
+                                  </li>
+                                  <li style={{ color: "white" }}>
+                                    Prevent diseases
+                                  </li>
+                                </ul>
+
+                                <a
+                                  href="/contact"
+                                  target="_self"
+                                  rel="nofollow"
+                                  class="btn btn-two"
+                                >
+                                  Know More{" "}
+                                </a>
+                              </div>
+                            </div>*/}
+                              <div class="col-xxl-6 col-lg-7">
+                                <div class="features-items-wrap">
+                                  <div class="row justify-content-center">
+                                    <div class="col-md-6 col-sm-8">
+                                      <div class="features-item">
+                                        <div class="features-icon">
+                                          <i
+                                            aria-hidden="true"
+                                            class="tp flaticon-tape-measure"
+                                          ></i>{" "}
+                                        </div>
+                                        <div class="features-content">
+                                          <h2
+                                            class="title"
+                                            style={{ color: "white" }}
+                                          >
+                                            Benefit of Female Care
+                                          </h2>
+
+                                          <ul>
+                                            <li style={{ color: "white" }}>
+                                              Handles subserosal & Submucosal
+                                              Fibroid
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Handles intramural Fibroid
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Cervical health challenge
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Stops heavy pain during
+                                              menstruation
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Handles lower back pain
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Stops pain during sexual
+                                              intercourse
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Enhance female infertility
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Hormonal inbalance rectifier
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Corrects irregular menstruation
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Virgina discharge
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Stop unhealthy breast milk
+                                              discharge
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Handles miscarriage cases
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Sized Menstruation
+                                            </li>
+                                            <li style={{ color: "white" }}>
+                                              Eradicate pelvic muscles pain
+                                            </li>
+                                          </ul>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-8">
+                                      <div class="features-item">
+                                        <div class="features-icon">
+                                          <i
+                                            aria-hidden="true"
+                                            class="tp flaticon-test"
+                                          ></i>{" "}
+                                        </div>
+                                        <div class="features-content">
+                                          <h2
+                                            class="title"
+                                            style={{ color: "white" }}
+                                          >
+                                            Ingredients
+                                          </h2>
+                                          <ul>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Citruslimonum
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Hydrasis canadensis
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Natural honey
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Echinacea
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Fennel.Cinnamon
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Chamomile
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Fenugreek
+                                            </li>
+                                          </ul>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
                         </section>
                       </div>
                     </div>
@@ -1318,7 +1366,7 @@ const Home = () => {
                           <div class="container">
                             <div class="row align-items-center justify-content-center">
                               <div class="col-xl-5 col-lg-6 col-md-7">
-                                <div class="ingredients-img">
+                                <div class="ingredients-img yoo">
                                   <img
                                     decoding="async"
                                     src="wp-content/uploads/2022/09/procare.png"
@@ -1336,10 +1384,6 @@ const Home = () => {
                               <div class="col-xl-7 col-lg-9">
                                 <div class="ingredients-items-wrap">
                                   <div class="section-title mb-60">
-                                    <p class="sub-title">
-                                      .. Increased Energy With Suxnix ..
-                                    </p>
-
                                     <h2 class="title">Procare</h2>
                                   </div>
 
@@ -1353,10 +1397,14 @@ const Home = () => {
                                           <h5 class="title">Health Benefit</h5>
 
                                           <ul>
-                                            <li>improve urinary function</li>
-                                            <li>handles enlarged prostrate</li>
-                                            <li>boost libido in men</li>
-                                            <li>boost libido in men</li>
+                                            <li>Improve urinary function</li>
+                                            <li>Handles enlarged prostrate</li>
+                                            <li>Boost libido in men</li>
+                                            <li>Reduce inflammation</li>
+                                            <li>
+                                              Support kidney and liver function
+                                              in man
+                                            </li>
                                           </ul>
                                         </div>
                                       </div>
@@ -1371,9 +1419,9 @@ const Home = () => {
 
                                           <ul>
                                             <li>Pyguem Africana</li>
-                                            <li>Serona repean</li>
-                                            <li>origano volgae</li>
-                                            <li>origano volgae</li>
+                                            <li>Serenoa Repens</li>
+                                            <li>Origanum Volgare</li>
+                                            <li>Carica Papaya</li>
                                           </ul>
                                         </div>
                                       </div>
@@ -1425,7 +1473,7 @@ const Home = () => {
                                 </div>
                               </div>
 
-                              <div class="col-lg-6">
+                              {/*}  <div class="col-lg-6">
                                 <div class="formula-content">
                                   <div class="section-title white-title mb-50">
                                     <h2
@@ -1466,6 +1514,150 @@ const Home = () => {
                                   >
                                     Know More{" "}
                                   </a>
+                                </div>
+                              </div>*/}
+                              <div class="col-xxl-6 col-lg-7">
+                                <div class="features-items-wrap">
+                                  <div class="row justify-content-center">
+                                    <div class="col-md-6 col-sm-8">
+                                      <div class="features-item">
+                                        <div class="features-icon">
+                                          <i
+                                            aria-hidden="true"
+                                            class="tp flaticon-tape-measure"
+                                          ></i>{" "}
+                                        </div>
+                                        <div class="features-content">
+                                          <h2
+                                            class="title"
+                                            style={{ color: "white" }}
+                                          >
+                                            Health Benefit
+                                          </h2>
+
+                                          <ul>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Boost blood and immunity
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Boost fertility for both men and
+                                              women
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Serves as Anti-oxidant
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Promote digestion
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Prevent diseases
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Assist in fatigue and weakness
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Releases stress
+                                            </li>
+                                          </ul>
+                                        </div>
+                                      </div>
+                                    </div>
+                                    <div class="col-md-6 col-sm-8">
+                                      <div class="features-item">
+                                        <div class="features-icon">
+                                          <i
+                                            aria-hidden="true"
+                                            class="tp flaticon-test"
+                                          ></i>{" "}
+                                        </div>
+                                        <div class="features-content">
+                                          <h2
+                                            class="title"
+                                            style={{ color: "white" }}
+                                          >
+                                            Ingredients
+                                          </h2>
+                                          <ul>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Ficus Capensis
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Alchornea Cordifolia
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Newbouldia laevis
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Alstoonia boonei
+                                            </li>
+                                            <li
+                                              style={{
+                                                color: "white",
+                                                fontSize: "20px",
+                                              }}
+                                            >
+                                              Sorghum bicolor
+                                            </li>
+                                          </ul>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
                                 </div>
                               </div>
                             </div>

@@ -1,0 +1,20 @@
+@media (max-width: 600px) {
+  .main-img img {
+    margin: 0 auto !important;
+    display: block;
+  }
+
+  .yoo {
+    margin: auto !important;
+  }
+
+  .yoo img {
+    margin: auto !important;
+  }
+
+  .shape-img {
+    margin: 0 auto;
+    display: block;
+    max-width: 100%;
+  }
+}
