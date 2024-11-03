@@ -192,6 +192,16 @@ const Hiv = () => {
                       >
                         <a className="nav-link">Reviews (1)</a>
                       </li>
+                      <li
+                        className={`reviews_tab nav-item ${
+                          activeTab === "package" ? "active" : ""
+                        }`}
+                        onClick={() => setActiveTab("package")}
+                        role="tab"
+                        aria-controls="tab-package"
+                      >
+                        <a className="nav-link">Packages</a>
+                      </li>
                     </ul>
                     <div className="tab-content">
                       {activeTab === "description" && (
@@ -204,55 +214,260 @@ const Hiv = () => {
                           <h2>Description</h2>
 
                           <div class="product-desc-content">
-                            <h4 class="title">The true strength of Suxnix :</h4>
+                            <h4 class="title">Introduction:</h4>
+
                             <p>
-                              Whey Protein Isolates (WPIs) are the purest form
-                              of whey protein that currently exists. WPIs are
-                              costly to use, but rate among the best proteins
-                              that money can buy. That’s why they’re the first
-                              ingredient you read on the Gold Standard 100%
-                              Whey™ label. By using WPI as the primary
-                              ingredient along with premium ultra-filtered whey
-                              protein concentrate (WPC), we’re able to pack 24
-                              grams of protein into every serving to support
-                              your muscle building needs after training.
-                              ON’attention to detail also extends to mixability.
-                              This superior quality powder has been instantized
-                              to mix easliy using a shaker cup or just a glass
-                              and spoon. There’s no doubt that this is the
-                              standard by which all other whey proteins are
-                              measured.
+                              The HBV kit is formulated to eliminate the
+                              inflammation of the liver and viral infections.
+                              There are five main hepatitis viruses, referred to
+                              as types A, B, C, D and E. These five types are of
+                              greatest concern because of the burden of illness
+                              and death they cause and the potential for
+                              outbreaks and epidemic spread. In particular,
+                              types B and C lead to chronic disease in hundreds
+                              of millions of people and, together, are the most
+                              common cause of liver cirrhosis and cancer.
                             </p>
-                            <h4 class="title">Suxnix the basics :</h4>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/liver.webp"
+                              alt=""
+                              class="main-img"
+                            />
+                            <h4 class="title">
+                              Here's what this HEPATITIS CURATIVE SUPPLEMENTS
+                              can do to help you:
+                            </h4>
+                            <h6>Finger indication:</h6>
                             <ul class="product-desc-list list-wrap">
                               <li>
-                                82% Protein by Weight (24g of Protein Per 31.5g
-                                Serving Size).
+                                Cures any type of hepatitis (A, B, C, D and E)
                               </li>
                               <li>
-                                Whey Protein Isolates (WPI) Main Ingredient.
+                                Reverses the effects of hepatitis in that body
+                              </li>
+                              <li>Cures chronic hepatitis</li>
+                              <li>Cures fatty liver</li>
+                              <li>
+                                Restores the liver back to its normal healthy
+                                condition
                               </li>
                               <li>
-                                Whey Protein Micro-functions from Whey Protein
-                                Isolate and Ultra-Filtered Whey Protein
-                                Concentrate.
+                                {" "}
+                                Clears out all signs and symptoms the patient
+                                might have been observing
                               </li>
+                              <li> Averts any chance of liver cancer</li>
+                              <li>Averts cirrhosis and reverts its effects</li>
                               <li>
-                                Over 4g of Naturally Occurring Glutamine &#038;
-                                Glutamic Acid in Each Serving.
-                              </li>
-                              <li>
-                                More than 5g of the Naturally Occurring Branched
-                                Chain Amino Acids (BCAAs) Leucine, Isoleucine,
-                                and Valine in Each Serving.
-                              </li>
-                              <li>The “Gold Standard” for Protein Quality.</li>
-                              <li>Banned Substance Tested Protein</li>
-                              <li>
-                                French Vanilla Creme Flavored Whey Protein
-                                Powder
+                                It also cures ulcer and helps blood pressure
                               </li>
                             </ul>
+
+                            <br></br>
+                            <h4 class="title">
+                              HOW TO GET THE HEPATITIS CURATIVE SUPPLEMENTS
+                              (bold in color)
+                            </h4>
+                            <p>
+                              I know you may be wondering if you will pay first
+                              before you get this product. NO! You don't have to
+                              pay first. Once you place your order the items
+                              would be sent to your state and once it gets to
+                              your state our courier agent would contact
+                              you,deliver the products to you at your provided
+                              address at no extra cost. So, once our delivery
+                              agent brings it to you, You would receive your
+                              products and pay at the point of delivery.
+                              <br></br>
+                              <br></br>
+                              <h6>HOW TO PLACE YOUR ORDER</h6>
+                              <br></br>
+                              There are three ways to make your order so you
+                              choose the most convenient;<br></br>
+                            </p>
+                            <p>
+                              {" "}
+                              1. You can click this Whatsapp Logo to Chat with
+                              Pharmacst Mary
+                            </p>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/whatsapp.jpeg"
+                              alt=""
+                              class="main-img"
+                              style={{ width: "250px", height: "80px" }}
+                            />
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/bar.jpeg"
+                              alt=""
+                              class="main-img"
+                              style={{ width: "250px", height: "250px" }}
+                            />
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <p>
+                              {" "}
+                              2. OR Call/Text /Send your Address as SMS to
+                              08113201322
+                            </p>
+
+                            <p> 3. OR Fill our form below</p>
+
+                            <div id="review_form_wrapper">
+                              <div id="review_form" class="comment-input">
+                                <div id="respond" class="comment-respond">
+                                  <span
+                                    id="reply-title"
+                                    class="comment-reply-title"
+                                  >
+                                    Add a review{" "}
+                                    <small>
+                                      <a
+                                        rel="nofollow"
+                                        id="cancel-comment-reply-link"
+                                        href="index.html#respond"
+                                        style={{ display: "none" }}
+                                      >
+                                        Cancel reply
+                                      </a>
+                                    </small>
+                                  </span>
+                                  <form
+                                    action="https://themegenix.net/wp/suxnix/wp-comments-post.php"
+                                    method="post"
+                                    id="commentform"
+                                    class="comment-form"
+                                    novalidate
+                                  >
+                                    <p class="comment-notes">
+                                      <span id="email-notes">
+                                        Your email address will not be
+                                        published.
+                                      </span>{" "}
+                                      <span class="required-field-message">
+                                        Required fields are marked{" "}
+                                        <span class="required">*</span>
+                                      </span>
+                                    </p>
+                                    <p class="comment-form-author">
+                                      <label for="author">
+                                        Name&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="author"
+                                          name="author"
+                                          type="text"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Email&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Save my name, email, and website in this
+                                        browser for the next time I comment.
+                                      </label>
+                                    </p>
+                                    <div class="comment-form-rating">
+                                      <label for="rating">
+                                        Your rating&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <select
+                                        class="d-none"
+                                        name="rating"
+                                        id="rating"
+                                        required
+                                      >
+                                        <option value="">Rate&hellip;</option>
+                                        <option value="5">Perfect</option>
+                                        <option value="4">Good</option>
+                                        <option value="3">Average</option>
+                                        <option value="2">Not that bad</option>
+                                        <option value="1">Very poor</option>
+                                      </select>
+                                    </div>
+                                    <p class="comment-form-comment">
+                                      <label for="comment">
+                                        Your review&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <textarea
+                                          id="comment"
+                                          name="comment"
+                                          cols="45"
+                                          rows="8"
+                                          required
+                                        ></textarea>
+                                      </div>
+                                    </p>
+                                    <p class="form-submit">
+                                      <input
+                                        name="submit"
+                                        type="submit"
+                                        id="submit"
+                                        class="submit"
+                                        value="Submit Review"
+                                      />{" "}
+                                      <input
+                                        type="hidden"
+                                        name="comment_post_ID"
+                                        value="83"
+                                        id="comment_post_ID"
+                                      />
+                                      <input
+                                        type="hidden"
+                                        name="comment_parent"
+                                        id="comment_parent"
+                                        value="0"
+                                      />
+                                    </p>
+                                  </form>{" "}
+                                </div>
+                              </div>
+                            </div>
+                            <br></br>
+                            <br></br>
+                            <p>
+                              IF YOU HAVE ANY QUESTIONS OR CLARIFICATIONS BEFORE
+                              YOU ORDER, CALL ME ON: 08113201322<br></br>
+                              NOTE: Payment is made at the point of delivery.
+                              Please do not place an order if you are not ready
+                              to pay and receive your product within the next 1
+                              or 2 days. Please in case you call and the number
+                              is busy, kindly send me a text message and I will
+                              reply you. Due to demands, the phone number is
+                              always very busy.( smaller text)
+                            </p>
                           </div>
                         </div>
                       )}
@@ -266,67 +481,22 @@ const Hiv = () => {
                           <div id="reviews" class="woocommerce-Reviews">
                             <div id="comments">
                               <h2 class="woocommerce-Reviews-title">
-                                1 review for <span>Optimum Nutrition</span>{" "}
+                                2 review for <span>Hepatitis</span>{" "}
                               </h2>
-
-                              <ol class="commentlist list-wrap">
-                                <li
-                                  class="review byuser comment-author-admin bypostauthor even thread-even depth-1"
-                                  id="li-comment-9"
-                                >
-                                  <div id="comment-9" class="comment_container">
-                                    <img
-                                      alt=""
-                                      src="https://secure.gravatar.com/avatar/2e2a0b7d5fedd5648f765fd38d2a3d3f?s=60&amp;d=mm&amp;r=g"
-                                      srcset="https://secure.gravatar.com/avatar/2e2a0b7d5fedd5648f765fd38d2a3d3f?s=120&#038;d=mm&#038;r=g 2x"
-                                      class="avatar avatar-60 photo"
-                                      height="60"
-                                      width="60"
-                                      loading="lazy"
-                                      decoding="async"
-                                    />
-                                    <div class="comment-text">
-                                      <div
-                                        class="star-rating"
-                                        role="img"
-                                        aria-label="Rated 5 out of 5"
-                                      >
-                                        <span style={{ width: "100%" }}>
-                                          Rated{" "}
-                                          <strong class="rating">5</strong> out
-                                          of 5
-                                        </span>
-                                      </div>
-                                      <p class="meta">
-                                        <strong class="woocommerce-review__author">
-                                          admin{" "}
-                                        </strong>
-                                        <span class="woocommerce-review__dash">
-                                          &ndash;
-                                        </span>{" "}
-                                        <time
-                                          class="woocommerce-review__published-date"
-                                          datetime="2022-09-07T17:24:09+00:00"
-                                        >
-                                          September 7, 2022
-                                        </time>
-                                      </p>
-
-                                      <div class="description">
-                                        <p>
-                                          Sed do eiusmod tempor incididunt ut
-                                          labore et dolore magna aliqua. Ut enim
-                                          ad minim veniam quis nostrud
-                                          exercitation ullamco laboris nisi ut
-                                          aliquip ex ea commodo consequat. Enim
-                                          ad minim veniam, quis nostrud
-                                          exercitation ullamco.
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </li>
-                              </ol>
+                              <br></br>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/hivreview.jpeg"
+                                alt=""
+                                style={{ width: "400px", height: "600px" }}
+                              />
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/hivreview2.jpeg"
+                                alt=""
+                                class="main-img"
+                                style={{ width: "400px", height: "600px" }}
+                              />
                             </div>
 
                             <div id="review_form_wrapper">
@@ -467,6 +637,58 @@ const Hiv = () => {
                                   </form>{" "}
                                 </div>
                               </div>
+                            </div>
+
+                            <div class="clear"></div>
+                          </div>
+                        </div>
+                      )}
+                      {activeTab === "package" && (
+                        <div
+                          class="tp-content-tab woocommerce-Tabs-panel woocommerce-Tabs-panel--package panel entry-content wc-tab"
+                          id="tab-package"
+                          role="tabpanel"
+                          aria-labelledby="tab-title-package"
+                        >
+                          <div id="package" class="woocommerce-package">
+                            <div id="comments">
+                              <h2 class="woocommerce-Reviews-title">
+                                Heere are the packages available and cost
+                              </h2>
+                              <br></br>
+                              <h6>1 REPAIR + 1 PROCARE 37,000 Naira</h6>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/p1.jpeg"
+                                alt=""
+                                style={{ width: "500px", height: "500px" }}
+                              />
+                              <h6>2 PROCARE 1 REPAIR 47,000 naira</h6>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/p2.jpeg"
+                                alt=""
+                                style={{ width: "500px", height: "500px" }}
+                              />
+                              <br></br>
+
+                              <p>The full packages come with guarantee</p>
+                              <p>
+                                The Number Of bottles Depends On The Severity Of
+                                The Condition<br></br>
+                                NOTE: The duration of treatment you are to use
+                                depends on the level of severity of your
+                                hepatitis<br></br>
+                                This Is Permanent Treatment That Clears The
+                                Viral Load So You Will Be Free From Sickness And
+                                Live A Normal Long Healthy Life<br></br>
+                                This treatment is for those that think it is
+                                finished after they discovered they have
+                                Hepatitis. don't lose hope.<br></br>
+                                When there’s life there’s hope take this simple
+                                step today by getting this treatment and you
+                                will have your testimonies very soon.
+                              </p>
                             </div>
 
                             <div class="clear"></div>
