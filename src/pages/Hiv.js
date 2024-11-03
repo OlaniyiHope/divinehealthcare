@@ -120,16 +120,19 @@ const Hiv = () => {
                     </h3>
                     <div class="inner-shop-details-price">
                       <span class="woocommerce-Price-amount amount">
-                        <span class="woocommerce-Price-currencySymbol">₦</span>
-                        20,000
+                        <span class="woocommerce-Price-currencySymbol">
+                          1 Repair + 1 Procare ₦
+                        </span>
+                        37,000
                       </span>
                     </div>
                     <div class="woocommerce-product-details__short-description">
                       <p>
-                        Suxnix food is food produced by methods complying with
-                        the standards of Rrganic farming. Standards vary Lorem
-                        ipsum dolor sit amet, consectetur adipiscing worldwide,
-                        but organic farming.
+                        This treatment is for those that think it is finished
+                        after they discovered they have Hepatitis B, with our
+                        herbal products and diet plan which we give free of
+                        charge you are certain to reverse any type of liver
+                        issue
                       </p>
                     </div>
 
@@ -190,7 +193,7 @@ const Hiv = () => {
                         role="tab"
                         aria-controls="tab-reviews"
                       >
-                        <a className="nav-link">Reviews (1)</a>
+                        <a className="nav-link">Reviews (2)</a>
                       </li>
                       <li
                         className={`reviews_tab nav-item ${
@@ -217,7 +220,16 @@ const Hiv = () => {
                             <h4 class="title">
                               Did You Test Positive to Hepatitis?{" "}
                             </h4>
-
+                            <h6>
+                              HERE IS A PERFECT & PERMANENT CURE FOR HEPATITIS
+                              A, B & C AND FATTY LIVER DISEASE
+                            </h6>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/liver.webp"
+                              alt=""
+                              class="main-img"
+                            />
                             <p>
                               The HBV kit is formulated to eliminate the
                               inflammation of the liver and viral infections.
@@ -230,12 +242,59 @@ const Hiv = () => {
                               of millions of people and, together, are the most
                               common cause of liver cirrhosis and cancer.
                             </p>
+
+                            <br></br>
+                            <h4 class="title">symptoms</h4>
+                            <p>
+                              Signs and symptoms of hepatitis B range from mild
+                              to severe. They usually appear about one to four
+                              months after you’ve been infected, although you
+                              could see them as early as two weeks
+                              post-infection. Some people, usually young
+                              children, may not have any symptoms.
+                            </p>
+                            <p>
+                              <span>
+                                Hepatitis B signs and symptoms may include:
+                              </span>
+                            </p>
+                            <ul class="product-desc-list list-wrap">
+                              <li>Abdominal Pain</li>
+                              <li>Dark Urine</li>
+                              <li>Fever</li>
+                              <li>Joint Pain</li>
+                              <li>Loss of appetite</li>
+                              <li> Weakness and fatigue</li>
+                              <li> Yellowing of your skin</li>
+                              <li>Vomiting</li>
+                              <li>Nausea</li>
+                            </ul>
+                            <br></br>
+
+                            <h4 class="title">
+                              DISCOVERY OF A HERBAL SOLUTION THAT CURES ALL
+                              TYPES OF VIRAL HEPATITIS & FATTY LIVER WITH NO
+                              SIDE EFFECTS
+                            </h4>
+                            <h6> INTRODUCING HEPATITIS CURATIVE SUPPLEMENTS</h6>
                             <img
                               decoding="async"
-                              src="wp-content/uploads/2022/09/liver.webp"
+                              src="wp-content/uploads/2022/09/p1.jpeg"
                               alt=""
-                              class="main-img"
+                              style={{ width: "500px", height: "500px" }}
                             />
+
+                            <p>
+                              This treatment is for those that think it is
+                              finished after they discovered they have Hepatitis
+                              B. When there’s life there’s hope and whatever we
+                              do living on earth are risks so I implore you to
+                              take this simple step today by getting this
+                              treatment and you will have your testimonies very
+                              soon. I ASSURE YOU WITH OUR HERBAL PRODUCTS AND
+                              DIET PLAN WHICH WE GIVE FREE OF CHARGE, YOU ARE
+                              CERTAIN TO REVERSE ANY TYPE OF LIVER ISSUE
+                            </p>
                             <h4 class="title">
                               Here's what this HEPATITIS CURATIVE SUPPLEMENTS
                               can do to help you:
@@ -265,7 +324,6 @@ const Hiv = () => {
                                 It also cures ulcer and helps blood pressure
                               </li>
                             </ul>
-
                             <br></br>
                             <h4 class="title">
                               HOW TO GET THE HEPATITIS CURATIVE SUPPLEMENTS
@@ -325,7 +383,7 @@ const Hiv = () => {
                                     id="reply-title"
                                     class="comment-reply-title"
                                   >
-                                    Add a review{" "}
+                                    Place order for DIvine Health Supplements
                                     <small>
                                       <a
                                         rel="nofollow"
@@ -398,60 +456,89 @@ const Hiv = () => {
                                         browser for the next time I comment.
                                       </label>
                                     </p>
-                                    <div class="comment-form-rating">
-                                      <label for="rating">
-                                        Your rating&nbsp;
-                                        <span class="required">*</span>
-                                      </label>
-                                      <select
-                                        class="d-none"
-                                        name="rating"
-                                        id="rating"
-                                        required
-                                      >
-                                        <option value="">Rate&hellip;</option>
-                                        <option value="5">Perfect</option>
-                                        <option value="4">Good</option>
-                                        <option value="3">Average</option>
-                                        <option value="2">Not that bad</option>
-                                        <option value="1">Very poor</option>
-                                      </select>
-                                    </div>
-                                    <p class="comment-form-comment">
-                                      <label for="comment">
-                                        Your review&nbsp;
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Full Address&nbsp;
                                         <span class="required">*</span>
                                       </label>
                                       <div class="comment-field">
-                                        <textarea
-                                          id="comment"
-                                          name="comment"
-                                          cols="45"
-                                          rows="8"
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
                                           required
-                                        ></textarea>
+                                        />
                                       </div>
                                     </p>
-                                    <p class="form-submit">
+
+                                    <p class="comment-form-cookies-consent">
                                       <input
-                                        name="submit"
-                                        type="submit"
-                                        id="submit"
-                                        class="submit"
-                                        value="Submit Review"
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
                                       />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Full Address
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Phone Number&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
                                       <input
-                                        type="hidden"
-                                        name="comment_post_ID"
-                                        value="83"
-                                        id="comment_post_ID"
-                                      />
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Phone NUmber
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Request/Comment&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
                                       <input
-                                        type="hidden"
-                                        name="comment_parent"
-                                        id="comment_parent"
-                                        value="0"
-                                      />
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Request/Comment
+                                      </label>
                                     </p>
                                   </form>{" "}
                                 </div>
