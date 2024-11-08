@@ -156,7 +156,7 @@ function App() {
           />
           <Route
             exact
-            path="/product/fertility-booster"
+            path="/product/erectile-dysfunction"
             element={
               <>
                 <PageTitleSetter />
