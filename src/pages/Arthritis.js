@@ -216,33 +216,52 @@ const Arthritis = () => {
 
                           <div class="product-desc-content">
                             <h4 class="title">
-                              Did You Test Positive to Hepatitis?{" "}
+                              Experiencing Arthritis, Rheumatism, Joint Pains
+                              and Body Pains?
                             </h4>
                             <h6>
-                              HERE IS A PERFECT & PERMANENT CURE FOR HEPATITIS
-                              A, B & C AND FATTY LIVER DISEASE
+                              Say Bye Bye to Pain, Fatigue and begin to Enjoy
+                              More Quality of Life. It’s a New Natural Joint
+                              care to Treat Arthritis, Rheumatism, Waist pain,
+                              Joint pain, Knee pain, Body tiredness, and General
+                              health Challenges Naturally… Once and for all
                             </h6>
                             <img
                               decoding="async"
-                              src="wp-content/uploads/2022/09/liver.webp"
+                              src="wp-content/uploads/2022/09/j1.jpeg"
                               alt=""
                               class="main-img"
                             />
+                            <h4 class="title">JOINT CARE</h4>
                             <p>
-                              The HBV kit is formulated to eliminate the
-                              inflammation of the liver and viral infections.
-                              There are five main hepatitis viruses, referred to
-                              as types A, B, C, D and E. These five types are of
-                              greatest concern because of the burden of illness
-                              and death they cause and the potential for
-                              outbreaks and epidemic spread. In particular,
-                              types B and C lead to chronic disease in hundreds
-                              of millions of people and, together, are the most
-                              common cause of liver cirrhosis and cancer.
+                              Due to age and normal wear and tear in the body,
+                              there can be loss of lubrication at the joints,
+                              this can lead to bone touching each other which is
+                              the pain felt, this also leads to bone
+                              degradation. Joint care contains collagen which is
+                              the most important building protein in the body.
+                              this stimulates lubrication between the joints and
+                              heals any damaged connecting tissue, ligaments or
+                              tendons, this makes it different and very
+                              efficient compared to other temporary pain
+                              relieving drugs.
                             </p>
-
+                            <p>
+                              There's A Mineral You Should Consider, It is
+                              Unique – Very Powerful & Very Effective… It is
+                              said to be the Safest and most Reliable Natural
+                              Treatment so far. This Product is Fully Approved
+                              By NAFDAC
+                            </p>
                             <br></br>
-                            <h4 class="title">symptoms</h4>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/j2.jpeg"
+                              alt=""
+                              style={{ width: "300px", height: "400px" }}
+                              class="main-img"
+                            />
+                            {/*}   <h4 class="title">symptoms</h4>
                             <p>
                               Signs and symptoms of hepatitis B range from mild
                               to severe. They usually appear about one to four
@@ -266,67 +285,49 @@ const Arthritis = () => {
                               <li> Yellowing of your skin</li>
                               <li>Vomiting</li>
                               <li>Nausea</li>
-                            </ul>
+                            </ul>*/}
                             <br></br>
 
                             <h4 class="title">
                               DISCOVERY OF A HERBAL SOLUTION THAT CURES ALL
-                              TYPES OF VIRAL HEPATITIS & FATTY LIVER WITH NO
-                              SIDE EFFECTS
+                              TYPES OF Arthritis WITH NO SIDE EFFECTS
                             </h4>
-                            <h6> INTRODUCING HEPATITIS CURATIVE SUPPLEMENTS</h6>
+                            <h6> INTRODUCING Arthritis SUPPLEMENTS</h6>
                             <img
                               decoding="async"
-                              src="wp-content/uploads/2022/09/p1.jpeg"
+                              src="wp-content/uploads/2022/09/j2.jpeg"
                               alt=""
                               style={{ width: "500px", height: "500px" }}
                             />
 
                             <p>
                               This treatment is for those that think it is
-                              finished after they discovered they have Hepatitis
-                              B. When there’s life there’s hope and whatever we
-                              do living on earth are risks so I implore you to
-                              take this simple step today by getting this
-                              treatment and you will have your testimonies very
-                              soon. I ASSURE YOU WITH OUR HERBAL PRODUCTS AND
-                              DIET PLAN WHICH WE GIVE FREE OF CHARGE, YOU ARE
-                              CERTAIN TO REVERSE ANY TYPE OF LIVER ISSUE
+                              finished after they discovered they have
+                              Arthritis. When there’s life there’s hope and
+                              whatever we do living on earth are risks so I
+                              implore you to take this simple step today by
+                              getting this treatment and you will have your
+                              testimonies very soon. I ASSURE YOU WITH OUR
+                              HERBAL PRODUCTS AND DIET PLAN WHICH WE GIVE FREE
+                              OF CHARGE, YOU ARE CERTAIN TO REVERSE ANY TYPE OF
+                              ARTHRITIS
                             </p>
                             <h4 class="title">
-                              Here's what this HEPATITIS CURATIVE SUPPLEMENTS
-                              can do to help you:
+                              Here's what this ARTHRITIS SUPPLEMENTS can do to
+                              help you:
                             </h4>
                             <h6>Finger indication:</h6>
                             <ul class="product-desc-list list-wrap">
                               <li>
-                                Cures any type of hepatitis (A, B, C, D and E)
+                                It serves as important Mineral in your body
                               </li>
                               <li>
-                                Reverses the effects of hepatitis in that body
-                              </li>
-                              <li>Cures chronic hepatitis</li>
-                              <li>Cures fatty liver</li>
-                              <li>
-                                Restores the liver back to its normal healthy
-                                condition
-                              </li>
-                              <li>
-                                {" "}
-                                Clears out all signs and symptoms the patient
-                                might have been observing
-                              </li>
-                              <li> Averts any chance of liver cancer</li>
-                              <li>Averts cirrhosis and reverts its effects</li>
-                              <li>
-                                It also cures ulcer and helps blood pressure
+                                Boost your calcium, sodium, magnesium, zinc in
+                                your body
                               </li>
                             </ul>
                             <br></br>
-                            <h4 class="title">
-                              HOW TO GET THE HEPATITIS CURATIVE SUPPLEMENTS
-                              (bold in color)
-                            </h4>
+                            <h4 class="title">HOW TO GET THE SUPPLEMENTS</h4>
                             <p>
                               I know you may be wondering if you will pay first
                               before you get this product. NO! You don't have to

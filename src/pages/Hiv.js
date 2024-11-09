@@ -327,7 +327,6 @@ const Hiv = () => {
                             <br></br>
                             <h4 class="title">
                               HOW TO GET THE HEPATITIS CURATIVE SUPPLEMENTS
-                              (bold in color)
                             </h4>
                             <p>
                               I know you may be wondering if you will pay first
