@@ -380,7 +380,6 @@ const Ulcer = () => {
                             </p>
 
                             <p> 3. OR Fill our form below</p>
-
                             <div id="review_form_wrapper">
                               <div id="review_form" class="comment-input">
                                 <div id="respond" class="comment-respond">
@@ -389,16 +388,7 @@ const Ulcer = () => {
                                     class="comment-reply-title"
                                   >
                                     Place order for DIvine Health Supplements
-                                    <small>
-                                      <a
-                                        rel="nofollow"
-                                        id="cancel-comment-reply-link"
-                                        href="index.html#respond"
-                                        style={{ display: "none" }}
-                                      >
-                                        Cancel reply
-                                      </a>
-                                    </small>
+                                    <small></small>
                                   </span>
                                   <form
                                     action="https://themegenix.net/wp/suxnix/wp-comments-post.php"
@@ -407,19 +397,9 @@ const Ulcer = () => {
                                     class="comment-form"
                                     novalidate
                                   >
-                                    <p class="comment-notes">
-                                      <span id="email-notes">
-                                        Your email address will not be
-                                        published.
-                                      </span>{" "}
-                                      <span class="required-field-message">
-                                        Required fields are marked{" "}
-                                        <span class="required">*</span>
-                                      </span>
-                                    </p>
                                     <p class="comment-form-author">
                                       <label for="author">
-                                        Name&nbsp;
+                                        Full Name&nbsp;
                                         <span class="required">*</span>
                                       </label>
                                       <div class="comment-field">
@@ -519,7 +499,7 @@ const Ulcer = () => {
                                     </p>
                                     <p class="comment-form-email">
                                       <label for="email">
-                                        Request/Comment&nbsp;
+                                        Request/Order&nbsp;
                                         <span class="required">*</span>
                                       </label>
                                       <div class="comment-field">
@@ -542,7 +522,7 @@ const Ulcer = () => {
                                         value="yes"
                                       />{" "}
                                       <label for="wp-comment-cookies-consent">
-                                        Request/Comment
+                                        Request/Order
                                       </label>
                                     </p>
                                   </form>{" "}
