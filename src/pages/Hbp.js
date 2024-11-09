@@ -129,10 +129,12 @@ const Hbp = () => {
                     </div>
                     <div class="woocommerce-product-details__short-description">
                       <p>
-                        Suxnix food is food produced by methods complying with
-                        the standards of Rrganic farming. Standards vary Lorem
-                        ipsum dolor sit amet, consectetur adipiscing worldwide,
-                        but organic farming.
+                        Finally Discovered! A PROVEN Method To Control, Prevent
+                        And NORMALIZE YOUR BLOOD PRESSURE and TREAT STROKE
+                        Naturally WITHOUT USING DANGEROUS SUBSTANCES … IN 30
+                        DAYS OR LESS… Hello There, Are you suffering from High
+                        Blood Pressure, Angina, Palpitations, High Cholesterol
+                        or Heart Failure?
                       </p>
                     </div>
 
