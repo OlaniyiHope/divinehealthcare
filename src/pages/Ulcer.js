@@ -230,6 +230,7 @@ const Ulcer = () => {
                               decoding="async"
                               src="wp-content/uploads/2022/09/ulcer3.jpg"
                               alt=""
+                              style={{ marginBottom: "20px" }}
                               class="main-img"
                             />
                             <p>
@@ -282,10 +283,9 @@ const Ulcer = () => {
 
                             <h4 class="title">
                               DISCOVERY OF A HERBAL SOLUTION THAT CURES ALL
-                              TYPES OF VIRAL HEPATITIS & FATTY LIVER WITH NO
-                              SIDE EFFECTS
+                              TYPES OF ULCER WITH NO SIDE EFFECTS
                             </h4>
-                            <h6> INTRODUCING HEPATITIS CURATIVE SUPPLEMENTS</h6>
+                            <h6> INTRODUCING ULCER SUPPLEMENTS</h6>
                             <img
                               decoding="async"
                               src="wp-content/uploads/2022/09/p1.jpeg"
@@ -302,41 +302,37 @@ const Ulcer = () => {
                               treatment and you will have your testimonies very
                               soon. I ASSURE YOU WITH OUR HERBAL PRODUCTS AND
                               DIET PLAN WHICH WE GIVE FREE OF CHARGE, YOU ARE
-                              CERTAIN TO REVERSE ANY TYPE OF LIVER ISSUE
+                              CERTAIN TO REVERSE ANY TYPE OF ULCER
                             </p>
                             <h4 class="title">
-                              Here's what this HEPATITIS CURATIVE SUPPLEMENTS
-                              can do to help you:
+                              Here's what this ULCER SUPPLEMENTS can do to help
+                              you:
                             </h4>
-                            <h6>Finger indication:</h6>
+
                             <ul class="product-desc-list list-wrap">
                               <li>
-                                Cures any type of hepatitis (A, B, C, D and E)
+                                All The Intensity Of The Heartburns And Pains
+                                Suddenly Start Reducing Then
                               </li>
                               <li>
-                                Reverses the effects of hepatitis in that body
+                                I Stopped Experiencing Constipation And
+                                Indigestion
                               </li>
-                              <li>Cures chronic hepatitis</li>
-                              <li>Cures fatty liver</li>
+                              <li>The Internal Bleeding Stopped</li>
                               <li>
-                                Restores the liver back to its normal healthy
-                                condition
+                                I Can Now Eat Any Food In Any Quantity I Desire
+                                Without Fear Or Anything
                               </li>
+                              <li>I Now Have Peace With My Stomach</li>
                               <li>
                                 {" "}
-                                Clears out all signs and symptoms the patient
-                                might have been observing
-                              </li>
-                              <li> Averts any chance of liver cancer</li>
-                              <li>Averts cirrhosis and reverts its effects</li>
-                              <li>
-                                It also cures ulcer and helps blood pressure
+                                I Can Now Sleep Without Putting Any Quick Food
+                                Behind My Pillow
                               </li>
                             </ul>
                             <br></br>
                             <h4 class="title">
                               HOW TO GET THE HEPATITIS CURATIVE SUPPLEMENTS
-                              (bold in color)
                             </h4>
                             <p>
                               I know you may be wondering if you will pay first
