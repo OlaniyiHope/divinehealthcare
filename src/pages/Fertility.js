@@ -129,10 +129,10 @@ const Fertility = () => {
                     </div>
                     <div class="woocommerce-product-details__short-description">
                       <p>
-                        Suxnix food is food produced by methods complying with
-                        the standards of Rrganic farming. Standards vary Lorem
-                        ipsum dolor sit amet, consectetur adipiscing worldwide,
-                        but organic farming.
+                        Do you want her exhausted from pleasure, also to smile
+                        and call you DADDY? We value your privacy and we
+                        guarantee that your information is safe here. BE A
+                        WARRIOR AND NEVER BE A WEAKLING IN BED
                       </p>
                     </div>
 
@@ -193,7 +193,17 @@ const Fertility = () => {
                         role="tab"
                         aria-controls="tab-reviews"
                       >
-                        <a className="nav-link">Reviews (1)</a>
+                        <a className="nav-link">Reviews (2)</a>
+                      </li>
+                      <li
+                        className={`reviews_tab nav-item ${
+                          activeTab === "package" ? "active" : ""
+                        }`}
+                        onClick={() => setActiveTab("package")}
+                        role="tab"
+                        aria-controls="tab-package"
+                      >
+                        <a className="nav-link">Packages</a>
                       </li>
                     </ul>
                     <div className="tab-content">
@@ -207,55 +217,371 @@ const Fertility = () => {
                           <h2>Description</h2>
 
                           <div class="product-desc-content">
-                            <h4 class="title">The true strength of Suxnix :</h4>
+                            <h4 class="title">
+                              Welcome to men’s corner in capital letters
+                            </h4>
+                            <h6>
+                              Do you want her exhausted from pleasure, also to
+                              smile and call you DADDY? We value your privacy
+                              and we guarantee that your information is safe
+                              here. BE A WARRIOR AND NEVER BE A WEAKLING IN BED
+                            </h6>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/wo.jpeg"
+                              style={{
+                                width: "300px",
+                                height: "400px",
+                                marginBottom: "30px",
+                              }}
+                              alt=""
+                              class="main-img"
+                            />
                             <p>
-                              Whey Protein Isolates (WPIs) are the purest form
-                              of whey protein that currently exists. WPIs are
-                              costly to use, but rate among the best proteins
-                              that money can buy. That’s why they’re the first
-                              ingredient you read on the Gold Standard 100%
-                              Whey™ label. By using WPI as the primary
-                              ingredient along with premium ultra-filtered whey
-                              protein concentrate (WPC), we’re able to pack 24
-                              grams of protein into every serving to support
-                              your muscle building needs after training.
-                              ON’attention to detail also extends to mixability.
-                              This superior quality powder has been instantized
-                              to mix easliy using a shaker cup or just a glass
-                              and spoon. There’s no doubt that this is the
-                              standard by which all other whey proteins are
-                              measured.
+                              EVERYTHING I WANT TO TELL YOU ABOUT IS 100% HERBAL
+                              & NATURAL. In the olden days there were very few
+                              occurrences of weak erection or infertility. this
+                              was mainly due to readily accessible herbs by our
+                              grandparents. They were constantly taking herbs
+                              which boosted their manpower and it's evident in
+                              them having multiple wives and being sexually
+                              active upto old age
                             </p>
-                            <h4 class="title">Suxnix the basics :</h4>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/woman.webp"
+                              style={{
+                                width: "300px",
+                                height: "400px",
+                                marginBottom: "30px",
+                              }}
+                              alt=""
+                              class="main-img"
+                            />
+                            <br></br>
+                            <p>
+                              NOW YOU TOO CAN GET ROCK-HARD ERECTIONS, THICK &
+                              ENRICHED SPERM AND BIGGER MANHOOD ON COMMAND…
+                              WITHOUT PUMPS, FAKE SUPPLEMENTS OR HARMFUL
+                              PRODUCTS WITH SIDE EFFECTS… Ask yourself, who has
+                              the secret SOLUTION to fertility and and sexual
+                              PERFORMANCE? IS IT African Herbs or European
+                              harmful Pills? Is it the whites that barely give
+                              birth to more than two kids and invented different
+                              tablets to help them to perform? or Africans that
+                              have several wives and father multiple children
+                              with ease? I believe you know the answer!
+                            </p>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/man.jpeg"
+                              style={{
+                                width: "500px",
+                                height: "400px",
+                                marginBottom: "30px",
+                              }}
+                              alt=""
+                              class="main-img"
+                            />
+                            <br></br>
+
+                            <p>
+                              I’m going to share with you an unusual and ancient
+                              secret formula that gives bulging, pulsating
+                              “SUPERMAN STYLE ERECTIONS” that makes many of our
+                              customers wives happy women today.
+                            </p>
+
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/made.jpeg"
+                              style={{
+                                width: "300px",
+                                height: "400px",
+                                marginBottom: "30px",
+                              }}
+                              alt=""
+                              class="main-img"
+                            />
+                            <br></br>
+                            <p>
+                              {" "}
+                              You too can become a stallion and make her scream
+                              non stop for hours. Solve Erectile Dysfunction,
+                              Last Longer Than 35 Mins In Bed With Stronger And
+                              Bigger Manhood. WEAK ERECTION, PREMATURE
+                              EJACULATION, LOW SPERM COUNT AND SMALL MANHOOD IS
+                              AN ISSUE THAT CANNOT BE SWEPT UNDER THE CARPET.
+                              All ingredients are purely 100% natural with no
+                              side effects.
+                            </p>
+
+                            <br></br>
+
+                            <h4 class="title">
+                              DISCOVERY OF A HERBAL SOLUTION CURE
+                            </h4>
+                            <h6> INTRODUCING Weak Errection SUPPLEMENTS</h6>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/p1.jpeg"
+                              alt=""
+                              style={{ width: "500px", height: "500px" }}
+                            />
+
+                            <p>
+                              This treatment is for those that think it is
+                              finished after they discovered they have Weak
+                              erection, I implore you to take this simple step
+                              today by getting this treatment and you will have
+                              your testimonies very soon. I ASSURE YOU WITH OUR
+                              HERBAL PRODUCTS AND DIET PLAN WHICH WE GIVE FREE
+                              OF CHARGE, YOU ARE CERTAIN TO REVERSE ANY TYPE OF
+                              Weak erection
+                            </p>
+                            <h4 class="title">
+                              Here's what this SUPPLEMENTS can do to help you:
+                            </h4>
+                            <h6>Finger indication:</h6>
                             <ul class="product-desc-list list-wrap">
+                              <li>Make you good on bed</li>
+                              <li>Cures chronic </li>
+                              <li>Cures fatty </li>
                               <li>
-                                82% Protein by Weight (24g of Protein Per 31.5g
-                                Serving Size).
-                              </li>
-                              <li>
-                                Whey Protein Isolates (WPI) Main Ingredient.
-                              </li>
-                              <li>
-                                Whey Protein Micro-functions from Whey Protein
-                                Isolate and Ultra-Filtered Whey Protein
-                                Concentrate.
-                              </li>
-                              <li>
-                                Over 4g of Naturally Occurring Glutamine &#038;
-                                Glutamic Acid in Each Serving.
-                              </li>
-                              <li>
-                                More than 5g of the Naturally Occurring Branched
-                                Chain Amino Acids (BCAAs) Leucine, Isoleucine,
-                                and Valine in Each Serving.
-                              </li>
-                              <li>The “Gold Standard” for Protein Quality.</li>
-                              <li>Banned Substance Tested Protein</li>
-                              <li>
-                                French Vanilla Creme Flavored Whey Protein
-                                Powder
+                                Restores the liver back to its normal healthy
+                                condition
                               </li>
                             </ul>
+                            <br></br>
+                            <h4 class="title">HOW TO GET THE SUPPLEMENTS</h4>
+                            <p>
+                              PAYMENT AFTER DELIVERY ACCEPTED Cash On Delivery
+                              Get Supercharged while dancing kerewa on bed. Say
+                              bye bye to lack of strength and get your MANHOOD
+                              to 100% EFFICIENCY. THIS IS A WORKING SOLUTION TO
+                              WEAK ERECTION, PREMATURE EJACULATION & LOW SPERM
+                              COUNT. FOR A BIGGER, STRONGER AND LONGER MANHOOD.
+                              You will only pay when this product has been
+                              physically brought down to you face-to-face by our
+                              courier company- by cash or transfer.
+                              <br></br>
+                              <br></br>
+                              <h6>HOW TO PLACE YOUR ORDER</h6>
+                              <br></br>
+                              There are three ways to make your order so you
+                              choose the most convenient;<br></br>
+                            </p>
+                            <p>
+                              {" "}
+                              1. You can click this Whatsapp Logo to Chat with
+                              Pharmacst Mary
+                            </p>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/whatsapp.jpeg"
+                              alt=""
+                              class="main-img"
+                              style={{ width: "250px", height: "80px" }}
+                            />
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/bar.jpeg"
+                              alt=""
+                              class="main-img"
+                              style={{ width: "250px", height: "250px" }}
+                            />
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <p>
+                              {" "}
+                              2. OR Call/Text /Send your Address as SMS to
+                              08113201322
+                            </p>
+
+                            <p> 3. OR Fill our form below</p>
+
+                            <div id="review_form_wrapper">
+                              <div id="review_form" class="comment-input">
+                                <div id="respond" class="comment-respond">
+                                  <span
+                                    id="reply-title"
+                                    class="comment-reply-title"
+                                  >
+                                    Place order for DIvine Health Supplements
+                                    <small>
+                                      <a
+                                        rel="nofollow"
+                                        id="cancel-comment-reply-link"
+                                        href="index.html#respond"
+                                        style={{ display: "none" }}
+                                      >
+                                        Cancel reply
+                                      </a>
+                                    </small>
+                                  </span>
+                                  <form
+                                    action="https://themegenix.net/wp/suxnix/wp-comments-post.php"
+                                    method="post"
+                                    id="commentform"
+                                    class="comment-form"
+                                    novalidate
+                                  >
+                                    <p class="comment-notes">
+                                      <span id="email-notes">
+                                        Your email address will not be
+                                        published.
+                                      </span>{" "}
+                                      <span class="required-field-message">
+                                        Required fields are marked{" "}
+                                        <span class="required">*</span>
+                                      </span>
+                                    </p>
+                                    <p class="comment-form-author">
+                                      <label for="author">
+                                        Name&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="author"
+                                          name="author"
+                                          type="text"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Email&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Save my name, email, and website in this
+                                        browser for the next time I comment.
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Full Address&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Full Address
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Phone Number&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Phone NUmber
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Request/Comment&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Request/Comment
+                                      </label>
+                                    </p>
+                                  </form>{" "}
+                                </div>
+                              </div>
+                            </div>
+                            <br></br>
+                            <br></br>
+                            <p>
+                              IF YOU HAVE ANY QUESTIONS OR CLARIFICATIONS BEFORE
+                              YOU ORDER, CALL ME ON: 08113201322<br></br>
+                              NOTE: Payment is made at the point of delivery.
+                              Please do not place an order if you are not ready
+                              to pay and receive your product within the next 1
+                              or 2 days. Please in case you call and the number
+                              is busy, kindly send me a text message and I will
+                              reply you. Due to demands, the phone number is
+                              always very busy.( smaller text)
+                            </p>
                           </div>
                         </div>
                       )}
@@ -269,67 +595,22 @@ const Fertility = () => {
                           <div id="reviews" class="woocommerce-Reviews">
                             <div id="comments">
                               <h2 class="woocommerce-Reviews-title">
-                                1 review for <span>Optimum Nutrition</span>{" "}
+                                2 review for <span>Weak Erection</span>{" "}
                               </h2>
-
-                              <ol class="commentlist list-wrap">
-                                <li
-                                  class="review byuser comment-author-admin bypostauthor even thread-even depth-1"
-                                  id="li-comment-9"
-                                >
-                                  <div id="comment-9" class="comment_container">
-                                    <img
-                                      alt=""
-                                      src="https://secure.gravatar.com/avatar/2e2a0b7d5fedd5648f765fd38d2a3d3f?s=60&amp;d=mm&amp;r=g"
-                                      srcset="https://secure.gravatar.com/avatar/2e2a0b7d5fedd5648f765fd38d2a3d3f?s=120&#038;d=mm&#038;r=g 2x"
-                                      class="avatar avatar-60 photo"
-                                      height="60"
-                                      width="60"
-                                      loading="lazy"
-                                      decoding="async"
-                                    />
-                                    <div class="comment-text">
-                                      <div
-                                        class="star-rating"
-                                        role="img"
-                                        aria-label="Rated 5 out of 5"
-                                      >
-                                        <span style={{ width: "100%" }}>
-                                          Rated{" "}
-                                          <strong class="rating">5</strong> out
-                                          of 5
-                                        </span>
-                                      </div>
-                                      <p class="meta">
-                                        <strong class="woocommerce-review__author">
-                                          admin{" "}
-                                        </strong>
-                                        <span class="woocommerce-review__dash">
-                                          &ndash;
-                                        </span>{" "}
-                                        <time
-                                          class="woocommerce-review__published-date"
-                                          datetime="2022-09-07T17:24:09+00:00"
-                                        >
-                                          September 7, 2022
-                                        </time>
-                                      </p>
-
-                                      <div class="description">
-                                        <p>
-                                          Sed do eiusmod tempor incididunt ut
-                                          labore et dolore magna aliqua. Ut enim
-                                          ad minim veniam quis nostrud
-                                          exercitation ullamco laboris nisi ut
-                                          aliquip ex ea commodo consequat. Enim
-                                          ad minim veniam, quis nostrud
-                                          exercitation ullamco.
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </li>
-                              </ol>
+                              <br></br>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/e1.jpeg"
+                                alt=""
+                                style={{ width: "400px", height: "600px" }}
+                              />
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/e2.jpeg"
+                                alt=""
+                                class="main-img"
+                                style={{ width: "400px", height: "600px" }}
+                              />
                             </div>
 
                             <div id="review_form_wrapper">
@@ -476,11 +757,62 @@ const Fertility = () => {
                           </div>
                         </div>
                       )}
+                      {activeTab === "package" && (
+                        <div
+                          class="tp-content-tab woocommerce-Tabs-panel woocommerce-Tabs-panel--package panel entry-content wc-tab"
+                          id="tab-package"
+                          role="tabpanel"
+                          aria-labelledby="tab-title-package"
+                        >
+                          <div id="package" class="woocommerce-package">
+                            <div id="comments">
+                              <h2 class="woocommerce-Reviews-title">
+                                Heere are the packages available and cost
+                              </h2>
+                              <br></br>
+                              <h6>1 REPAIR + 1 PROCARE 37,000 Naira</h6>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/p1.jpeg"
+                                alt=""
+                                style={{ width: "500px", height: "500px" }}
+                              />
+                              <h6>2 PROCARE 1 REPAIR 47,000 naira</h6>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/p2.jpeg"
+                                alt=""
+                                style={{ width: "500px", height: "500px" }}
+                              />
+                              <br></br>
+
+                              <p>The full packages come with guarantee</p>
+                              <p>
+                                The Number Of bottles Depends On The Severity Of
+                                The Condition<br></br>
+                                NOTE: The duration of treatment you are to use
+                                depends on the level of severity of your
+                                hepatitis<br></br>
+                                This Is Permanent Treatment That Clears The
+                                Viral Load So You Will Be Free From Sickness And
+                                Live A Normal Long Healthy Life<br></br>
+                                This treatment is for those that think it is
+                                finished after they discovered they have
+                                Hepatitis. don't lose hope.<br></br>
+                                When there’s life there’s hope take this simple
+                                step today by getting this treatment and you
+                                will have your testimonies very soon.
+                              </p>
+                            </div>
+
+                            <div class="clear"></div>
+                          </div>
+                        </div>
+                      )}
                     </div>
                   </div>
                 </div>
               </div>
-
               {/*<div class="related-products-area">
                 <div class="related-products-wrap">
                   <h2 class="title">Related products</h2>
