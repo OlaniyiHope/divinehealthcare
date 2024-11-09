@@ -127,10 +127,11 @@ const Ulcer = () => {
                     </div>
                     <div class="woocommerce-product-details__short-description">
                       <p>
-                        Suxnix food is food produced by methods complying with
-                        the standards of Rrganic farming. Standards vary Lorem
-                        ipsum dolor sit amet, consectetur adipiscing worldwide,
-                        but organic farming.
+                        Are You Seeking For An Effective, No Side Effect Ulcer
+                        Remedy That Would Allow You Eat Foods You So Much Desire
+                        Without Any Fear Of Return Of Ulcer Pains? But You Are
+                        About To Give Up Because Of All These ‘Promise And Fail’
+                        Ulcer Remedies ? Then, You Want To Continue Reading
                       </p>
                     </div>
 
@@ -215,56 +216,67 @@ const Ulcer = () => {
 
                           <div class="product-desc-content">
                             <h4 class="title">
-                              Did You Test Positive to Hepatitis?{" "}
+                              The Solution To All Forms Of Ulcer
                             </h4>
                             <h6>
-                              HERE IS A PERFECT & PERMANENT CURE FOR HEPATITIS
-                              A, B & C AND FATTY LIVER DISEASE
+                              Are You Seeking For An Effective, No Side Effect
+                              Ulcer Remedy That Would Allow You Eat Foods You So
+                              Much Desire Without Any Fear Of Return Of Ulcer
+                              Pains? But You Are About To Give Up Because Of All
+                              These ‘Promise And Fail’ Ulcer Remedies ? Then,
+                              You Want To Continue Reading
                             </h6>
                             <img
                               decoding="async"
-                              src="wp-content/uploads/2022/09/liver.webp"
+                              src="wp-content/uploads/2022/09/ulcer3.jpg"
                               alt=""
                               class="main-img"
                             />
                             <p>
-                              The HBV kit is formulated to eliminate the
-                              inflammation of the liver and viral infections.
-                              There are five main hepatitis viruses, referred to
-                              as types A, B, C, D and E. These five types are of
-                              greatest concern because of the burden of illness
-                              and death they cause and the potential for
-                              outbreaks and epidemic spread. In particular,
-                              types B and C lead to chronic disease in hundreds
-                              of millions of people and, together, are the most
-                              common cause of liver cirrhosis and cancer.
+                              Are You Suffering From Any Kind Of Ulcer? Like
+                              Gastric Ulcers: ulcers that develop inside the
+                              stomach Esophageal Ulcers: ulcers that develop
+                              inside the esophagus Duodenal Ulcers: ulcers that
+                              develop in the upper section of the small
+                              intestines, called the duodenum. Helicobacter
+                              pylori(H. Pylori) Peptic Ulcer: a sore on the
+                              lining of your stomach, small intestine or
+                              esophagus HEALTH IS WEALTH. But Things Were
+                              Getting Worse! One Of The Doctors I Met After
+                              About A Year, Told Me To My Face; “Ulcer Has No
+                              cure, You Just Have To Manage It Till The End Of
+                              Day.” It was like a shock, and tears dropped. “I
+                              can’t Live With These Pains And Discomfort; I’ll
+                              Die Before My Time.” I replied the doctor and left
+                              his office teary…. At this point, I was losing
+                              weight and appetite. I vomited often and
+                              experienced severe headaches, dizziness, and
+                              constipation. Sometimes, my stool will be so soft,
+                              and other times, it will be so hard with blood
+                              stainszzz
                             </p>
 
                             <br></br>
                             <h4 class="title">symptoms</h4>
                             <p>
-                              Signs and symptoms of hepatitis B range from mild
-                              to severe. They usually appear about one to four
+                              Signs and symptoms of Ulcer range from mild to
+                              severe. They usually appear about one to four
                               months after you’ve been infected, although you
                               could see them as early as two weeks
                               post-infection. Some people, usually young
                               children, may not have any symptoms.
                             </p>
                             <p>
-                              <span>
-                                Hepatitis B signs and symptoms may include:
-                              </span>
+                              <span>Ulcer signs and symptoms may include:</span>
                             </p>
                             <ul class="product-desc-list list-wrap">
-                              <li>Abdominal Pain</li>
-                              <li>Dark Urine</li>
-                              <li>Fever</li>
-                              <li>Joint Pain</li>
-                              <li>Loss of appetite</li>
-                              <li> Weakness and fatigue</li>
-                              <li> Yellowing of your skin</li>
-                              <li>Vomiting</li>
+                              <li>Upper Abdominal Pain</li>
                               <li>Nausea</li>
+                              <li>Bloating</li>
+                              <li>Lack of Apetitite</li>
+                              <li>Loss of appetite</li>
+                              <li> Weight loss</li>
+                              <li>Heartburn</li>
                             </ul>
                             <br></br>
 
@@ -769,8 +781,8 @@ const Ulcer = () => {
                                 Viral Load So You Will Be Free From Sickness And
                                 Live A Normal Long Healthy Life<br></br>
                                 This treatment is for those that think it is
-                                finished after they discovered they have
-                                Hepatitis. don't lose hope.<br></br>
+                                finished after they discovered they Hepatitis.
+                                don't lose hope.<br></br>
                                 When there’s life there’s hope take this simple
                                 step today by getting this treatment and you
                                 will have your testimonies very soon.
