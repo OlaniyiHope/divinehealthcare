@@ -222,8 +222,13 @@ const Diabetes = () => {
                             </h6>
                             <img
                               decoding="async"
-                              src="wp-content/uploads/2022/09/diabetes.jpg"
+                              src="wp-content/uploads/2022/09/wat.jpeg"
                               alt=""
+                              style={{
+                                width: "700px",
+                                height: "350px",
+                                marginBottom: "20px",
+                              }}
                               class="main-img"
                             />
                             <p>
@@ -249,8 +254,8 @@ const Diabetes = () => {
                             <br></br>
                             <h4 class="title">symptoms</h4>
                             <p>
-                              Signs and symptoms of hepatitis B range from mild
-                              to severe. They usually appear about one to four
+                              Signs and symptoms of Diabetes range from mild to
+                              severe. They usually appear about one to four
                               months after you’ve been infected, although you
                               could see them as early as two weeks
                               post-infection. Some people, usually young
@@ -258,7 +263,7 @@ const Diabetes = () => {
                             </p>
                             <p>
                               <span>
-                                Hepatitis B signs and symptoms may include:
+                                Diabetes signs and symptoms may include:
                               </span>
                             </p>
                             <ul class="product-desc-list list-wrap">
@@ -267,10 +272,6 @@ const Diabetes = () => {
                               <li>Fever</li>
                               <li>Joint Pain</li>
                               <li>Loss of appetite</li>
-                              <li> Weakness and fatigue</li>
-                              <li> Yellowing of your skin</li>
-                              <li>Vomiting</li>
-                              <li>Nausea</li>
                             </ul>
                             <br></br>
 
@@ -554,18 +555,18 @@ const Diabetes = () => {
                           <div id="reviews" class="woocommerce-Reviews">
                             <div id="comments">
                               <h2 class="woocommerce-Reviews-title">
-                                2 review for <span>Hepatitis</span>{" "}
+                                2 review for <span>Diabetes</span>{" "}
                               </h2>
                               <br></br>
                               <img
                                 decoding="async"
-                                src="wp-content/uploads/2022/09/hivreview.jpeg"
+                                src="wp-content/uploads/2022/09/l1.jpeg"
                                 alt=""
                                 style={{ width: "400px", height: "600px" }}
                               />
                               <img
                                 decoding="async"
-                                src="wp-content/uploads/2022/09/hivreview2.jpeg"
+                                src="wp-content/uploads/2022/09/l2.jpeg"
                                 alt=""
                                 class="main-img"
                                 style={{ width: "400px", height: "600px" }}
