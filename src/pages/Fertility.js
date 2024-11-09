@@ -344,12 +344,34 @@ const Fertility = () => {
                             </h4>
                             <h6>Finger indication:</h6>
                             <ul class="product-desc-list list-wrap">
-                              <li>Make you good on bed</li>
-                              <li>Cures chronic </li>
-                              <li>Cures fatty </li>
                               <li>
-                                Restores the liver back to its normal healthy
-                                condition
+                                1. Repair removes every waste and toxins from
+                                your system that is diminishing your performance
+                                in bed, It boost your performance and make you
+                                last longer. You also get added benefits because
+                                it also clears any form of infection from your
+                                system.
+                              </li>
+                              <li>Bigger manhood</li>
+                              <li> Increases sperm fertility</li>
+                              <li>Better and harder erection</li>
+                              <li> Increase sperm count and motility</li>
+                              <li> It helps with Premature Ejaculation</li>
+                              <li>
+                                {" "}
+                                It helps to increase libido and sex drive
+                              </li>
+                              <li>
+                                {" "}
+                                Its helps boost and increase sperm counts
+                              </li>
+                              <li>
+                                {" "}
+                                It helps increase stamina and energy level
+                              </li>
+                              <li>
+                                {" "}
+                                It helps sustain and maintain maximum erectile
                               </li>
                             </ul>
                             <br></br>
