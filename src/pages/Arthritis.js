@@ -316,17 +316,62 @@ const Arthritis = () => {
                               Here's what this ARTHRITIS SUPPLEMENTS can do to
                               help you:
                             </h4>
-                            <h6>Finger indication:</h6>
+
                             <ul class="product-desc-list list-wrap">
+                              <li>Reduces Inflammation and Swelling</li>
                               <li>
-                                It serves as important Mineral in your body
+                                Relieves Joint Pain (Knee, Ankle, Wrist, etc.
                               </li>
-                              <li>
-                                Boost your calcium, sodium, magnesium, zinc in
-                                your body
-                              </li>
+                              <li> Improves Mobility and Flexibility</li>
+                              <li> Supports Overall Well-being</li>
+                              <li> Natural and Fast-Acting Formula</li>
+                              <li> Powerful Anti-Inflammatory Ingredients</li>
+                              <li> Promotes Healthy Connective Tissues</li>
+                              <li> Free from Artificial Additives</li>
                             </ul>
                             <br></br>
+                            <p>
+                              Joint Care is a natural, fast-acting supplement
+                              that supports joint health and overall well-being.
+                              It’s made from a blend of medicinal herbs and
+                              sacred plant stem cells that have
+                              anti-inflammatory properties, which help reduce
+                              inflammation, swelling, and pain.
+                            </p>
+                            <p>
+                              Joint care Comes With A Detox Product<br></br>{" "}
+                              Arthritis most times is caused by deposit of waste
+                              and toxins in the joints which causes inflammation
+                              and swelling, it is advisable to buy the purifier
+                            </p>
+                            <p>
+                              <b>
+                                In 30 days from the day you start taking the
+                                product, you will be able to do the things that
+                                you cannot do before.
+                              </b>{" "}
+                              <br></br>
+                              <br></br>
+                              You begin to see these serious results from the
+                              The first month; <br></br>
+                              To stand upright unaided<br></br>
+                              to bend down and pick something with ease<br></br>
+                              to stand on one leg and wear your trousers
+                              <br></br>
+                              to climb up and down the stairs with easy<br></br>
+                              sitting down and getting up without any aid like
+                              holding unto someone or something<br></br>
+                              To squat down and get back up unaided.
+                            </p>
+                            <p>
+                              This all-natural therapy does not have any side
+                              effect unlike the synthetic substances you are
+                              used to.<br></br> The company behind these
+                              products are internationally recognized and well
+                              known. They have NO SIDE EFFECT<br></br> They are
+                              100% GUARANTEED<br></br> They are APPROVED BY
+                              N.A.F.D.A.C (NIGERIA)
+                            </p>
                             <h4 class="title">HOW TO GET THE SUPPLEMENTS</h4>
                             <p>
                               I know you may be wondering if you will pay first
@@ -550,18 +595,18 @@ const Arthritis = () => {
                           <div id="reviews" class="woocommerce-Reviews">
                             <div id="comments">
                               <h2 class="woocommerce-Reviews-title">
-                                2 review for <span>Hepatitis</span>{" "}
+                                2 review for <span>Arthritis</span>{" "}
                               </h2>
                               <br></br>
                               <img
                                 decoding="async"
-                                src="wp-content/uploads/2022/09/hivreview.jpeg"
+                                src="wp-content/uploads/2022/09/at1.jpeg"
                                 alt=""
                                 style={{ width: "400px", height: "600px" }}
                               />
                               <img
                                 decoding="async"
-                                src="wp-content/uploads/2022/09/hivreview2.jpeg"
+                                src="wp-content/uploads/2022/09/at2.jpeg"
                                 alt=""
                                 class="main-img"
                                 style={{ width: "400px", height: "600px" }}
