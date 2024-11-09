@@ -126,10 +126,14 @@ const Fibroid = () => {
                     </div>
                     <div class="woocommerce-product-details__short-description">
                       <p>
-                        Suxnix food is food produced by methods complying with
-                        the standards of Rrganic farming. Standards vary Lorem
-                        ipsum dolor sit amet, consectetur adipiscing worldwide,
-                        but organic farming.
+                        If you are really serious of getting rid of Fibroids And
+                        Infertility just in a Natural and Safe way within a
+                        short period of time then, this is the most important
+                        report you would ever read on Fibroid Healthy Solution!
+                        Are you looking for a permanent solution to your Fibroid
+                        problem that have denied you of giving birth or have
+                        caused you several pains and shame? Welcome to the world
+                        of Women!
                       </p>
                     </div>
 
