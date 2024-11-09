@@ -190,7 +190,17 @@ const Fibroid = () => {
                         role="tab"
                         aria-controls="tab-reviews"
                       >
-                        <a className="nav-link">Reviews (1)</a>
+                        <a className="nav-link">Reviews (2)</a>
+                      </li>
+                      <li
+                        className={`reviews_tab nav-item ${
+                          activeTab === "package" ? "active" : ""
+                        }`}
+                        onClick={() => setActiveTab("package")}
+                        role="tab"
+                        aria-controls="tab-package"
+                      >
+                        <a className="nav-link">Packages</a>
                       </li>
                     </ul>
                     <div className="tab-content">
@@ -204,55 +214,456 @@ const Fibroid = () => {
                           <h2>Description</h2>
 
                           <div class="product-desc-content">
-                            <h4 class="title">The true strength of Suxnix :</h4>
+                            <h4 class="title">
+                              Ultimate Natural Solution To Fibroid Without
+                              Surgery Finally Discovered!!!
+                            </h4>
+                            {/*} <h6>
+                              HERE IS A PERFECT & PERMANENT CURE FOR HEPATITIS
+                              A, B & C AND FATTY LIVER DISEASE
+                            </h6>*/}
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/d3.png"
+                              alt=""
+                              style={{ width: "500px", height: "400px" }}
+                              class="main-img"
+                            />
+                            <br></br>
+                            <br></br>
                             <p>
-                              Whey Protein Isolates (WPIs) are the purest form
-                              of whey protein that currently exists. WPIs are
-                              costly to use, but rate among the best proteins
-                              that money can buy. That’s why they’re the first
-                              ingredient you read on the Gold Standard 100%
-                              Whey™ label. By using WPI as the primary
-                              ingredient along with premium ultra-filtered whey
-                              protein concentrate (WPC), we’re able to pack 24
-                              grams of protein into every serving to support
-                              your muscle building needs after training.
-                              ON’attention to detail also extends to mixability.
-                              This superior quality powder has been instantized
-                              to mix easliy using a shaker cup or just a glass
-                              and spoon. There’s no doubt that this is the
-                              standard by which all other whey proteins are
-                              measured.
+                              If you are really serious of getting rid of
+                              Fibroids And Infertility just in a Natural and
+                              Safe way within a short period of time then, this
+                              is the most important report you would ever read
+                              on Fibroid Healthy Solution!
+                              <br></br>Are you looking for a permanent solution
+                              to your Fibroid problem that have denied you of
+                              giving birth or have caused you several pains and
+                              shame?
+                              <br></br> Welcome to the world of Women!
+                              <br></br> Your Fibroid Health Challenges Can Be
+                              Remove Naturally, If Only You Know What To Do!
+                              MAKE SURE YOU READ TILL THE END
                             </p>
-                            <h4 class="title">Suxnix the basics :</h4>
+
+                            <br></br>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/stomach.jpg"
+                              alt=""
+                              style={{ width: "600px", height: "400px" }}
+                              class="main-img"
+                            />
+                            <br></br>
+                            <p>
+                              ATTENTION!<br></br>
+                              Thanks To This Powerful Information, Hundreds of
+                              Women Globally Have Been Successfully Eliminating
+                              Their FIBROIDS PAINS And Other Related Symptoms
+                              with This Life-Saving Fibroids Natural Remover
+                              Pack
+                            </p>
+                            <br></br>
+                            <p>
+                              Fibroids are the most frequently seen tumors of
+                              the female reproductive system. Fibroids, also
+                              known as uterine myomas, leiomyomas, or fibromas,
+                              are firm, compact tumors that are made of smooth
+                              muscle cells and fibrous connective tissue that
+                              develop in the uterus. It is estimated that
+                              between 20 to 50 percent of women of reproductive
+                              age have Fibroids. Some estimates state that up to
+                              30 to 77 percent of women will develop Fibroids
+                              sometime during their childbearing years
+                            </p>
+                            <br></br>
+                            <p>
+                              Fibroid has become a rampant issue globally today
+                              due to the modern lifestyle. The causes of Fibroid
+                              can be traced to the type of lifestyle that we now
+                              live. The lifestyle we now live cannot be compared
+                              with the natural lifestyles of the people of old.
+                              There are so many things that are bringing in a
+                              lot of estrogen (hormone influencing the growth of
+                              Fibroids) into the body systems now, like
+                              plastics, pesticides and even the foods and the
+                              processes under which we breed animals for
+                              consumption. Most of these things, including
+                              fishes, are bred artificially.<br></br> Fibroid
+                              tumors develop from an aberrant muscle cell in the
+                              uterus, which multiplies rapidly because of the
+                              influence of estrogen. Women who are approaching
+                              menopause are at the greatest risk for Fibroids
+                              because of their long exposure to high levels of
+                              estrogen.
+                            </p>
+                            <h4 class="title">Symptoms of Fibroid</h4>
+
+                            <p>
+                              <span>
+                                Fibroidsigns and symptoms may include:
+                              </span>
+                            </p>
                             <ul class="product-desc-list list-wrap">
                               <li>
-                                82% Protein by Weight (24g of Protein Per 31.5g
-                                Serving Size).
+                                Constipation, Discomfort in the lower abdomen
                               </li>
+                              <li> Swelling in the lower abdomen</li>
+                              <li> Anemia (as a result of heavy periods)</li>
+                              <li> Backache</li>
+                              <li> Painful sex</li>
+                              <li> Pain in the legs</li>
+                              <li> Frequent urination</li>
+                              <li> Menstruation that last longer than usual</li>
                               <li>
-                                Whey Protein Isolates (WPI) Main Ingredient.
-                              </li>
-                              <li>
-                                Whey Protein Micro-functions from Whey Protein
-                                Isolate and Ultra-Filtered Whey Protein
-                                Concentrate.
-                              </li>
-                              <li>
-                                Over 4g of Naturally Occurring Glutamine &#038;
-                                Glutamic Acid in Each Serving.
-                              </li>
-                              <li>
-                                More than 5g of the Naturally Occurring Branched
-                                Chain Amino Acids (BCAAs) Leucine, Isoleucine,
-                                and Valine in Each Serving.
-                              </li>
-                              <li>The “Gold Standard” for Protein Quality.</li>
-                              <li>Banned Substance Tested Protein</li>
-                              <li>
-                                French Vanilla Creme Flavored Whey Protein
-                                Powder
+                                Increasing menstrual cramping; If you observe
+                                any of these, then you need to take this
+                                seriously
                               </li>
                             </ul>
+                            <br></br>
+                            <p>
+                              Aside from the fact that it is very expensive,
+                              surgery is usually the last resort of removing
+                              Fibroid, it could require that womb would be
+                              tampered with, it may even require removing the
+                              womb completely in the process to prevent it from
+                              growing back. The good news is that you can now
+                              get rid of your Fibroid and all its related
+                              complications without surgery…..Yes without
+                              Surgery
+                              <br></br>What Makes This Breakthrough Solution So
+                              Unique is That It Gives You The Power to Get Rid
+                              of Fibroid permanently. It’s a fact – 93% of the
+                              women who use conventional treatments such as
+                              surgery, anti-inflammatory drugs, birth control
+                              drugs e.t.c,to treat their Fibroid will sometimes
+                              end up worse than when they started because these
+                              are temporary treatments. Now you can join the
+                              successful 7% group that keeps it off forever.
+                              Conventional treatments such as birth control
+                              drugs, anti-inflammatory drugs, and surgery mostly
+                              address the symptoms of Fibroid and work
+                              short-term. Most women who have undergone
+                              surgeries have developed Fibroid again sometimes
+                              within several weeks. The solution I now reveal to
+                              you is a unique proven approach that eliminates
+                              Fibroid within few weeks (depending on the
+                              severity) and also helps you to prevent recurrent
+                              growth.
+                            </p>
+                            <h4 class="title">“A Potent Natural Solution”</h4>
+                            <h6>
+                              {" "}
+                              I am going to show you a proven and 100% natural
+                              remedy for Fibroid issues, which will allow you
+                              to…
+                            </h6>
+                            <p>
+                              Get Rid Of Pain During Intercourse (Dyspareunia)
+                              <br></br>
+                              Boost your confidence and self-esteem.<br></br>
+                              Get rid of painful menopause and bleeding during
+                              sex 100% NATURALLY!<br></br>
+                              Improve the Quality of Your Life Dramatically
+                              <br></br>
+                              Get Rid Of Heavy Menstrual Flow (Menorrhagia) or
+                              Painful Menstrual Flow (Dysmenorrhea)<br></br>
+                              Say goodbye to fibroid without surgery<br></br>
+                              Avoid or Stop Repeated Miscarriages<br></br>
+                              Does That Sound Like Something You Want? If this
+                              is starting to look like the exact solution you
+                              want, that’s because it probably is.
+                            </p>
+                            <p>
+                              Imagine – getting this natural solution right now…
+                              In all seriousness, think about what this can do
+                              for you! Can you imagine how good it feels to
+                              actually know, you no longer have to worry about
+                              your fibroid, knowing you are completely healthy
+                              and safe? It’s the embodiment of FREEDOM &
+                              RELIEF!!!
+                            </p>
+                            <p>
+                              Now, Here Comes the “Natural Solution” to remove
+                              Fibroid Using one of the revolutionary plants that
+                              has been in existence for over 5000 years, there
+                              is now a way by which you can naturally removed
+                              fibroid and regaining sound health quickly.
+                            </p>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/p1.jpeg"
+                              alt=""
+                              style={{ width: "500px", height: "500px" }}
+                            />
+
+                            <p>
+                              This treatment is for those that think it is
+                              finished after they discovered they have Hepatitis
+                              B. When there’s life there’s hope and whatever we
+                              do living on earth are risks so I implore you to
+                              take this simple step today by getting this
+                              treatment and you will have your testimonies very
+                              soon. I ASSURE YOU WITH OUR HERBAL PRODUCTS AND
+                              DIET PLAN WHICH WE GIVE FREE OF CHARGE, YOU ARE
+                              CERTAIN TO REVERSE ANY TYPE OF LIVER ISSUE
+                            </p>
+                            <h4 class="title">
+                              What to expect from this solution
+                            </h4>
+
+                            <ul class="product-desc-list list-wrap">
+                              <li>
+                                Get Rid Of Your Fibroid Naturally Within 2
+                                Months and Prevent Recurrent growth Eliminate
+                                Pelvic Pressure and Pain
+                              </li>
+                              <li>Bloating and Discomfort</li>
+                              <li>
+                                Boost Your Fertility and Gain Regular Periods
+                              </li>
+                              <li>
+                                {" "}
+                                (No More Spotting or Unexpected periods Stop
+                                Bladder Pressure
+                              </li>
+                              <li>
+                                You will live a healthy life without diseases,
+                                thus prolonging your life etc.
+                              </li>
+                              <li>
+                                {" "}
+                                Clears out all signs and symptoms the patient
+                                might have been observing
+                              </li>
+                              <li> Averts any chance of liver cancer</li>
+                              <li>Averts cirrhosis and reverts its effects</li>
+                              <li>
+                                It also cures ulcer and helps blood pressure
+                              </li>
+                            </ul>
+                            <br></br>
+                            <p>
+                              Finally Introducing ~ ~ Natural Fibroid Removal
+                              FIBROID REMOVER PACK” is a collection of Organic
+                              Products that help to shrink and get rid of
+                              Fibroids, eliminate Fibroids pain, cure ovarian
+                              cyst and other related complications within few
+                              weeks. “FIBROID REMOVER PACK” contains different
+                              natural health Extracts that will help you get
+                              back the perfect health that you deserve.
+                            </p>
+                            <h4 class="title">HOW TO GET THE SUPPLEMENTS</h4>
+                            <p>
+                              I know you may be wondering if you will pay first
+                              before you get this product. NO! You don't have to
+                              pay first. Once you place your order the items
+                              would be sent to your state and once it gets to
+                              your state our courier agent would contact
+                              you,deliver the products to you at your provided
+                              address at no extra cost. So, once our delivery
+                              agent brings it to you, You would receive your
+                              products and pay at the point of delivery.
+                              <br></br>
+                              <br></br>
+                              <h6>HOW TO PLACE YOUR ORDER</h6>
+                              <br></br>
+                              There are three ways to make your order so you
+                              choose the most convenient;<br></br>
+                            </p>
+                            <p>
+                              {" "}
+                              1. You can click this Whatsapp Logo to Chat with
+                              Pharmacst Mary
+                            </p>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/whatsapp.jpeg"
+                              alt=""
+                              class="main-img"
+                              style={{ width: "250px", height: "80px" }}
+                            />
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/bar.jpeg"
+                              alt=""
+                              class="main-img"
+                              style={{ width: "250px", height: "250px" }}
+                            />
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <p>
+                              {" "}
+                              2. OR Call/Text /Send your Address as SMS to
+                              08113201322
+                            </p>
+
+                            <p> 3. OR Fill our form below</p>
+                            <div id="review_form_wrapper">
+                              <div id="review_form" class="comment-input">
+                                <div id="respond" class="comment-respond">
+                                  <span
+                                    id="reply-title"
+                                    class="comment-reply-title"
+                                  >
+                                    Place order for DIvine Health Supplements
+                                    <small></small>
+                                  </span>
+                                  <form
+                                    action="https://themegenix.net/wp/suxnix/wp-comments-post.php"
+                                    method="post"
+                                    id="commentform"
+                                    class="comment-form"
+                                    novalidate
+                                  >
+                                    <p class="comment-form-author">
+                                      <label for="author">
+                                        Full Name&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="author"
+                                          name="author"
+                                          type="text"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Email&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Save my name, email, and website in this
+                                        browser for the next time I comment.
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Full Address&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Full Address
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Phone Number&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Phone NUmber
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Request/Order&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Request/Order
+                                      </label>
+                                    </p>
+                                  </form>{" "}
+                                </div>
+                              </div>
+                            </div>
+                            <br></br>
+                            <br></br>
+                            <p>
+                              IF YOU HAVE ANY QUESTIONS OR CLARIFICATIONS BEFORE
+                              YOU ORDER, CALL ME ON: 08113201322<br></br>
+                              NOTE: Payment is made at the point of delivery.
+                              Please do not place an order if you are not ready
+                              to pay and receive your product within the next 1
+                              or 2 days. Please in case you call and the number
+                              is busy, kindly send me a text message and I will
+                              reply you. Due to demands, the phone number is
+                              always very busy.( smaller text)
+                            </p>
                           </div>
                         </div>
                       )}
@@ -266,67 +677,22 @@ const Fibroid = () => {
                           <div id="reviews" class="woocommerce-Reviews">
                             <div id="comments">
                               <h2 class="woocommerce-Reviews-title">
-                                1 review for <span>Optimum Nutrition</span>{" "}
+                                2 review for <span>Fibroid</span>{" "}
                               </h2>
-
-                              <ol class="commentlist list-wrap">
-                                <li
-                                  class="review byuser comment-author-admin bypostauthor even thread-even depth-1"
-                                  id="li-comment-9"
-                                >
-                                  <div id="comment-9" class="comment_container">
-                                    <img
-                                      alt=""
-                                      src="https://secure.gravatar.com/avatar/2e2a0b7d5fedd5648f765fd38d2a3d3f?s=60&amp;d=mm&amp;r=g"
-                                      srcset="https://secure.gravatar.com/avatar/2e2a0b7d5fedd5648f765fd38d2a3d3f?s=120&#038;d=mm&#038;r=g 2x"
-                                      class="avatar avatar-60 photo"
-                                      height="60"
-                                      width="60"
-                                      loading="lazy"
-                                      decoding="async"
-                                    />
-                                    <div class="comment-text">
-                                      <div
-                                        class="star-rating"
-                                        role="img"
-                                        aria-label="Rated 5 out of 5"
-                                      >
-                                        <span style={{ width: "100%" }}>
-                                          Rated{" "}
-                                          <strong class="rating">5</strong> out
-                                          of 5
-                                        </span>
-                                      </div>
-                                      <p class="meta">
-                                        <strong class="woocommerce-review__author">
-                                          admin{" "}
-                                        </strong>
-                                        <span class="woocommerce-review__dash">
-                                          &ndash;
-                                        </span>{" "}
-                                        <time
-                                          class="woocommerce-review__published-date"
-                                          datetime="2022-09-07T17:24:09+00:00"
-                                        >
-                                          September 7, 2022
-                                        </time>
-                                      </p>
-
-                                      <div class="description">
-                                        <p>
-                                          Sed do eiusmod tempor incididunt ut
-                                          labore et dolore magna aliqua. Ut enim
-                                          ad minim veniam quis nostrud
-                                          exercitation ullamco laboris nisi ut
-                                          aliquip ex ea commodo consequat. Enim
-                                          ad minim veniam, quis nostrud
-                                          exercitation ullamco.
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </li>
-                              </ol>
+                              <br></br>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/sol.jpeg"
+                                alt=""
+                                style={{ width: "400px", height: "600px" }}
+                              />
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/sol.jpeg"
+                                alt=""
+                                class="main-img"
+                                style={{ width: "400px", height: "600px" }}
+                              />
                             </div>
 
                             <div id="review_form_wrapper">
@@ -467,6 +833,58 @@ const Fibroid = () => {
                                   </form>{" "}
                                 </div>
                               </div>
+                            </div>
+
+                            <div class="clear"></div>
+                          </div>
+                        </div>
+                      )}
+                      {activeTab === "package" && (
+                        <div
+                          class="tp-content-tab woocommerce-Tabs-panel woocommerce-Tabs-panel--package panel entry-content wc-tab"
+                          id="tab-package"
+                          role="tabpanel"
+                          aria-labelledby="tab-title-package"
+                        >
+                          <div id="package" class="woocommerce-package">
+                            <div id="comments">
+                              <h2 class="woocommerce-Reviews-title">
+                                Heere are the packages available and cost
+                              </h2>
+                              <br></br>
+                              <h6>1 REPAIR + 1 PROCARE 37,000 Naira</h6>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/p1.jpeg"
+                                alt=""
+                                style={{ width: "500px", height: "500px" }}
+                              />
+                              <h6>2 PROCARE 1 REPAIR 47,000 naira</h6>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/p2.jpeg"
+                                alt=""
+                                style={{ width: "500px", height: "500px" }}
+                              />
+                              <br></br>
+
+                              <p>The full packages come with guarantee</p>
+                              <p>
+                                The Number Of bottles Depends On The Severity Of
+                                The Condition<br></br>
+                                NOTE: The duration of treatment you are to use
+                                depends on the level of severity of your
+                                hepatitis<br></br>
+                                This Is Permanent Treatment That Clears The
+                                Viral Load So You Will Be Free From Sickness And
+                                Live A Normal Long Healthy Life<br></br>
+                                This treatment is for those that think it is
+                                finished after they discovered they have
+                                Hepatitis. don't lose hope.<br></br>
+                                When there’s life there’s hope take this simple
+                                step today by getting this treatment and you
+                                will have your testimonies very soon.
+                              </p>
                             </div>
 
                             <div class="clear"></div>
