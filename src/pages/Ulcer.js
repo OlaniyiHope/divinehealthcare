@@ -191,7 +191,7 @@ const Ulcer = () => {
                         role="tab"
                         aria-controls="tab-reviews"
                       >
-                        <a className="nav-link">Reviews (2)</a>
+                        <a className="nav-link">Reviews (3)</a>
                       </li>
                       <li
                         className={`reviews_tab nav-item ${
@@ -575,18 +575,25 @@ const Ulcer = () => {
                           <div id="reviews" class="woocommerce-Reviews">
                             <div id="comments">
                               <h2 class="woocommerce-Reviews-title">
-                                2 review for <span>Hepatitis</span>{" "}
+                                3 review for <span>Ulcer</span>{" "}
                               </h2>
                               <br></br>
                               <img
                                 decoding="async"
-                                src="wp-content/uploads/2022/09/hivreview.jpeg"
+                                src="wp-content/uploads/2022/09/v1.jpeg"
                                 alt=""
                                 style={{ width: "400px", height: "600px" }}
                               />
                               <img
                                 decoding="async"
-                                src="wp-content/uploads/2022/09/hivreview2.jpeg"
+                                src="wp-content/uploads/2022/09/v2.jpeg"
+                                alt=""
+                                class="main-img"
+                                style={{ width: "400px", height: "600px" }}
+                              />
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/v3.jpeg"
                                 alt=""
                                 class="main-img"
                                 style={{ width: "400px", height: "600px" }}
