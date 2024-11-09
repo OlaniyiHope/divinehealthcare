@@ -127,10 +127,11 @@ const Arthritis = () => {
                     </div>
                     <div class="woocommerce-product-details__short-description">
                       <p>
-                        Suxnix food is food produced by methods complying with
-                        the standards of Rrganic farming. Standards vary Lorem
-                        ipsum dolor sit amet, consectetur adipiscing worldwide,
-                        but organic farming.
+                        Say Bye Bye to Pain, Fatigue and begin to Enjoy More
+                        Quality of Life. It’s a New Natural Joint care to Treat
+                        Arthritis, Rheumatism, Waist pain, Joint pain, Knee
+                        pain, Body tiredness, and General health Challenges
+                        Naturally… Once and for all
                       </p>
                     </div>
 
