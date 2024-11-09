@@ -391,7 +391,6 @@ const Ulcer = () => {
                                     <small></small>
                                   </span>
                                   <form
-                                    action="https://themegenix.net/wp/suxnix/wp-comments-post.php"
                                     method="post"
                                     id="commentform"
                                     class="comment-form"
@@ -600,7 +599,6 @@ const Ulcer = () => {
                                     </small>
                                   </span>
                                   <form
-                                    action="https://themegenix.net/wp/suxnix/wp-comments-post.php"
                                     method="post"
                                     id="commentform"
                                     class="comment-form"
