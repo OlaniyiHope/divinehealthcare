@@ -98,7 +98,7 @@ const Hbp = () => {
                 <div class="col-lg-6">
                   <img
                     decoding="async"
-                    src="wp-content/uploads/2022/09/loweja.jpg"
+                    src="wp-content/uploads/2022/09/hbp.jpeg"
                     alt=""
                     class="main-img"
                   />
@@ -193,7 +193,17 @@ const Hbp = () => {
                         role="tab"
                         aria-controls="tab-reviews"
                       >
-                        <a className="nav-link">Reviews (1)</a>
+                        <a className="nav-link">Reviews (2)</a>
+                      </li>
+                      <li
+                        className={`reviews_tab nav-item ${
+                          activeTab === "package" ? "active" : ""
+                        }`}
+                        onClick={() => setActiveTab("package")}
+                        role="tab"
+                        aria-controls="tab-package"
+                      >
+                        <a className="nav-link">Packages</a>
                       </li>
                     </ul>
                     <div className="tab-content">
@@ -207,55 +217,447 @@ const Hbp = () => {
                           <h2>Description</h2>
 
                           <div class="product-desc-content">
-                            <h4 class="title">The true strength of Suxnix :</h4>
+                            <h4 class="title">
+                              Natural Answer to High Blood Pressure!
+                            </h4>
                             <p>
-                              Whey Protein Isolates (WPIs) are the purest form
-                              of whey protein that currently exists. WPIs are
-                              costly to use, but rate among the best proteins
-                              that money can buy. That’s why they’re the first
-                              ingredient you read on the Gold Standard 100%
-                              Whey™ label. By using WPI as the primary
-                              ingredient along with premium ultra-filtered whey
-                              protein concentrate (WPC), we’re able to pack 24
-                              grams of protein into every serving to support
-                              your muscle building needs after training.
-                              ON’attention to detail also extends to mixability.
-                              This superior quality powder has been instantized
-                              to mix easliy using a shaker cup or just a glass
-                              and spoon. There’s no doubt that this is the
-                              standard by which all other whey proteins are
-                              measured.
+                              Finally Discovered! A PROVEN Method To Control,
+                              Prevent And NORMALIZE YOUR BLOOD PRESSURE and
+                              TREAT STROKE Naturally WITHOUT USING DANGEROUS
+                              SUBSTANCES … IN 30 DAYS OR LESS… Hello There, Are
+                              you suffering from High Blood Pressure, Angina,
+                              Palpitations, High Cholesterol or Heart Failure?
                             </p>
-                            <h4 class="title">Suxnix the basics :</h4>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/hbp.jpeg"
+                              alt=""
+                              style={{ width: "500px", height: "300px" }}
+                              class="main-img"
+                            />
+                            <br></br>
+                            <br></br>
+                            <p>
+                              Are you struggling with any of these BP-related
+                              symptoms?
+                            </p>
+
+                            <br></br>
+
                             <ul class="product-desc-list list-wrap">
+                              <li>Headaches</li>
+                              <li> Shortness of breath</li>
+                              <li> Dizziness or lightheadedness</li>
+                              <li> Chest pain or tightness</li>
+                              <li> Fatigue or weakness</li>
+                              <li> Irregular heartbeat</li>
+                              <li>Vision problems</li>
                               <li>
-                                82% Protein by Weight (24g of Protein Per 31.5g
-                                Serving Size).
-                              </li>
-                              <li>
-                                Whey Protein Isolates (WPI) Main Ingredient.
-                              </li>
-                              <li>
-                                Whey Protein Micro-functions from Whey Protein
-                                Isolate and Ultra-Filtered Whey Protein
-                                Concentrate.
-                              </li>
-                              <li>
-                                Over 4g of Naturally Occurring Glutamine &#038;
-                                Glutamic Acid in Each Serving.
-                              </li>
-                              <li>
-                                More than 5g of the Naturally Occurring Branched
-                                Chain Amino Acids (BCAAs) Leucine, Isoleucine,
-                                and Valine in Each Serving.
-                              </li>
-                              <li>The “Gold Standard” for Protein Quality.</li>
-                              <li>Banned Substance Tested Protein</li>
-                              <li>
-                                French Vanilla Creme Flavored Whey Protein
-                                Powder
+                                {" "}
+                                Nosebleeds Or any other cardiovascular-related
+                                symptoms?
                               </li>
                             </ul>
+                            <br></br>
+                            <p>Then you’ve come to the right place!</p>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/older.jpg"
+                              alt=""
+                              style={{ width: "500px", height: "300px" }}
+                              class="main-img"
+                            />
+                            <br></br>
+                            <p>
+                              As You are about to find out how to be FREE from
+                              high blood pressure FOREVER! Join the number of
+                              aged citizens enjoying their life using 100%
+                              Natural solutions without battling hypertension
+                              and stroke. High blood pressure is often referred
+                              to as the "silent killer," because you feel fine,
+                              until suddenly you don't. And this issue is
+                              widespread, impacting an estimated 1 in 3 adults.
+                              Few people know the direct relationship between
+                              stroke and high blood pressure, If you’ve ever had
+                              a stroke, you very likely also had high blood
+                              pressure. Your doctor may call it hypertension.
+                              There are two main types of strokes (Blocked blood
+                              flow and bleeding around the brain). Little do
+                              people know that untreated high blood pressure
+                              makes it more likely to have a stroke
+                            </p>
+                            <h4>
+                              AVOID GETTING THAT STROKE, CONTROL YOUR BLOOD
+                              PRESSURE
+                            </h4>
+
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/hbp.jpeg"
+                              alt=""
+                              style={{ width: "500px", height: "300px" }}
+                              class="main-img"
+                            />
+                            <br></br>
+                            <p>
+                              When Is Blood Pressure Too High? If your blood
+                              pressure is around 135/80 and above, you have
+                              hypertension. Your numbers naturally rise and fall
+                              depending on what you’re doing and how stressed
+                              you are throughout the day. You should check it
+                              regularly.
+                            </p>
+                            <p>
+                              First, Understand What causes High Blood Pressure
+                              <br></br>
+                              Genetics
+                              <br></br> Sometimes, it runs in families. If your
+                              parents or close relatives have high blood
+                              pressure, you might be more likely to have it too.
+                              <br></br> Aging
+                              <br></br> As people get older, their blood vessels
+                              can get less flexible, which can lead to higher
+                              blood pressure.
+                              <br></br> Certain Health Conditions
+                              <br></br> Things like kidney problems, thyroid
+                              issues, or sleep apnea can affect blood pressure.
+                              <br></br> Unhealthy Lifestyle
+                              <br></br> Eating too much salty or fatty food, not
+                              getting enough exercise, and being overweight can
+                              make your blood pressure go up.
+                              <br></br> Stress
+                              <br></br> When you are really stressed a lot, it
+                              can make your blood pressure rise.
+                            </p>
+                            <h4 class="title">
+                              Here are some dangers of prolonged high blood
+                              pressure
+                            </h4>
+                            <ul>
+                              <li>
+                                Heart Problems
+                                <p>
+                                  High blood pressure makes your heart work
+                                  harder, which can lead to heart disease, heart
+                                  attack, or heart failure.
+                                </p>
+                              </li>
+                              <li>
+                                Stroke
+                                <p>
+                                  It can damage blood vessels in the brain,
+                                  increasing the risk of a stroke.
+                                </p>
+                              </li>
+                              <li>
+                                Kidney Damage
+                                <p>
+                                  High blood pressure can harm the kidneys,
+                                  affecting their ability to filter waste from
+                                  the blood
+                                </p>
+                              </li>
+                              <li>
+                                Aneurysms
+                                <p>
+                                  High blood pressure can cause weakened areas
+                                  in blood vessel walls, potentially leading to
+                                  dangerous bulges called aneurysms.
+                                </p>
+                              </li>
+                            </ul>
+                            <p>
+                              High Blood pressure and Stroke is treatable
+                              <br></br>
+                              If You Have suffered a Stroke you might have one
+                              of the following issues;
+                            </p>
+                            <ul>
+                              <li> Paralysis</li>
+                              <li>
+                                {" "}
+                                Impaired sensory organs e.g eyesight, hearing,
+                                taste e.t.c
+                              </li>
+                              <li> Erectile dysfunction</li>
+                              <li> General weakness and lack of Strength</li>
+                            </ul>
+                            <h4 class="title">
+                              DISCOVERY OF A HERBAL SOLUTION THAT CURES ALL
+                              TYPES OF HBP WITH NO SIDE EFFECTS
+                            </h4>
+                            <h6>
+                              {" "}
+                              Introducing The Best Ever High Blood Pressure
+                              Ultimate Natural Solution!
+                            </h6>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/p1.jpeg"
+                              alt=""
+                              style={{ width: "500px", height: "500px" }}
+                            />
+
+                            <p>
+                              They are Fully approved by NAFDAC and FDA On top
+                              of that, The Nigerian Medical Association (NMA)
+                              has endorsed and partnered with the company behind
+                              these products as a result of the effectiveness.
+                            </p>
+                            <h4 class="title">
+                              Few Reasons you need to consider this “Natural
+                              Remedy For HIGH BLOOD PRESSURE and STROKE
+                              treatment Pack”
+                            </h4>
+
+                            <ul class="product-desc-list list-wrap">
+                              <li>
+                                This all-natural therapy does not have any side
+                                effect unlike the synthetic substances you are
+                                used to.
+                              </li>
+                              <li>
+                                They offer effective and guaranteed solution.
+                              </li>
+                              <li>
+                                {" "}
+                                The company behind these products are
+                                internationally recognized and well known-
+                                Forever Living Products
+                              </li>
+                              <li> The products work…Guaranteed</li>
+                              <li>They are NAFDAC Approved And Certified</li>
+                            </ul>
+                            <br></br>
+                            <p>
+                              Elixir products are a proven remedy to Control and
+                              normalize your BLOOD PRESSURE AND treat STROKE
+                              NATURALLY. The Products we advertise are 100% from
+                              organic sources and not chemicals, that is why we
+                              all them Natural cure.
+                            </p>
+
+                            <p>
+                              Free Delivery all over NIGERIA Included is our
+                              free DIETRY APPROACH TO STOP HYPERTENSION (DASH),
+                              which is a low sodium meal plan that eliminate all
+                              cardiovascular diseases and bad cholesterol.
+                            </p>
+                            <p>
+                              WHEN YOU BUY OUR PRODUCT WE INCLUDE A FREE
+                              EXERCISE VIDEO FOR STROKE PATIENTS TO RESTORE
+                              MOBILITY TO HANDS AND LEGS PLUS DIET PLAN FOR
+                              REGULATING HBP
+                            </p>
+                            <h4 class="title">HOW TO GET THE SUPPLEMENTS</h4>
+                            <p>
+                              I know you may be wondering if you will pay first
+                              before you get this product. NO! You don't have to
+                              pay first. Once you place your order the items
+                              would be sent to your state and once it gets to
+                              your state our courier agent would contact
+                              you,deliver the products to you at your provided
+                              address at no extra cost. So, once our delivery
+                              agent brings it to you, You would receive your
+                              products and pay at the point of delivery.
+                              <br></br>
+                              <br></br>
+                              <h6>HOW TO PLACE YOUR ORDER</h6>
+                              <br></br>
+                              There are three ways to make your order so you
+                              choose the most convenient;<br></br>
+                            </p>
+                            <p>
+                              {" "}
+                              1. You can click this Whatsapp Logo to Chat with
+                              Pharmacst Mary
+                            </p>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/whatsapp.jpeg"
+                              alt=""
+                              class="main-img"
+                              style={{ width: "250px", height: "80px" }}
+                            />
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/bar.jpeg"
+                              alt=""
+                              class="main-img"
+                              style={{ width: "250px", height: "250px" }}
+                            />
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <p>
+                              {" "}
+                              2. OR Call/Text /Send your Address as SMS to
+                              08113201322
+                            </p>
+
+                            <p> 3. OR Fill our form below</p>
+                            <div id="review_form_wrapper">
+                              <div id="review_form" class="comment-input">
+                                <div id="respond" class="comment-respond">
+                                  <span
+                                    id="reply-title"
+                                    class="comment-reply-title"
+                                  >
+                                    Place order for DIvine Health Supplements
+                                    <small></small>
+                                  </span>
+                                  <form
+                                    action="https://themegenix.net/wp/suxnix/wp-comments-post.php"
+                                    method="post"
+                                    id="commentform"
+                                    class="comment-form"
+                                    novalidate
+                                  >
+                                    <p class="comment-form-author">
+                                      <label for="author">
+                                        Full Name&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="author"
+                                          name="author"
+                                          type="text"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Email&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Save my name, email, and website in this
+                                        browser for the next time I comment.
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Full Address&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Full Address
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Phone Number&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Phone NUmber
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Request/Order&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Request/Order
+                                      </label>
+                                    </p>
+                                  </form>{" "}
+                                </div>
+                              </div>
+                            </div>
+                            <br></br>
+                            <br></br>
+                            <p>
+                              IF YOU HAVE ANY QUESTIONS OR CLARIFICATIONS BEFORE
+                              YOU ORDER, CALL ME ON: 08113201322<br></br>
+                              NOTE: Payment is made at the point of delivery.
+                              Please do not place an order if you are not ready
+                              to pay and receive your product within the next 1
+                              or 2 days. Please in case you call and the number
+                              is busy, kindly send me a text message and I will
+                              reply you. Due to demands, the phone number is
+                              always very busy.( smaller text)
+                            </p>
                           </div>
                         </div>
                       )}
@@ -269,67 +671,22 @@ const Hbp = () => {
                           <div id="reviews" class="woocommerce-Reviews">
                             <div id="comments">
                               <h2 class="woocommerce-Reviews-title">
-                                1 review for <span>Optimum Nutrition</span>{" "}
+                                2 review for <span>HBP</span>{" "}
                               </h2>
-
-                              <ol class="commentlist list-wrap">
-                                <li
-                                  class="review byuser comment-author-admin bypostauthor even thread-even depth-1"
-                                  id="li-comment-9"
-                                >
-                                  <div id="comment-9" class="comment_container">
-                                    <img
-                                      alt=""
-                                      src="https://secure.gravatar.com/avatar/2e2a0b7d5fedd5648f765fd38d2a3d3f?s=60&amp;d=mm&amp;r=g"
-                                      srcset="https://secure.gravatar.com/avatar/2e2a0b7d5fedd5648f765fd38d2a3d3f?s=120&#038;d=mm&#038;r=g 2x"
-                                      class="avatar avatar-60 photo"
-                                      height="60"
-                                      width="60"
-                                      loading="lazy"
-                                      decoding="async"
-                                    />
-                                    <div class="comment-text">
-                                      <div
-                                        class="star-rating"
-                                        role="img"
-                                        aria-label="Rated 5 out of 5"
-                                      >
-                                        <span style={{ width: "100%" }}>
-                                          Rated{" "}
-                                          <strong class="rating">5</strong> out
-                                          of 5
-                                        </span>
-                                      </div>
-                                      <p class="meta">
-                                        <strong class="woocommerce-review__author">
-                                          admin{" "}
-                                        </strong>
-                                        <span class="woocommerce-review__dash">
-                                          &ndash;
-                                        </span>{" "}
-                                        <time
-                                          class="woocommerce-review__published-date"
-                                          datetime="2022-09-07T17:24:09+00:00"
-                                        >
-                                          September 7, 2022
-                                        </time>
-                                      </p>
-
-                                      <div class="description">
-                                        <p>
-                                          Sed do eiusmod tempor incididunt ut
-                                          labore et dolore magna aliqua. Ut enim
-                                          ad minim veniam quis nostrud
-                                          exercitation ullamco laboris nisi ut
-                                          aliquip ex ea commodo consequat. Enim
-                                          ad minim veniam, quis nostrud
-                                          exercitation ullamco.
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </li>
-                              </ol>
+                              <br></br>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/st1.jpeg"
+                                alt=""
+                                style={{ width: "400px", height: "600px" }}
+                              />
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/st2.jpeg"
+                                alt=""
+                                class="main-img"
+                                style={{ width: "400px", height: "600px" }}
+                              />
                             </div>
 
                             <div id="review_form_wrapper">
@@ -470,6 +827,58 @@ const Hbp = () => {
                                   </form>{" "}
                                 </div>
                               </div>
+                            </div>
+
+                            <div class="clear"></div>
+                          </div>
+                        </div>
+                      )}
+                      {activeTab === "package" && (
+                        <div
+                          class="tp-content-tab woocommerce-Tabs-panel woocommerce-Tabs-panel--package panel entry-content wc-tab"
+                          id="tab-package"
+                          role="tabpanel"
+                          aria-labelledby="tab-title-package"
+                        >
+                          <div id="package" class="woocommerce-package">
+                            <div id="comments">
+                              <h2 class="woocommerce-Reviews-title">
+                                Heere are the packages available and cost
+                              </h2>
+                              <br></br>
+                              <h6>1 REPAIR + 1 PROCARE 37,000 Naira</h6>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/p1.jpeg"
+                                alt=""
+                                style={{ width: "500px", height: "500px" }}
+                              />
+                              <h6>2 PROCARE 1 REPAIR 47,000 naira</h6>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/p2.jpeg"
+                                alt=""
+                                style={{ width: "500px", height: "500px" }}
+                              />
+                              <br></br>
+
+                              <p>The full packages come with guarantee</p>
+                              <p>
+                                The Number Of bottles Depends On The Severity Of
+                                The Condition<br></br>
+                                NOTE: The duration of treatment you are to use
+                                depends on the level of severity of your
+                                hepatitis<br></br>
+                                This Is Permanent Treatment That Clears The
+                                Viral Load So You Will Be Free From Sickness And
+                                Live A Normal Long Healthy Life<br></br>
+                                This treatment is for those that think it is
+                                finished after they discovered they have
+                                Hepatitis. don't lose hope.<br></br>
+                                When there’s life there’s hope take this simple
+                                step today by getting this treatment and you
+                                will have your testimonies very soon.
+                              </p>
                             </div>
 
                             <div class="clear"></div>

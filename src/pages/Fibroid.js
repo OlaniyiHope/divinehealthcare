@@ -190,7 +190,7 @@ const Fibroid = () => {
                         role="tab"
                         aria-controls="tab-reviews"
                       >
-                        <a className="nav-link">Reviews (2)</a>
+                        <a className="nav-link">Reviews (3)</a>
                       </li>
                       <li
                         className={`reviews_tab nav-item ${
@@ -416,32 +416,38 @@ const Fibroid = () => {
 
                             <ul class="product-desc-list list-wrap">
                               <li>
-                                Get Rid Of Your Fibroid Naturally Within 2
-                                Months and Prevent Recurrent growth Eliminate
-                                Pelvic Pressure and Pain
+                                Eliminates all sizes and types of fibroid,
+                                safely, permanently and naturally
                               </li>
-                              <li>Bloating and Discomfort</li>
                               <li>
-                                Boost Your Fertility and Gain Regular Periods
+                                Eliminates the pain and bloating associated with
+                                uterine fibroid
                               </li>
+                              <li>
+                                Prevents heavy period, bleeding, cramping and
+                                clotting permanently
+                              </li>
+                              <li>
+                                It builds up a defense against excess growth and
+                                clears all fibroid deposit
+                              </li>
+                              <li>
+                                Makes you very fertile and increase your chances
+                                of getting pregnant
+                              </li>
+                              <li>
+                                It gets rid of all forms of infection(STD) in
+                                the body and boosts the immune system
+                              </li>
+                              <li>It shrinks and eliminates ovarian cysts</li>
                               <li>
                                 {" "}
-                                (No More Spotting or Unexpected periods Stop
-                                Bladder Pressure
+                                No side effects, avoid the cost, pain and
+                                consequences of fibroid surgery e
                               </li>
                               <li>
-                                You will live a healthy life without diseases,
-                                thus prolonging your life etc.
-                              </li>
-                              <li>
-                                {" "}
-                                Clears out all signs and symptoms the patient
-                                might have been observing
-                              </li>
-                              <li> Averts any chance of liver cancer</li>
-                              <li>Averts cirrhosis and reverts its effects</li>
-                              <li>
-                                It also cures ulcer and helps blood pressure
+                                It detoxify and cleanse the fallopian tubes also
+                                prepare your womb to conceiv
                               </li>
                             </ul>
                             <br></br>
@@ -454,6 +460,12 @@ const Fibroid = () => {
                               weeks. “FIBROID REMOVER PACK” contains different
                               natural health Extracts that will help you get
                               back the perfect health that you deserve.
+                            </p>
+                            <p>
+                              It is our desire to help stop Fibroid Patients
+                              from spending ridiculous amounts of money on risky
+                              surgeries and other short-term treatments that
+                              don’t last.
                             </p>
                             <h4 class="title">HOW TO GET THE SUPPLEMENTS</h4>
                             <p>
@@ -677,7 +689,7 @@ const Fibroid = () => {
                           <div id="reviews" class="woocommerce-Reviews">
                             <div id="comments">
                               <h2 class="woocommerce-Reviews-title">
-                                2 review for <span>Fibroid</span>{" "}
+                                3 review for <span>Fibroid</span>{" "}
                               </h2>
                               <br></br>
                               <img
@@ -688,7 +700,14 @@ const Fibroid = () => {
                               />
                               <img
                                 decoding="async"
-                                src="wp-content/uploads/2022/09/sol.jpeg"
+                                src="wp-content/uploads/2022/09/c1.jpeg"
+                                alt=""
+                                class="main-img"
+                                style={{ width: "400px", height: "600px" }}
+                              />
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/c2.jpeg"
                                 alt=""
                                 class="main-img"
                                 style={{ width: "400px", height: "600px" }}
@@ -849,20 +868,34 @@ const Fibroid = () => {
                           <div id="package" class="woocommerce-package">
                             <div id="comments">
                               <h2 class="woocommerce-Reviews-title">
-                                Heere are the packages available and cost
+                                Here are the packages available and cost
                               </h2>
                               <br></br>
-                              <h6>1 REPAIR + 1 PROCARE 37,000 Naira</h6>
+                              <h6>1 REPAIR + 1 Tumour free 42,000 Naira</h6>
                               <img
                                 decoding="async"
-                                src="wp-content/uploads/2022/09/p1.jpeg"
+                                src="wp-content/uploads/2022/09/tur.jpeg"
                                 alt=""
                                 style={{ width: "500px", height: "500px" }}
                               />
-                              <h6>2 PROCARE 1 REPAIR 47,000 naira</h6>
+                              <h6>
+                                3 in 1 pack 1 repair 1 tumour free 1 female care
+                                57,000 naira
+                              </h6>
                               <img
                                 decoding="async"
-                                src="wp-content/uploads/2022/09/p2.jpeg"
+                                src="wp-content/uploads/2022/09/tur2.jpeg"
+                                alt=""
+                                style={{ width: "500px", height: "500px" }}
+                              />
+                              <br></br>
+                              <h6>
+                                4 in 1 pack 1 repair 2 tumour free 1 female care
+                                72,000 naira
+                              </h6>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/tur3.jpeg"
                                 alt=""
                                 style={{ width: "500px", height: "500px" }}
                               />
