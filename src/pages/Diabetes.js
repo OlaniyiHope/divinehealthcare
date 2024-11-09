@@ -96,8 +96,8 @@ const Diabetes = () => {
                 <div class="col-lg-6">
                   <img
                     decoding="async"
-                    src="wp-content/uploads/2022/09/diabetes.jpg"
                     alt=""
+                    src="wp-content/uploads/2022/09/diabetes.jpg"
                     class="main-img"
                   />
                 </div>
@@ -127,10 +127,11 @@ const Diabetes = () => {
                     </div>
                     <div class="woocommerce-product-details__short-description">
                       <p>
-                        Suxnix food is food produced by methods complying with
-                        the standards of Rrganic farming. Standards vary Lorem
-                        ipsum dolor sit amet, consectetur adipiscing worldwide,
-                        but organic farming.
+                        100% Herbal Diabetes Reversal Remedy. First i want to
+                        say congratulations!....Your search for a cure to
+                        diabetes is over. Here is the total breakthrough that
+                        over 500 Nigerians Home and Abroad have used to put a
+                        final STOP to diabetes
                       </p>
                     </div>
 
@@ -191,7 +192,17 @@ const Diabetes = () => {
                         role="tab"
                         aria-controls="tab-reviews"
                       >
-                        <a className="nav-link">Reviews (1)</a>
+                        <a className="nav-link">Reviews (2)</a>
+                      </li>
+                      <li
+                        className={`reviews_tab nav-item ${
+                          activeTab === "package" ? "active" : ""
+                        }`}
+                        onClick={() => setActiveTab("package")}
+                        role="tab"
+                        aria-controls="tab-package"
+                      >
+                        <a className="nav-link">Packages</a>
                       </li>
                     </ul>
                     <div className="tab-content">
@@ -205,55 +216,331 @@ const Diabetes = () => {
                           <h2>Description</h2>
 
                           <div class="product-desc-content">
-                            <h4 class="title">The true strength of Suxnix :</h4>
+                            <h4 class="title">Diabetes Herbal Remedy</h4>
+                            <h6>
+                              HERE IS A PERFECT & PERMANENT CURE FOR DIABETES
+                            </h6>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/diabetes.jpg"
+                              alt=""
+                              class="main-img"
+                            />
                             <p>
-                              Whey Protein Isolates (WPIs) are the purest form
-                              of whey protein that currently exists. WPIs are
-                              costly to use, but rate among the best proteins
-                              that money can buy. That’s why they’re the first
-                              ingredient you read on the Gold Standard 100%
-                              Whey™ label. By using WPI as the primary
-                              ingredient along with premium ultra-filtered whey
-                              protein concentrate (WPC), we’re able to pack 24
-                              grams of protein into every serving to support
-                              your muscle building needs after training.
-                              ON’attention to detail also extends to mixability.
-                              This superior quality powder has been instantized
-                              to mix easliy using a shaker cup or just a glass
-                              and spoon. There’s no doubt that this is the
-                              standard by which all other whey proteins are
-                              measured.
+                              100% Herbal Diabetes Reversal Remedy. First i want
+                              to say congratulations!....Your search for a cure
+                              to diabetes is over. Here is the total
+                              breakthrough that over 500 Nigerians Home and
+                              Abroad have used to put a final STOP to diabetes.
+                              You must have heard the phrase "diabetes is
+                              irreversible", or "you will just be managing it".
+                              I am here todaytell you a lot of people have
+                              successfully reversed diabetes and are living a
+                              life free of medication. I am not saying dont
+                              listed to your doctor, but i can tell you
+                              categorically that i have a lot of doctors on my
+                              contact list that have called me to buy our herbal
+                              treatment. I tell all my patients that the two
+                              must important steps in defeating diabetes is
+                              number 1 discipline and number 2 accepting that
+                              you have to be your own doctor!
                             </p>
-                            <h4 class="title">Suxnix the basics :</h4>
+
+                            <br></br>
+                            <h4 class="title">symptoms</h4>
+                            <p>
+                              Signs and symptoms of hepatitis B range from mild
+                              to severe. They usually appear about one to four
+                              months after you’ve been infected, although you
+                              could see them as early as two weeks
+                              post-infection. Some people, usually young
+                              children, may not have any symptoms.
+                            </p>
+                            <p>
+                              <span>
+                                Hepatitis B signs and symptoms may include:
+                              </span>
+                            </p>
                             <ul class="product-desc-list list-wrap">
-                              <li>
-                                82% Protein by Weight (24g of Protein Per 31.5g
-                                Serving Size).
-                              </li>
-                              <li>
-                                Whey Protein Isolates (WPI) Main Ingredient.
-                              </li>
-                              <li>
-                                Whey Protein Micro-functions from Whey Protein
-                                Isolate and Ultra-Filtered Whey Protein
-                                Concentrate.
-                              </li>
-                              <li>
-                                Over 4g of Naturally Occurring Glutamine &#038;
-                                Glutamic Acid in Each Serving.
-                              </li>
-                              <li>
-                                More than 5g of the Naturally Occurring Branched
-                                Chain Amino Acids (BCAAs) Leucine, Isoleucine,
-                                and Valine in Each Serving.
-                              </li>
-                              <li>The “Gold Standard” for Protein Quality.</li>
-                              <li>Banned Substance Tested Protein</li>
-                              <li>
-                                French Vanilla Creme Flavored Whey Protein
-                                Powder
-                              </li>
+                              <li>Abdominal Pain</li>
+                              <li>Dark Urine</li>
+                              <li>Fever</li>
+                              <li>Joint Pain</li>
+                              <li>Loss of appetite</li>
+                              <li> Weakness and fatigue</li>
+                              <li> Yellowing of your skin</li>
+                              <li>Vomiting</li>
+                              <li>Nausea</li>
                             </ul>
+                            <br></br>
+
+                            <h4 class="title">
+                              DISCOVERY OF A HERBAL SOLUTION THAT CURES ALL
+                              TYPES OF DIABETES WITH NO SIDE EFFECTS
+                            </h4>
+                            <h6> INTRODUCING DIABETES SUPPLEMENTS</h6>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/p1.jpeg"
+                              alt=""
+                              style={{ width: "500px", height: "500px" }}
+                            />
+
+                            <p>
+                              This treatment is for those that think it is
+                              finished after they discovered they have Diabetes.
+                              When there’s life there’s hope and whatever we do
+                              living on earth are risks so I implore you to take
+                              this simple step today by getting this treatment
+                              and you will have your testimonies very soon. I
+                              ASSURE YOU WITH OUR HERBAL PRODUCTS AND DIET PLAN
+                              WHICH WE GIVE FREE OF CHARGE, YOU ARE CERTAIN TO
+                              REVERSE ANY TYPE OF DIABETES
+                            </p>
+                            <h4 class="title">
+                              Here's what this DIABETES SUPPLEMENTS can do to
+                              help you:
+                            </h4>
+                            <h6>Finger indication:</h6>
+                            <ul class="product-desc-list list-wrap">
+                              <li>Cures any type of diabetes</li>
+                              <li>Reverse high blood sugar</li>
+                            </ul>
+                            <br></br>
+                            <h4 class="title">
+                              HOW TO GET THE DIABETES SUPPLEMENTS
+                            </h4>
+                            <p>
+                              I know you may be wondering if you will pay first
+                              before you get this product. NO! You don't have to
+                              pay first. Once you place your order the would be
+                              sent to your state and once it gets to your state
+                              our courier agent would contact you,deliver the
+                              products to you at your provided address at no
+                              extra cost. So, once our delivery agent brings it
+                              to you, You would receive your products and pay at
+                              the point of delivery. I assure you with our
+                              herbal products and diet plan which we give free
+                              of charge, you are certain to reverse high blood
+                              sugar
+                              <br></br>
+                              <br></br>
+                              <h6>HOW TO PLACE YOUR ORDER</h6>
+                              <br></br>
+                              There are three ways to make your order so you
+                              choose the most convenient;<br></br>
+                            </p>
+                            <p>
+                              {" "}
+                              1. You can click this Whatsapp Logo to Chat with
+                              Pharmacst Mary
+                            </p>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/whatsapp.jpeg"
+                              alt=""
+                              class="main-img"
+                              style={{ width: "250px", height: "80px" }}
+                            />
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/bar.jpeg"
+                              alt=""
+                              class="main-img"
+                              style={{ width: "250px", height: "250px" }}
+                            />
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <p>
+                              {" "}
+                              2. OR Call/Text /Send your Address as SMS to
+                              08113201322
+                            </p>
+
+                            <p> 3. OR Fill our form below</p>
+
+                            <div id="review_form_wrapper">
+                              <div id="review_form" class="comment-input">
+                                <div id="respond" class="comment-respond">
+                                  <span
+                                    id="reply-title"
+                                    class="comment-reply-title"
+                                  >
+                                    Place order for DIvine Health Supplements
+                                    <small>
+                                      <a
+                                        rel="nofollow"
+                                        id="cancel-comment-reply-link"
+                                        href="index.html#respond"
+                                        style={{ display: "none" }}
+                                      >
+                                        Cancel reply
+                                      </a>
+                                    </small>
+                                  </span>
+                                  <form
+                                    action="https://themegenix.net/wp/suxnix/wp-comments-post.php"
+                                    method="post"
+                                    id="commentform"
+                                    class="comment-form"
+                                    novalidate
+                                  >
+                                    <p class="comment-notes">
+                                      <span id="email-notes">
+                                        Your email address will not be
+                                        published.
+                                      </span>{" "}
+                                      <span class="required-field-message">
+                                        Required fields are marked{" "}
+                                        <span class="required">*</span>
+                                      </span>
+                                    </p>
+                                    <p class="comment-form-author">
+                                      <label for="author">
+                                        Name&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="author"
+                                          name="author"
+                                          type="text"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Email&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Save my name, email, and website in this
+                                        browser for the next time I comment.
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Full Address&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Full Address
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Phone Number&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Phone NUmber
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Request/Comment&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Request/Comment
+                                      </label>
+                                    </p>
+                                  </form>{" "}
+                                </div>
+                              </div>
+                            </div>
+                            <br></br>
+                            <br></br>
+                            <p>
+                              IF YOU HAVE ANY QUESTIONS OR CLARIFICATIONS BEFORE
+                              YOU ORDER, CALL ME ON: 08113201322<br></br>
+                              NOTE: Payment is made at the point of delivery.
+                              Please do not place an order if you are not ready
+                              to pay and receive your product within the next 1
+                              or 2 days. Please in case you call and the number
+                              is busy, kindly send me a text message and I will
+                              reply you. Due to demands, the phone number is
+                              always very busy.( smaller text)
+                            </p>
                           </div>
                         </div>
                       )}
@@ -267,67 +554,22 @@ const Diabetes = () => {
                           <div id="reviews" class="woocommerce-Reviews">
                             <div id="comments">
                               <h2 class="woocommerce-Reviews-title">
-                                1 review for <span>Optimum Nutrition</span>{" "}
+                                2 review for <span>Hepatitis</span>{" "}
                               </h2>
-
-                              <ol class="commentlist list-wrap">
-                                <li
-                                  class="review byuser comment-author-admin bypostauthor even thread-even depth-1"
-                                  id="li-comment-9"
-                                >
-                                  <div id="comment-9" class="comment_container">
-                                    <img
-                                      alt=""
-                                      src="https://secure.gravatar.com/avatar/2e2a0b7d5fedd5648f765fd38d2a3d3f?s=60&amp;d=mm&amp;r=g"
-                                      srcset="https://secure.gravatar.com/avatar/2e2a0b7d5fedd5648f765fd38d2a3d3f?s=120&#038;d=mm&#038;r=g 2x"
-                                      class="avatar avatar-60 photo"
-                                      height="60"
-                                      width="60"
-                                      loading="lazy"
-                                      decoding="async"
-                                    />
-                                    <div class="comment-text">
-                                      <div
-                                        class="star-rating"
-                                        role="img"
-                                        aria-label="Rated 5 out of 5"
-                                      >
-                                        <span style={{ width: "100%" }}>
-                                          Rated{" "}
-                                          <strong class="rating">5</strong> out
-                                          of 5
-                                        </span>
-                                      </div>
-                                      <p class="meta">
-                                        <strong class="woocommerce-review__author">
-                                          admin{" "}
-                                        </strong>
-                                        <span class="woocommerce-review__dash">
-                                          &ndash;
-                                        </span>{" "}
-                                        <time
-                                          class="woocommerce-review__published-date"
-                                          datetime="2022-09-07T17:24:09+00:00"
-                                        >
-                                          September 7, 2022
-                                        </time>
-                                      </p>
-
-                                      <div class="description">
-                                        <p>
-                                          Sed do eiusmod tempor incididunt ut
-                                          labore et dolore magna aliqua. Ut enim
-                                          ad minim veniam quis nostrud
-                                          exercitation ullamco laboris nisi ut
-                                          aliquip ex ea commodo consequat. Enim
-                                          ad minim veniam, quis nostrud
-                                          exercitation ullamco.
-                                        </p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </li>
-                              </ol>
+                              <br></br>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/hivreview.jpeg"
+                                alt=""
+                                style={{ width: "400px", height: "600px" }}
+                              />
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/hivreview2.jpeg"
+                                alt=""
+                                class="main-img"
+                                style={{ width: "400px", height: "600px" }}
+                              />
                             </div>
 
                             <div id="review_form_wrapper">
@@ -474,474 +716,62 @@ const Diabetes = () => {
                           </div>
                         </div>
                       )}
+                      {activeTab === "package" && (
+                        <div
+                          class="tp-content-tab woocommerce-Tabs-panel woocommerce-Tabs-panel--package panel entry-content wc-tab"
+                          id="tab-package"
+                          role="tabpanel"
+                          aria-labelledby="tab-title-package"
+                        >
+                          <div id="package" class="woocommerce-package">
+                            <div id="comments">
+                              <h2 class="woocommerce-Reviews-title">
+                                Heere are the packages available and cost
+                              </h2>
+                              <br></br>
+                              <h6>1 REPAIR + 1 PROCARE 37,000 Naira</h6>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/p1.jpeg"
+                                alt=""
+                                style={{ width: "500px", height: "500px" }}
+                              />
+                              <h6>2 PROCARE 1 REPAIR 47,000 naira</h6>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/p2.jpeg"
+                                alt=""
+                                style={{ width: "500px", height: "500px" }}
+                              />
+                              <br></br>
+
+                              <p>The full packages come with guarantee</p>
+                              <p>
+                                The Number Of bottles Depends On The Severity Of
+                                The Condition<br></br>
+                                NOTE: The duration of treatment you are to use
+                                depends on the level of severity of your
+                                hepatitis<br></br>
+                                This Is Permanent Treatment That Clears The
+                                Viral Load So You Will Be Free From Sickness And
+                                Live A Normal Long Healthy Life<br></br>
+                                This treatment is for those that think it is
+                                finished after they discovered they have
+                                Hepatitis. don't lose hope.<br></br>
+                                When there’s life there’s hope take this simple
+                                step today by getting this treatment and you
+                                will have your testimonies very soon.
+                              </p>
+                            </div>
+
+                            <div class="clear"></div>
+                          </div>
+                        </div>
+                      )}
                     </div>
                   </div>
                 </div>
               </div>
-
-              {/*<div class="related-products-area">
-                <div class="related-products-wrap">
-                  <h2 class="title">Related products</h2>
-
-                  <div class="row rel-product-slider-active">
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                      <div class="suxnix-product-main">
-                        <div class="home-shop-item inner-shop-item">
-                          <div class="home-shop-thumb">
-                            <a href="../box-full-of-muscles/index.html">
-                              <img
-                                width="605"
-                                height="580"
-                                src="wp-content/uploads/2022/09/shop-details-thumb04.png"
-                                class="attachment-post-thumbnail size-post-thumbnail wp-post-image"
-                                alt=""
-                                decoding="async"
-                                loading="lazy"
-                                srcset="https://themegenix.net/wp/suxnix/wp-content/uploads/2022/09/shop-details-thumb04.png 605w, https://themegenix.net/wp/suxnix/wp-content/uploads/2022/09/shop-details-thumb04-300x288.png 300w"
-                                sizes="(max-width: 605px) 100vw, 605px"
-                              />
-                            </a>
-
-                            <div class="on-sale-wrap">
-                              <span class="onsale">Sale!</span>
-                            </div>
-                          </div>
-
-                          <div class="home-shop-content">
-                            <div class="shop-item-cat">
-                              <a href="../../product-category/nutrition/index.html">
-                                Nutrition
-                              </a>{" "}
-                            </div>
-                            <h4 class="title">
-                              <a href="../box-full-of-muscles/index.html">
-                                Box Full of Muscles
-                              </a>
-                            </h4>
-                            <div class="home-shop-price">
-                              <span class="price">
-                                <del aria-hidden="true">
-                                  <span class="woocommerce-Price-amount amount">
-                                    <bdi>
-                                      <span class="woocommerce-Price-currencySymbol">
-                                        &#36;
-                                      </span>
-                                      59.99
-                                    </bdi>
-                                  </span>
-                                </del>{" "}
-                                <ins>
-                                  <span class="woocommerce-Price-amount amount">
-                                    <bdi>
-                                      <span class="woocommerce-Price-currencySymbol">
-                                        &#36;
-                                      </span>
-                                      39.99
-                                    </bdi>
-                                  </span>
-                                </ins>
-                              </span>
-                            </div>
-                            <div class="home-shop-rating">
-                              <div
-                                class="details-rating shop-single-rating"
-                                title="Rating 0 out of 5"
-                              >
-                                <i class="far fa-star"></i>
-                                <i class="far fa-star"></i>
-                                <i class="far fa-star"></i>
-                                <i class="far fa-star"></i>
-                                <i class="far fa-star"></i>
-                                <span class="rating-count">( 0 out of 5 )</span>
-                              </div>{" "}
-                            </div>
-                            <div class="shop-content-bottom">
-                              <a
-                                href="indexe038.html?add-to-cart=82"
-                                data-quantity="1"
-                                class="add-cart-btn cart-button icon-btn product_type_simple add_to_cart_button ajax_add_to_cart"
-                                data-product_id="82"
-                                data-product_sku="QZX8VG-T"
-                                aria-label="Add &ldquo;Box Full of Muscles&rdquo; to your cart"
-                                rel="nofollow"
-                              >
-                                <i class="flaticon-shopping-cart-1"></i>
-                              </a>{" "}
-                              <a
-                                href="../../checkout/indexe038.html?add-to-cart=82"
-                                class="btn btn-two"
-                              >
-                                Buy Now
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div
-                          class="tinv-wraper woocommerce tinv-wishlist tinvwl-after-add-to-cart tinvwl-loop-button-wrapper tinvwl-woocommerce_after_shop_loop_item"
-                          data-tinvwl_product_id="82"
-                        >
-                          <div class="tinv-wishlist-clear"></div>
-                          <a
-                            role="button"
-                            tabindex="0"
-                            name="add-to-wishlist"
-                            aria-label="Add to Wishlist"
-                            class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-after tinvwl-loop"
-                            data-tinv-wl-list="[]"
-                            data-tinv-wl-product="82"
-                            data-tinv-wl-productvariation="0"
-                            data-tinv-wl-productvariations="[]"
-                            data-tinv-wl-producttype="simple"
-                            data-tinv-wl-action="add"
-                          >
-                            <span class="tinvwl_add_to_wishlist-text">
-                              Add to Wishlist
-                            </span>
-                          </a>
-                          <div class="tinv-wishlist-clear"></div>{" "}
-                          <div class="tinvwl-tooltip">Add to Wishlist</div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                      <div class="suxnix-product-main">
-                        <div class="home-shop-item inner-shop-item">
-                          <div class="home-shop-thumb">
-                            <a href="../protein-powder-2kg/index.html">
-                              <img
-                                width="605"
-                                height="580"
-                                src="wp-content/uploads/2022/09/shop-details-thumb01.png"
-                                class="attachment-post-thumbnail size-post-thumbnail wp-post-image"
-                                alt=""
-                                decoding="async"
-                                loading="lazy"
-                                srcset="https://themegenix.net/wp/suxnix/wp-content/uploads/2022/09/shop-details-thumb01.png 605w, https://themegenix.net/wp/suxnix/wp-content/uploads/2022/09/shop-details-thumb01-300x288.png 300w"
-                                sizes="(max-width: 605px) 100vw, 605px"
-                              />
-                            </a>
-
-                            <div class="on-sale-wrap"></div>
-                          </div>
-
-                          <div class="home-shop-content">
-                            <div class="shop-item-cat">
-                              <a href="../../product-category/body-fit/index.html">
-                                Body &amp; Fit
-                              </a>{" "}
-                            </div>
-                            <h4 class="title">
-                              <a href="../protein-powder-2kg/index.html">
-                                Protein Powder 2kg
-                              </a>
-                            </h4>
-                            <div class="home-shop-price">
-                              <span class="price">
-                                <span class="woocommerce-Price-amount amount">
-                                  <bdi>
-                                    <span class="woocommerce-Price-currencySymbol">
-                                      &#36;
-                                    </span>
-                                    59.99
-                                  </bdi>
-                                </span>
-                              </span>
-                            </div>
-                            <div class="home-shop-rating">
-                              <div
-                                class="details-rating shop-single-rating"
-                                title="Rating 0 out of 5"
-                              >
-                                <i class="far fa-star"></i>
-                                <i class="far fa-star"></i>
-                                <i class="far fa-star"></i>
-                                <i class="far fa-star"></i>
-                                <i class="far fa-star"></i>
-                                <span class="rating-count">( 0 out of 5 )</span>
-                              </div>{" "}
-                            </div>
-                            <div class="shop-content-bottom">
-                              <a
-                                href="index3c0e.html?add-to-cart=81"
-                                data-quantity="1"
-                                class="add-cart-btn cart-button icon-btn product_type_simple add_to_cart_button ajax_add_to_cart"
-                                data-product_id="81"
-                                data-product_sku="QZX8VGA-9"
-                                aria-label="Add &ldquo;Protein Powder 2kg&rdquo; to your cart"
-                                rel="nofollow"
-                              >
-                                <i class="flaticon-shopping-cart-1"></i>
-                              </a>{" "}
-                              <a
-                                href="../../checkout/index3c0e.html?add-to-cart=81"
-                                class="btn btn-two"
-                              >
-                                Buy Now
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div
-                          class="tinv-wraper woocommerce tinv-wishlist tinvwl-after-add-to-cart tinvwl-loop-button-wrapper tinvwl-woocommerce_after_shop_loop_item"
-                          data-tinvwl_product_id="81"
-                        >
-                          <div class="tinv-wishlist-clear"></div>
-                          <a
-                            role="button"
-                            tabindex="0"
-                            name="add-to-wishlist"
-                            aria-label="Add to Wishlist"
-                            class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-after tinvwl-loop"
-                            data-tinv-wl-list="[]"
-                            data-tinv-wl-product="81"
-                            data-tinv-wl-productvariation="0"
-                            data-tinv-wl-productvariations="[]"
-                            data-tinv-wl-producttype="simple"
-                            data-tinv-wl-action="add"
-                          >
-                            <span class="tinvwl_add_to_wishlist-text">
-                              Add to Wishlist
-                            </span>
-                          </a>
-                          <div class="tinv-wishlist-clear"></div>{" "}
-                          <div class="tinvwl-tooltip">Add to Wishlist</div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                      <div class="suxnix-product-main">
-                        <div class="home-shop-item inner-shop-item">
-                          <div class="home-shop-thumb">
-                            <a href="../body-shaping-foods/index.html">
-                              <img
-                                width="605"
-                                height="580"
-                                src="wp-content/uploads/2022/09/shop-details-thumb05.png"
-                                class="attachment-post-thumbnail size-post-thumbnail wp-post-image"
-                                alt=""
-                                decoding="async"
-                                loading="lazy"
-                                srcset="https://themegenix.net/wp/suxnix/wp-content/uploads/2022/09/shop-details-thumb05.png 605w, https://themegenix.net/wp/suxnix/wp-content/uploads/2022/09/shop-details-thumb05-300x288.png 300w"
-                                sizes="(max-width: 605px) 100vw, 605px"
-                              />
-                            </a>
-
-                            <div class="on-sale-wrap">
-                              <span class="onsale">Sale!</span>
-                            </div>
-                          </div>
-
-                          <div class="home-shop-content">
-                            <div class="shop-item-cat">
-                              <a href="../../product-category/nutrition/index.html">
-                                Nutrition
-                              </a>{" "}
-                            </div>
-                            <h4 class="title">
-                              <a href="../body-shaping-foods/index.html">
-                                Body Shaping Foods
-                              </a>
-                            </h4>
-                            <div class="home-shop-price">
-                              <span class="price">
-                                <del aria-hidden="true">
-                                  <span class="woocommerce-Price-amount amount">
-                                    <bdi>
-                                      <span class="woocommerce-Price-currencySymbol">
-                                        &#36;
-                                      </span>
-                                      49.99
-                                    </bdi>
-                                  </span>
-                                </del>{" "}
-                                <ins>
-                                  <span class="woocommerce-Price-amount amount">
-                                    <bdi>
-                                      <span class="woocommerce-Price-currencySymbol">
-                                        &#36;
-                                      </span>
-                                      29.99
-                                    </bdi>
-                                  </span>
-                                </ins>
-                              </span>
-                            </div>
-                            <div class="home-shop-rating">
-                              <div
-                                class="details-rating shop-single-rating"
-                                title="Rating 4.00 out of 5"
-                              >
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="far fa-star"></i>
-                                <span class="rating-count">
-                                  ( 4.00 out of 5 )
-                                </span>
-                              </div>{" "}
-                            </div>
-                            <div class="shop-content-bottom">
-                              <a
-                                href="index6b8f.html?add-to-cart=86"
-                                data-quantity="1"
-                                class="add-cart-btn cart-button icon-btn product_type_simple add_to_cart_button ajax_add_to_cart"
-                                data-product_id="86"
-                                data-product_sku="QZX8VG-U"
-                                aria-label="Add &ldquo;Body Shaping Foods&rdquo; to your cart"
-                                rel="nofollow"
-                              >
-                                <i class="flaticon-shopping-cart-1"></i>
-                              </a>{" "}
-                              <a
-                                href="../../checkout/index6b8f.html?add-to-cart=86"
-                                class="btn btn-two"
-                              >
-                                Buy Now
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div
-                          class="tinv-wraper woocommerce tinv-wishlist tinvwl-after-add-to-cart tinvwl-loop-button-wrapper tinvwl-woocommerce_after_shop_loop_item"
-                          data-tinvwl_product_id="86"
-                        >
-                          <div class="tinv-wishlist-clear"></div>
-                          <a
-                            role="button"
-                            tabindex="0"
-                            name="add-to-wishlist"
-                            aria-label="Add to Wishlist"
-                            class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-after tinvwl-loop"
-                            data-tinv-wl-list="[]"
-                            data-tinv-wl-product="86"
-                            data-tinv-wl-productvariation="0"
-                            data-tinv-wl-productvariations="[]"
-                            data-tinv-wl-producttype="simple"
-                            data-tinv-wl-action="add"
-                          >
-                            <span class="tinvwl_add_to_wishlist-text">
-                              Add to Wishlist
-                            </span>
-                          </a>
-                          <div class="tinv-wishlist-clear"></div>{" "}
-                          <div class="tinvwl-tooltip">Add to Wishlist</div>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="col-xl-3 col-lg-4 col-sm-6">
-                      <div class="suxnix-product-main">
-                        <div class="home-shop-item inner-shop-item">
-                          <div class="home-shop-thumb">
-                            <a href="../sneaky-supplements/index.html">
-                              <img
-                                width="605"
-                                height="580"
-                                src="wp-content/uploads/2022/09/shop-details-thumb08.png"
-                                class="attachment-post-thumbnail size-post-thumbnail wp-post-image"
-                                alt=""
-                                decoding="async"
-                                loading="lazy"
-                                srcset="https://themegenix.net/wp/suxnix/wp-content/uploads/2022/09/shop-details-thumb08.png 605w, https://themegenix.net/wp/suxnix/wp-content/uploads/2022/09/shop-details-thumb08-300x288.png 300w"
-                                sizes="(max-width: 605px) 100vw, 605px"
-                              />
-                            </a>
-
-                            <div class="on-sale-wrap"></div>
-                          </div>
-
-                          <div class="home-shop-content">
-                            <div class="shop-item-cat">
-                              <a href="../../product-category/nutrition/index.html">
-                                Nutrition
-                              </a>{" "}
-                            </div>
-                            <h4 class="title">
-                              <a href="../sneaky-supplements/index.html">
-                                Sneaky Supplements
-                              </a>
-                            </h4>
-                            <div class="home-shop-price">
-                              <span class="price">
-                                <span class="woocommerce-Price-amount amount">
-                                  <bdi>
-                                    <span class="woocommerce-Price-currencySymbol">
-                                      &#36;
-                                    </span>
-                                    18.99
-                                  </bdi>
-                                </span>
-                              </span>
-                            </div>
-                            <div class="home-shop-rating">
-                              <div
-                                class="details-rating shop-single-rating"
-                                title="Rating 5.00 out of 5"
-                              >
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <span class="rating-count">
-                                  ( 5.00 out of 5 )
-                                </span>
-                              </div>{" "}
-                            </div>
-                            <div class="shop-content-bottom">
-                              <a
-                                href="index1278.html?add-to-cart=84"
-                                data-quantity="1"
-                                class="add-cart-btn cart-button icon-btn product_type_simple add_to_cart_button ajax_add_to_cart"
-                                data-product_id="84"
-                                data-product_sku="QZX8VG-L"
-                                aria-label="Add &ldquo;Sneaky Supplements&rdquo; to your cart"
-                                rel="nofollow"
-                              >
-                                <i class="flaticon-shopping-cart-1"></i>
-                              </a>{" "}
-                              <a
-                                href="../../checkout/index1278.html?add-to-cart=84"
-                                class="btn btn-two"
-                              >
-                                Buy Now
-                              </a>
-                            </div>
-                          </div>
-                        </div>
-                        <div
-                          class="tinv-wraper woocommerce tinv-wishlist tinvwl-after-add-to-cart tinvwl-loop-button-wrapper tinvwl-woocommerce_after_shop_loop_item"
-                          data-tinvwl_product_id="84"
-                        >
-                          <div class="tinv-wishlist-clear"></div>
-                          <a
-                            role="button"
-                            tabindex="0"
-                            name="add-to-wishlist"
-                            aria-label="Add to Wishlist"
-                            class="tinvwl_add_to_wishlist_button tinvwl-icon-heart  tinvwl-position-after tinvwl-loop"
-                            data-tinv-wl-list="[]"
-                            data-tinv-wl-product="84"
-                            data-tinv-wl-productvariation="0"
-                            data-tinv-wl-productvariations="[]"
-                            data-tinv-wl-producttype="simple"
-                            data-tinv-wl-action="add"
-                          >
-                            <span class="tinvwl_add_to_wishlist-text">
-                              Add to Wishlist
-                            </span>
-                          </a>
-                          <div class="tinv-wishlist-clear"></div>{" "}
-                          <div class="tinvwl-tooltip">Add to Wishlist</div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>*/}
             </div>
           </div>
         </main>
