@@ -65,6 +65,7 @@ const EditFibroid = ({ initialDescription, onSave }) => {
           toolbar: [
             [{ header: [1, 2, false] }],
             ["bold", "italic", "underline", "strike"],
+            [{ size: ["small", false, "large", "huge"] }],
             [{ list: "ordered" }, { list: "bullet" }],
             [
               {
@@ -96,6 +97,7 @@ const EditFibroid = ({ initialDescription, onSave }) => {
         }}
         formats={[
           "header",
+          "size",
           "bold",
           "italic",
           "underline",
