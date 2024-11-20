@@ -28,6 +28,7 @@ import Fibroid from "./pages/Fibroid";
 import Hbp from "./pages/Hbp";
 import PageTitleSetter from "./pages/PageTitleSetter";
 import Pricing from "./pages/Pricing";
+import EditFibroid from "./pages/EditFibroid";
 
 function App() {
   return (
@@ -181,6 +182,15 @@ function App() {
               <>
                 <PageTitleSetter />
                 <Hiv />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/product/edit-fibroid"
+            element={
+              <>
+                <EditFibroid />
               </>
             }
           />
