@@ -29,6 +29,12 @@ import Hbp from "./pages/Hbp";
 import PageTitleSetter from "./pages/PageTitleSetter";
 import Pricing from "./pages/Pricing";
 import EditFibroid from "./pages/EditFibroid";
+import EditHiv from "./pages/EditHiv";
+import EditStroke from "./pages/EditStroke";
+import EditErectile from "./pages/EditErectile";
+import EditHbp from "./pages/EditHbp";
+import EditDiabetes from "./pages/EditDiabetes";
+import EditUlcer from "./pages/EditUlcer";
 
 function App() {
   return (
@@ -194,6 +200,62 @@ function App() {
               </>
             }
           />
+          <Route
+            exact
+            path="/product/edit-hiv"
+            element={
+              <>
+                <EditHiv />
+              </>
+            }
+          />
+
+          <Route
+            exact
+            path="/product/edit-stroke"
+            element={
+              <>
+                <EditStroke />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/product/edit-erectile"
+            element={
+              <>
+                <EditErectile />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/product/edit-hbp"
+            element={
+              <>
+                <EditHbp />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/product/edit-diabetes"
+            element={
+              <>
+                <EditDiabetes />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/product/edit-ulcer"
+            element={
+              <>
+                <EditUlcer />
+              </>
+            }
+          />
+
           <Route
             exact
             path="/product/fibroid"

@@ -1,6 +1,6 @@
 import { Badge } from "@material-ui/core";
 import { Search, ShoppingCartOutlined } from "@material-ui/icons";
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import white from "./home.png";
 import young from "./woman.jpg";
 import old from "./shop2.jpg";
@@ -14,6 +14,26 @@ const Arthritis = () => {
   const whiteSrcSet = `${white} 800w, ${white} 213w, ${white} 726w, ${white} 768w`;
   const blackSrcSet = `${step} 1000w, ${step} 258w, ${step} 879w, ${step} 768w, ${step} 800w`;
   const [activeTab, setActiveTab] = useState("description");
+  const [description, setDescription] = useState("");
+  const apiUrl = process.env.REACT_APP_API_URL;
+  // Fetch the existing fibroid description on component mount
+  useEffect(() => {
+    const fetchFibroidDescription = async () => {
+      try {
+        const response = await fetch(`${apiUrl}/api/divine/get-fibroid`);
+        const data = await response.json();
+
+        // Check if description exists and set it
+        if (data.description) {
+          setDescription(data.description);
+        }
+      } catch (error) {
+        console.error("Error fetching fibroid description:", error);
+      }
+    };
+
+    fetchFibroidDescription();
+  }, [apiUrl]); // Make sure apiUrl is correctly set
 
   return (
     <>
