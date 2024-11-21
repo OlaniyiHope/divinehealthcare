@@ -1,66 +1,62 @@
 import React, { useState, useEffect } from "react";
 import ReactQuill from "react-quill";
 import "react-quill/dist/quill.snow.css";
-import ImageResize from "quill-image-resize-module"; // Import the resize module
 import Quill from "quill";
+import ImageResize from "quill-image-resize-module-react"; // Import the resize module
 
+// Register the Image Resize module
 Quill.register("modules/imageResize", ImageResize);
 
 const EditHiv = ({ initialDescription, onSave }) => {
-  const [description, setDescription] = useState(initialDescription);
+  const [description, setDescription] = useState(initialDescription || ""); // Ensure the initial description defaults to an empty string
   const apiUrl = process.env.REACT_APP_API_URL;
-  // Fetch the existing fibroid description on component mount
+
+  // Fetch the existing description on component mount
   useEffect(() => {
-    const fetchFibroidDescription = async () => {
+    const fetchDescription = async () => {
       try {
         const response = await fetch(`${apiUrl}/api/divine/get-hiv`);
+        if (!response.ok) {
+          throw new Error(`Failed to fetch: ${response.statusText}`);
+        }
 
         const data = await response.json();
         if (data.description) {
           setDescription(data.description);
         }
       } catch (error) {
-        console.error("Error fetching fibroid description:", error);
+        console.error("Error fetching description:", error);
       }
     };
 
-    fetchFibroidDescription();
-  }, []); // Empty dependency array to run only once when the component mounts
+    fetchDescription();
+  }, [apiUrl]); // Include apiUrl as a dependency
 
   const handleSave = async () => {
     try {
-      // PUT request to update the fibroid description
-      const response = await fetch(
-        `${apiUrl}/api/divine/put-hiv`,
+      const response = await fetch(`${apiUrl}/api/divine/put-hiv`, {
+        method: "PUT",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({ description }),
+      });
 
-        {
-          method: "PUT",
-          headers: {
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify({ description }),
-        }
-      );
-
-      const data = await response.json();
-
-      if (response.ok) {
-        // Handle successful save
-        alert("Description saved successfully!");
-        console.log(data);
-      } else {
-        // Handle error
-        alert(data.message || "An error occurred.");
+      if (!response.ok) {
+        const errorData = await response.json();
+        throw new Error(errorData.message || "Failed to save description.");
       }
+
+      alert("Description saved successfully!");
     } catch (error) {
       console.error("Error saving description:", error);
-      alert("Failed to save description.");
+      alert(error.message || "An unexpected error occurred.");
     }
   };
 
   return (
     <div style={{ padding: "20px", maxWidth: "800px", margin: "auto" }}>
-      <h2>Edit HIV</h2>
+      <h2>Edit HIV Description</h2>
       <ReactQuill
         theme="snow"
         value={description}
@@ -98,10 +94,7 @@ const EditHiv = ({ initialDescription, onSave }) => {
             ["link", "image"],
             ["clean"],
           ],
-          imageResize: {
-            modules: ["Resize", "DisplaySize", "Toolbar"], // Enable resizing tools
-            displaySize: true, // Show dimensions while resizing
-          },
+          imageResize: {}, // Enable image resizing
         }}
         formats={[
           "header",
@@ -113,7 +106,8 @@ const EditHiv = ({ initialDescription, onSave }) => {
           "list",
           "bullet",
           "link",
-          "color", // Enables text color changes
+          "color",
+          "background",
           "image",
         ]}
       />
