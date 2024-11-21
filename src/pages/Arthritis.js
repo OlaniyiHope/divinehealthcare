@@ -431,6 +431,367 @@ const Arthritis = () => {
                           </div>
                         </div>
                       )}
+
+                      {/*<div>
+                    {activeTab === "description" && (
+                      <div
+                        class="tp-content-tab woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab"
+                        id="tab-description"
+                        role="tabpanel"
+                        aria-labelledby="tab-title-description"
+                      >
+                        <h2>Description</h2>
+
+                        <div class="product-desc-content">
+                          <h4 class="title">
+                            Experiencing Arthritis, Rheumatism, Joint Pains
+                            and Body Pains?
+                          </h4>
+                          <h6>
+                            Say Bye Bye to Pain, Fatigue and begin to Enjoy
+                            More Quality of Life. It’s a New Natural Joint
+                            care to Treat Arthritis, Rheumatism, Waist pain,
+                            Joint pain, Knee pain, Body tiredness, and General
+                            health Challenges Naturally… Once and for all
+                          </h6>
+                          <img
+                            decoding="async"
+                            src="wp-content/uploads/2022/09/j1.jpeg"
+                            alt=""
+                            class="main-img"
+                          />
+                          <h4 class="title">JOINT CARE</h4>
+                          <p>
+                            Due to age and normal wear and tear in the body,
+                            there can be loss of lubrication at the joints,
+                            this can lead to bone touching each other which is
+                            the pain felt, this also leads to bone
+                            degradation. Joint care contains collagen which is
+                            the most important building protein in the body.
+                            this stimulates lubrication between the joints and
+                            heals any damaged connecting tissue, ligaments or
+                            tendons, this makes it different and very
+                            efficient compared to other temporary pain
+                            relieving drugs.
+                          </p>
+                          <p>
+                            There's A Mineral You Should Consider, It is
+                            Unique – Very Powerful & Very Effective… It is
+                            said to be the Safest and most Reliable Natural
+                            Treatment so far. This Product is Fully Approved
+                            By NAFDAC
+                          </p>
+                          <br></br>
+                          <img
+                            decoding="async"
+                            src="wp-content/uploads/2022/09/j2.jpeg"
+                            alt=""
+                            style={{ width: "300px", height: "400px" }}
+                            class="main-img"
+                          />
+                      
+                          <br></br>
+
+                          <h4 class="title">
+                            DISCOVERY OF A HERBAL SOLUTION THAT CURES ALL
+                            TYPES OF Arthritis WITH NO SIDE EFFECTS
+                          </h4>
+                          <h6> INTRODUCING Arthritis SUPPLEMENTS</h6>
+                          <img
+                            decoding="async"
+                            src="wp-content/uploads/2022/09/j2.jpeg"
+                            alt=""
+                            style={{ width: "500px", height: "500px" }}
+                          />
+
+                          <p>
+                            This treatment is for those that think it is
+                            finished after they discovered they have
+                            Arthritis. When there’s life there’s hope and
+                            whatever we do living on earth are risks so I
+                            implore you to take this simple step today by
+                            getting this treatment and you will have your
+                            testimonies very soon. I ASSURE YOU WITH OUR
+                            HERBAL PRODUCTS AND DIET PLAN WHICH WE GIVE FREE
+                            OF CHARGE, YOU ARE CERTAIN TO REVERSE ANY TYPE OF
+                            ARTHRITIS
+                          </p>
+                          <h4 class="title">
+                            Here's what this ARTHRITIS SUPPLEMENTS can do to
+                            help you:
+                          </h4>
+
+                          <ul class="product-desc-list list-wrap">
+                            <li>Reduces Inflammation and Swelling</li>
+                            <li>
+                              Relieves Joint Pain (Knee, Ankle, Wrist, etc.
+                            </li>
+                            <li> Improves Mobility and Flexibility</li>
+                            <li> Supports Overall Well-being</li>
+                            <li> Natural and Fast-Acting Formula</li>
+                            <li> Powerful Anti-Inflammatory Ingredients</li>
+                            <li> Promotes Healthy Connective Tissues</li>
+                            <li> Free from Artificial Additives</li>
+                          </ul>
+                          <br></br>
+                          <p>
+                            Joint Care is a natural, fast-acting supplement
+                            that supports joint health and overall well-being.
+                            It’s made from a blend of medicinal herbs and
+                            sacred plant stem cells that have
+                            anti-inflammatory properties, which help reduce
+                            inflammation, swelling, and pain.
+                          </p>
+                          <p>
+                            Joint care Comes With A Detox Product<br></br>{" "}
+                            Arthritis most times is caused by deposit of waste
+                            and toxins in the joints which causes inflammation
+                            and swelling, it is advisable to buy the purifier
+                          </p>
+                          <p>
+                            <b>
+                              In 30 days from the day you start taking the
+                              product, you will be able to do the things that
+                              you cannot do before.
+                            </b>{" "}
+                            <br></br>
+                            <br></br>
+                            You begin to see these serious results from the
+                            The first month; <br></br>
+                            To stand upright unaided<br></br>
+                            to bend down and pick something with ease<br></br>
+                            to stand on one leg and wear your trousers
+                            <br></br>
+                            to climb up and down the stairs with easy<br></br>
+                            sitting down and getting up without any aid like
+                            holding unto someone or something<br></br>
+                            To squat down and get back up unaided.
+                          </p>
+                          <p>
+                            This all-natural therapy does not have any side
+                            effect unlike the synthetic substances you are
+                            used to.<br></br> The company behind these
+                            products are internationally recognized and well
+                            known. They have NO SIDE EFFECT<br></br> They are
+                            100% GUARANTEED<br></br> They are APPROVED BY
+                            N.A.F.D.A.C (NIGERIA)
+                          </p>
+                          <h4 class="title">HOW TO GET THE SUPPLEMENTS</h4>
+                          <p>
+                            I know you may be wondering if you will pay first
+                            before you get this product. NO! You don't have to
+                            pay first. Once you place your order the items
+                            would be sent to your state and once it gets to
+                            your state our courier agent would contact
+                            you,deliver the products to you at your provided
+                            address at no extra cost. So, once our delivery
+                            agent brings it to you, You would receive your
+                            products and pay at the point of delivery.
+                            <br></br>
+                            <br></br>
+                            <h6>HOW TO PLACE YOUR ORDER</h6>
+                            <br></br>
+                            There are three ways to make your order so you
+                            choose the most convenient;<br></br>
+                          </p>
+                          <p>
+                            {" "}
+                            1. You can click this Whatsapp Logo to Chat with
+                            Pharmacst Mary
+                          </p>
+                          <img
+                            decoding="async"
+                            src="wp-content/uploads/2022/09/whatsapp.jpeg"
+                            alt=""
+                            class="main-img"
+                            style={{ width: "250px", height: "80px" }}
+                          />
+                          <img
+                            decoding="async"
+                            src="wp-content/uploads/2022/09/bar.jpeg"
+                            alt=""
+                            class="main-img"
+                            style={{ width: "250px", height: "250px" }}
+                          />
+                          <br></br>
+                          <br></br>
+                          <br></br>
+                          <p>
+                            {" "}
+                            2. OR Call/Text /Send your Address as SMS to
+                            08113201322
+                          </p>
+
+                          <p> 3. OR Fill our form below</p>
+
+                          <div id="review_form_wrapper">
+                            <div id="review_form" class="comment-input">
+                              <div id="respond" class="comment-respond">
+                                <span
+                                  id="reply-title"
+                                  class="comment-reply-title"
+                                >
+                                  Place order for DIvine Health Supplements
+                                  <small></small>
+                                </span>
+                                <form
+                                  action="https://themegenix.net/wp/suxnix/wp-comments-post.php"
+                                  method="post"
+                                  id="commentform"
+                                  class="comment-form"
+                                  novalidate
+                                >
+                                  <p class="comment-form-author">
+                                    <label for="author">
+                                      Full Name&nbsp;
+                                      <span class="required">*</span>
+                                    </label>
+                                    <div class="comment-field">
+                                      <input
+                                        id="author"
+                                        name="author"
+                                        type="text"
+                                        value=""
+                                        size="30"
+                                        required
+                                      />
+                                    </div>
+                                  </p>
+                                  <p class="comment-form-email">
+                                    <label for="email">
+                                      Email&nbsp;
+                                      <span class="required">*</span>
+                                    </label>
+                                    <div class="comment-field">
+                                      <input
+                                        id="email"
+                                        name="email"
+                                        type="email"
+                                        value=""
+                                        size="30"
+                                        required
+                                      />
+                                    </div>
+                                  </p>
+                                  <p class="comment-form-cookies-consent">
+                                    <input
+                                      id="wp-comment-cookies-consent"
+                                      name="wp-comment-cookies-consent"
+                                      type="checkbox"
+                                      value="yes"
+                                    />{" "}
+                                    <label for="wp-comment-cookies-consent">
+                                      Save my name, email, and website in this
+                                      browser for the next time I comment.
+                                    </label>
+                                  </p>
+                                  <p class="comment-form-email">
+                                    <label for="email">
+                                      Full Address&nbsp;
+                                      <span class="required">*</span>
+                                    </label>
+                                    <div class="comment-field">
+                                      <input
+                                        id="email"
+                                        name="email"
+                                        type="email"
+                                        value=""
+                                        size="30"
+                                        required
+                                      />
+                                    </div>
+                                  </p>
+
+                                  <p class="comment-form-cookies-consent">
+                                    <input
+                                      id="wp-comment-cookies-consent"
+                                      name="wp-comment-cookies-consent"
+                                      type="checkbox"
+                                      value="yes"
+                                    />{" "}
+                                    <label for="wp-comment-cookies-consent">
+                                      Full Address
+                                    </label>
+                                  </p>
+                                  <p class="comment-form-email">
+                                    <label for="email">
+                                      Phone Number&nbsp;
+                                      <span class="required">*</span>
+                                    </label>
+                                    <div class="comment-field">
+                                      <input
+                                        id="email"
+                                        name="email"
+                                        type="email"
+                                        value=""
+                                        size="30"
+                                        required
+                                      />
+                                    </div>
+                                  </p>
+
+                                  <p class="comment-form-cookies-consent">
+                                    <input
+                                      id="wp-comment-cookies-consent"
+                                      name="wp-comment-cookies-consent"
+                                      type="checkbox"
+                                      value="yes"
+                                    />{" "}
+                                    <label for="wp-comment-cookies-consent">
+                                      Phone NUmber
+                                    </label>
+                                  </p>
+                                  <p class="comment-form-email">
+                                    <label for="email">
+                                      Request/Order&nbsp;
+                                      <span class="required">*</span>
+                                    </label>
+                                    <div class="comment-field">
+                                      <input
+                                        id="email"
+                                        name="email"
+                                        type="email"
+                                        value=""
+                                        size="30"
+                                        required
+                                      />
+                                    </div>
+                                  </p>
+
+                                  <p class="comment-form-cookies-consent">
+                                    <input
+                                      id="wp-comment-cookies-consent"
+                                      name="wp-comment-cookies-consent"
+                                      type="checkbox"
+                                      value="yes"
+                                    />{" "}
+                                    <label for="wp-comment-cookies-consent">
+                                      Request/Order
+                                    </label>
+                                  </p>
+                                </form>{" "}
+                              </div>
+                            </div>
+                          </div>
+                          <br></br>
+                          <br></br>
+                          <p>
+                            IF YOU HAVE ANY QUESTIONS OR CLARIFICATIONS BEFORE
+                            YOU ORDER, CALL ME ON: 08113201322<br></br>
+                            NOTE: Payment is made at the point of delivery.
+                            Please do not place an order if you are not ready
+                            to pay and receive your product within the next 1
+                            or 2 days. Please in case you call and the number
+                            is busy, kindly send me a text message and I will
+                            reply you. Due to demands, the phone number is
+                            always very busy.( smaller text)
+                          </p>
+                        </div>
+                      </div>
+                    )}
+                    
+                    </div>*/}
+
                       {activeTab === "reviews" && (
                         <div
                           class="tp-content-tab woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content wc-tab"
