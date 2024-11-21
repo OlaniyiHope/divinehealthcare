@@ -20,7 +20,7 @@ const Diabetes = () => {
   useEffect(() => {
     const fetchFibroidDescription = async () => {
       try {
-        const response = await fetch(`${apiUrl}/api/divine/get-fibroid`);
+        const response = await fetch(`${apiUrl}/api/divine/get-diabetes`);
         const data = await response.json();
 
         // Check if description exists and set it
@@ -227,6 +227,211 @@ const Diabetes = () => {
                     </ul>
                     <div className="tab-content">
                       {activeTab === "description" && (
+                        <div
+                          class="tp-content-tab woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab"
+                          id="tab-description"
+                          role="tabpanel"
+                          aria-labelledby="tab-title-description"
+                        >
+                          <h2>Description</h2>
+
+                          <div class="product-desc-content">
+                            <div
+                              dangerouslySetInnerHTML={{
+                                __html: description || "Loading description...",
+                              }}
+                            ></div>
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/whatsapp.jpeg"
+                              alt=""
+                              class="main-img"
+                              style={{ width: "250px", height: "80px" }}
+                            />
+                            <img
+                              decoding="async"
+                              src="wp-content/uploads/2022/09/bar.jpeg"
+                              alt=""
+                              class="main-img"
+                              style={{ width: "250px", height: "250px" }}
+                            />
+                            <br></br>
+                            <br></br>
+                            <br></br>
+                            <p>
+                              {" "}
+                              2. OR Call/Text /Send your Address as SMS to
+                              08113201322
+                            </p>
+
+                            <p> 3. OR Fill our form below</p>
+
+                            <div id="review_form_wrapper">
+                              <div id="review_form" class="comment-input">
+                                <div id="respond" class="comment-respond">
+                                  <span
+                                    id="reply-title"
+                                    class="comment-reply-title"
+                                  >
+                                    Place order for DIvine Health Supplements
+                                    <small></small>
+                                  </span>
+                                  <form
+                                    action="https://themegenix.net/wp/suxnix/wp-comments-post.php"
+                                    method="post"
+                                    id="commentform"
+                                    class="comment-form"
+                                    novalidate
+                                  >
+                                    <p class="comment-form-author">
+                                      <label for="author">
+                                        Full Name&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="author"
+                                          name="author"
+                                          type="text"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Email&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Save my name, email, and website in this
+                                        browser for the next time I comment.
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Full Address&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Full Address
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Phone Number&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Phone NUmber
+                                      </label>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Request/Order&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <input
+                                          id="email"
+                                          name="email"
+                                          type="email"
+                                          value=""
+                                          size="30"
+                                          required
+                                        />
+                                      </div>
+                                    </p>
+
+                                    <p class="comment-form-cookies-consent">
+                                      <input
+                                        id="wp-comment-cookies-consent"
+                                        name="wp-comment-cookies-consent"
+                                        type="checkbox"
+                                        value="yes"
+                                      />{" "}
+                                      <label for="wp-comment-cookies-consent">
+                                        Request/Order
+                                      </label>
+                                    </p>
+                                  </form>{" "}
+                                </div>
+                              </div>
+                            </div>
+                            <br></br>
+                            <br></br>
+                            <p>
+                              IF YOU HAVE ANY QUESTIONS OR CLARIFICATIONS BEFORE
+                              YOU ORDER, CALL ME ON: 08113201322<br></br>
+                              NOTE: Payment is made at the point of delivery.
+                              Please do not place an order if you are not ready
+                              to pay and receive your product within the next 1
+                              or 2 days. Please in case you call and the number
+                              is busy, kindly send me a text message and I will
+                              reply you. Due to demands, the phone number is
+                              always very busy.( smaller text)
+                            </p>
+                          </div>
+                        </div>
+                      )}
+                      {/*} {activeTab === "description" && (
                         <div
                           class="tp-content-tab woocommerce-Tabs-panel woocommerce-Tabs-panel--description panel entry-content wc-tab"
                           id="tab-description"
@@ -545,7 +750,7 @@ const Diabetes = () => {
                             </p>
                           </div>
                         </div>
-                      )}
+                      )}*/}
                       {activeTab === "reviews" && (
                         <div
                           class="tp-content-tab woocommerce-Tabs-panel woocommerce-Tabs-panel--reviews panel entry-content wc-tab"
