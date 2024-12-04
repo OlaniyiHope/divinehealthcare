@@ -135,18 +135,13 @@ const Hbp = () => {
                       <i class="fas fa-star"></i>
                       <i class="fas fa-star"></i>
                       <i class="fas fa-star"></i>
-                      <span class="rating-count">( 20 Customers Review )</span>
+                      <span class="rating-count">( 2 Customers Review )</span>
                     </div>
                     <h3 class="product_title title entry-title">
                       High Blood Pressure(HBP) Also called Hypertension is a
                       silence disease with no symptoms for years
                     </h3>
-                    <div class="inner-shop-details-price">
-                      <span class="woocommerce-Price-amount amount">
-                        <span class="woocommerce-Price-currencySymbol">₦</span>
-                        20,000
-                      </span>
-                    </div>
+
                     <div class="woocommerce-product-details__short-description">
                       <p>
                         Finally Discovered! A PROVEN Method To Control, Prevent
@@ -161,7 +156,7 @@ const Hbp = () => {
                     <div class="inner-shop-details-bottom">
                       <div class="posted_in">
                         <b>Category :</b>{" "}
-                        <a href="product/artheris-and-stroke" rel="tag">
+                        <a rel="tag">
                           High Blood Pressure(HBP) Also called Hypertension
                         </a>
                       </div>
