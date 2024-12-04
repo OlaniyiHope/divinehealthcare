@@ -133,18 +133,13 @@ const Arthritis = () => {
                       <i class="fas fa-star"></i>
                       <i class="fas fa-star"></i>
                       <i class="fas fa-star"></i>
-                      <span class="rating-count">( 20 Customers Review )</span>
+                      <span class="rating-count">( 2 Customers Review )</span>
                     </div>
                     <h3 class="product_title title entry-title">
                       Arthritis stroke e.g Pains in joint, Waist, Shoulder,
                       Wrist, Leg, Knees etc
                     </h3>
-                    <div class="inner-shop-details-price">
-                      <span class="woocommerce-Price-amount amount">
-                        <span class="woocommerce-Price-currencySymbol">₦</span>
-                        20,000
-                      </span>
-                    </div>
+
                     <div class="woocommerce-product-details__short-description">
                       <p>
                         Say Bye Bye to Pain, Fatigue and begin to Enjoy More
@@ -157,10 +152,7 @@ const Arthritis = () => {
 
                     <div class="inner-shop-details-bottom">
                       <div class="posted_in">
-                        <b>Category :</b>{" "}
-                        <a href="product/artheris-and-stroke" rel="tag">
-                          Arthritis and Stroke
-                        </a>
+                        <b>Category :</b> <a rel="tag">Arthritis and Stroke</a>
                       </div>
                       {/*} <div class="tagged_as">
                         <b>Tags : </b>

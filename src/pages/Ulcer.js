@@ -133,18 +133,13 @@ const Ulcer = () => {
                       <i class="fas fa-star"></i>
                       <i class="fas fa-star"></i>
                       <i class="fas fa-star"></i>
-                      <span class="rating-count">( 20 Customers Review )</span>
+                      <span class="rating-count">( 2 Customers Review )</span>
                     </div>
                     <h3 class="product_title title entry-title">
                       Ulcer - Pains in the upper adbomen or chest, can occur at
                       night, abdominal discomfort etc
                     </h3>
-                    <div class="inner-shop-details-price">
-                      <span class="woocommerce-Price-amount amount">
-                        <span class="woocommerce-Price-currencySymbol">₦</span>
-                        20,000
-                      </span>
-                    </div>
+
                     <div class="woocommerce-product-details__short-description">
                       <p>
                         Are You Seeking For An Effective, No Side Effect Ulcer

@@ -133,18 +133,13 @@ const Diabetes = () => {
                       <i class="fas fa-star"></i>
                       <i class="fas fa-star"></i>
                       <i class="fas fa-star"></i>
-                      <span class="rating-count">( 20 Customers Review )</span>
+                      <span class="rating-count">( 2 Customers Review )</span>
                     </div>
                     <h3 class="product_title title entry-title">
                       Diabetes - Type 1, type 2, gestational diabetes, and
                       diabetes prevention
                     </h3>
-                    <div class="inner-shop-details-price">
-                      <span class="woocommerce-Price-amount amount">
-                        <span class="woocommerce-Price-currencySymbol">₦</span>
-                        20,000
-                      </span>
-                    </div>
+
                     <div class="woocommerce-product-details__short-description">
                       <p>
                         100% Herbal Diabetes Reversal Remedy. First i want to

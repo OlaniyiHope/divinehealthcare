@@ -135,18 +135,13 @@ const Fertility = () => {
                       <i class="fas fa-star"></i>
                       <i class="fas fa-star"></i>
                       <i class="fas fa-star"></i>
-                      <span class="rating-count">( 20 Customers Review )</span>
+                      <span class="rating-count">( 2 Customers Review )</span>
                     </div>
                     <h3 class="product_title title entry-title">
                       Infertility in Men and Women, Low sperm count, quick
                       erection etc
                     </h3>
-                    <div class="inner-shop-details-price">
-                      <span class="woocommerce-Price-amount amount">
-                        <span class="woocommerce-Price-currencySymbol">₦</span>
-                        20,000
-                      </span>
-                    </div>
+
                     <div class="woocommerce-product-details__short-description">
                       <p>
                         Do you want her exhausted from pleasure, also to smile
@@ -159,9 +154,7 @@ const Fertility = () => {
                     <div class="inner-shop-details-bottom">
                       <div class="posted_in">
                         <b>Category :</b>{" "}
-                        <a href="product/artheris-and-stroke" rel="tag">
-                          Fertility in Men and Women
-                        </a>
+                        <a rel="tag">Fertility in Men and Women</a>
                       </div>
                       {/*} <div class="tagged_as">
                         <b>Tags : </b>

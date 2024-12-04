@@ -1,8 +1,11 @@
 import React, { useState, useEffect } from "react";
+
+import Quill from "quill";
+import ImageResize from "quill-image-resize-module-react";
 import ReactQuill from "react-quill";
 import "react-quill/dist/quill.snow.css";
-import Quill from "quill";
-import ImageResize from "quill-image-resize-module-react"; // Import the resize module
+
+Quill.register("modules/imageResize", ImageResize);
 
 // Register the Image Resize module
 Quill.register("modules/imageResize", ImageResize);
