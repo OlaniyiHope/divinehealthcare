@@ -97,7 +97,10 @@ const EditHiv = ({ initialDescription, onSave }) => {
             ["link", "image"],
             ["clean"],
           ],
-          imageResize: {}, // Enable image resizing
+          imageResize: {
+            modules: ["Resize", "DisplaySize", "Toolbar"], // Enable resizing tools
+            displaySize: true, // Show dimensions while resizing
+          },
         }}
         formats={[
           "header",
