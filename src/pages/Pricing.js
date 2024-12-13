@@ -91,7 +91,7 @@ const Pricing = () => {
                                     <div class="pricing-hade">
                                       <span>1 Bottle Of</span>
                                       <h3 class="title">Diving Health Care</h3>
-                                      <p>(1 x 250 veggie caps bottle)</p>
+                                      {/*<p>(1 x 250 veggie caps bottle)</p>*/}
                                     </div>
 
                                     <div class="pricing-img">
@@ -148,7 +148,7 @@ const Pricing = () => {
                                     <div class="pricing-hade">
                                       <span>3 Bottle Of</span>
                                       <h3 class="title">Divine Health Care</h3>
-                                      <p>(3 x 250 veggie caps bottle)</p>
+                                      {/*}   <p>(3 x 250 veggie caps bottle)</p>*/}
                                     </div>
 
                                     <div class="pricing-img">
@@ -205,7 +205,7 @@ const Pricing = () => {
                                     <div class="pricing-hade">
                                       <span>6 Bottle Of</span>
                                       <h3 class="title">Divine Health Care</h3>
-                                      <p>(6 x 250 veggie caps bottle)</p>
+                                      {/*} <p>(6 x 250 veggie caps bottle)</p>*/}
                                     </div>
 
                                     <div class="pricing-img">
