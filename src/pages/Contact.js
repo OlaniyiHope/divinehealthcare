@@ -288,29 +288,85 @@ const Contact = () => {
                                             class="wpcf7-form-control-wrap"
                                             data-name="your-subject"
                                           >
+                                            <label for="email">
+                                              Select Supplement&nbsp;
+                                              <span class="required">*</span>
+                                            </label>
                                             <select
                                               class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required form-select"
                                               aria-required="true"
                                               aria-invalid="false"
                                               name="your-subject"
                                             >
-                                              <option value="Select Subject **">
-                                                Select Subject **
+                                              <option
+                                                value="Select Subject **"
+                                                disabled
+                                              >
+                                                Select Supplement **
                                               </option>
                                               <option value="Delivery &amp; Orders">
-                                                Delivery &amp; Orders
+                                                Arthritis and Stroke
+                                              </option>
+                                              <option value="Delivery &amp; Orders">
+                                                Diabetes
                                               </option>
                                               <option value="Diet &amp; Exercise">
-                                                Diet &amp; Exercise
+                                                Fibroid/Cyst
                                               </option>
                                               <option value="Marketing &amp; Press">
-                                                Marketing &amp; Press
+                                                Ulcer
+                                              </option>
+                                              <option value="Marketing &amp; Press">
+                                                Erectile Dysfunction
                                               </option>
                                               <option value="Share Your Success">
-                                                Share Your Success
+                                                HIV/Cancer/Hepatitis
                                               </option>
                                               <option value="Wholesale And Returns">
-                                                Wholesale And Returns
+                                                High blood pressure
+                                              </option>
+                                            </select>
+                                          </span>
+                                          <span
+                                            class="wpcf7-form-control-wrap"
+                                            data-name="your-subject"
+                                          >
+                                            <label for="email">
+                                              Number of bottles&nbsp;
+                                              <span class="required">*</span>
+                                            </label>
+                                            <select
+                                              class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required form-select"
+                                              aria-required="true"
+                                              aria-invalid="false"
+                                              name="your-subject"
+                                            >
+                                              <option
+                                                value="Select Subject **"
+                                                disabled
+                                              >
+                                                Number of bottles **
+                                              </option>
+                                              <option value="Delivery &amp; Orders">
+                                                Arthritis and Stroke
+                                              </option>
+                                              <option value="Delivery &amp; Orders">
+                                                Diabetes
+                                              </option>
+                                              <option value="Diet &amp; Exercise">
+                                                Fibroid/Cyst
+                                              </option>
+                                              <option value="Marketing &amp; Press">
+                                                Ulcer
+                                              </option>
+                                              <option value="Marketing &amp; Press">
+                                                Erectile Dysfunction
+                                              </option>
+                                              <option value="Share Your Success">
+                                                HIV/Cancer/Hepatitis
+                                              </option>
+                                              <option value="Wholesale And Returns">
+                                                High blood pressure
                                               </option>
                                             </select>
                                           </span>
