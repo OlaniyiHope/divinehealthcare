@@ -103,13 +103,13 @@ const Pricing = () => {
                                     </div>
 
                                     <div class="pricing-price">
-                                      <h4 class="price">N20,000</h4>
+                                      <h4 class="price">N37,000</h4>
                                       <span>
                                         per <br /> bottle
                                       </span>
                                     </div>
 
-                                    <h5 class="total">(N20,000 TOTAL)</h5>
+                                    <h5 class="total">(N37,000 TOTAL)</h5>
 
                                     <div class="pricing-btn">
                                       <a
@@ -160,13 +160,13 @@ const Pricing = () => {
                                     </div>
 
                                     <div class="pricing-price">
-                                      <h4 class="price">N20,000</h4>
+                                      <h4 class="price">N57,000</h4>
                                       <span>
                                         per <br /> bottle
                                       </span>
                                     </div>
 
-                                    <h5 class="total">(N60,000 TOTAL)</h5>
+                                    <h5 class="total">(N57,000 TOTAL)</h5>
 
                                     <div class="pricing-btn">
                                       <a
@@ -217,13 +217,13 @@ const Pricing = () => {
                                     </div>
 
                                     <div class="pricing-price">
-                                      <h4 class="price">N20,000</h4>
+                                      <h4 class="price">N102,000</h4>
                                       <span>
                                         per <br /> bottle
                                       </span>
                                     </div>
 
-                                    <h5 class="total">(N120,000 TOTAL)</h5>
+                                    <h5 class="total">(N102,000 TOTAL)</h5>
 
                                     <div class="pricing-btn">
                                       <a
