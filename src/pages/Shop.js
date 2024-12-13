@@ -164,7 +164,7 @@ const Shop = () => {
                                     <span class="woocommerce-Price-currencySymbol">
                                       N
                                     </span>
-                                    20,000
+                                    42,000
                                   </bdi>
                                 </span>
                               </span>
@@ -253,7 +253,7 @@ const Shop = () => {
                                     <span class="woocommerce-Price-currencySymbol">
                                       N
                                     </span>
-                                    20,000
+                                    37,000
                                   </bdi>
                                 </span>
                               </span>
@@ -339,7 +339,7 @@ const Shop = () => {
                                     <span class="woocommerce-Price-currencySymbol">
                                       N
                                     </span>
-                                    20,000
+                                    37,000
                                   </bdi>
                                 </span>
                               </span>
@@ -427,7 +427,7 @@ const Shop = () => {
                                     <span class="woocommerce-Price-currencySymbol">
                                       N
                                     </span>
-                                    20,000
+                                    37,000
                                   </bdi>
                                 </span>
                               </span>
@@ -518,7 +518,7 @@ const Shop = () => {
                                     <span class="woocommerce-Price-currencySymbol">
                                       N
                                     </span>
-                                    20,000
+                                    37,000
                                   </bdi>
                                 </span>
                               </span>
@@ -607,7 +607,7 @@ const Shop = () => {
                                     <span class="woocommerce-Price-currencySymbol">
                                       N
                                     </span>
-                                    20,000
+                                    37,000
                                   </bdi>
                                 </span>
                               </span>
