@@ -1060,7 +1060,7 @@ const Ulcer = () => {
                                 alt=""
                                 style={{ width: "400px", height: "400px" }}
                               />
-                              <h6>2 PROCARE 1 REPAIR 47,000 naira</h6>
+                              <h6>2 PROCARE 1 REPAIR 57,000 naira</h6>
                               <img
                                 decoding="async"
                                 src="wp-content/uploads/2022/09/p2.jpeg"
