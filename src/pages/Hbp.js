@@ -515,7 +515,7 @@ const Hbp = () => {
                             </div>
                             <br></br>
                             <br></br>
-                            <p>
+                            <p style={{ fontWeight: "700" }}>
                               IF YOU HAVE ANY QUESTIONS OR CLARIFICATIONS BEFORE
                               YOU ORDER, CALL ME ON: 08113201322<br></br>
                               NOTE: Payment is made at the point of delivery.
@@ -524,7 +524,7 @@ const Hbp = () => {
                               or 2 days. Please in case you call and the number
                               is busy, kindly send me a text message and I will
                               reply you. Due to demands, the phone number is
-                              always very busy.( smaller text)
+                              always very busy.
                             </p>
                           </div>
                         </div>
