@@ -1070,19 +1070,21 @@ const Arthritis = () => {
                                 Heere are the packages available and cost
                               </h2>
                               <br></br>
-                              <h6>1 REPAIR + 1 PROCARE 37,000 Naira</h6>
-                              <img
-                                decoding="async"
-                                src="wp-content/uploads/2022/09/m1.jpeg"
-                                alt=""
-                                style={{ width: "500px", height: "500px" }}
-                              />
-                              <h6>2 PROCARE 1 REPAIR 47,000 naira</h6>
+                              <h6>1 Joint care + 1 Purifier 42,000 Naira</h6>
                               <img
                                 decoding="async"
                                 src="wp-content/uploads/2022/09/m2.jpeg"
                                 alt=""
-                                style={{ width: "500px", height: "500px" }}
+                                style={{ width: "400px", height: "400px" }}
+                              />
+                              <br></br>
+                              <br></br>
+                              <h6>2 Joint care + 1 Purifier 57,000 naira</h6>
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/m1.jpeg"
+                                alt=""
+                                style={{ width: "400px", height: "400px" }}
                               />
                               <br></br>
 

@@ -1058,14 +1058,14 @@ const Ulcer = () => {
                                 decoding="async"
                                 src="wp-content/uploads/2022/09/p1.jpeg"
                                 alt=""
-                                style={{ width: "500px", height: "500px" }}
+                                style={{ width: "400px", height: "400px" }}
                               />
                               <h6>2 PROCARE 1 REPAIR 47,000 naira</h6>
                               <img
                                 decoding="async"
                                 src="wp-content/uploads/2022/09/p2.jpeg"
                                 alt=""
-                                style={{ width: "500px", height: "500px" }}
+                                style={{ width: "400px", height: "400px" }}
                               />
                               <br></br>
 
