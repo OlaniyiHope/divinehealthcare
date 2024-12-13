@@ -116,7 +116,7 @@ const Contact = () => {
                                       <h5 class="title">Social Media</h5>
 
                                       <p class="contact-desc">
-                                        @divinehealthcare
+                                        @divine4everhealth
                                       </p>
                                     </div>
                                   </div>
@@ -158,7 +158,7 @@ const Contact = () => {
                                       <h5 class="title">Web Connect</h5>
 
                                       <p class="contact-desc">
-                                        info@divinehealthcare.com <br />{" "}
+                                        info@divine4everhealth.com <br />{" "}
                                       </p>
                                     </div>
                                   </div>
@@ -177,7 +177,8 @@ const Contact = () => {
                                     <p class="sub-title">.. request make ..</p>
 
                                     <h2 class="title">
-                                      Asked Anything You <br /> Want To Know
+                                      What supplement did you want to place an
+                                      order for
                                     </h2>
                                   </div>
 

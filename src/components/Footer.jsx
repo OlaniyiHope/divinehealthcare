@@ -136,11 +136,11 @@ const Footer = () => {
                           </li>
                           <li class="mail">
                             <i class="fas fa-envelope"></i>{" "}
-                            info@divinehealthcare.com
+                            info@divine4everhealth.com
                           </li>
                           <li class="website">
                             <i class="fas fa-globe"></i>{" "}
-                            www.divinehealthcare.com
+                            www.divine4everhealth.com
                           </li>
                         </ul>
                       </div>
