@@ -60,7 +60,9 @@ const Arthritis = () => {
               <div class="row justify-content-center">
                 <div class="col-xl-10">
                   <div class="breadcrumb-content text-center">
-                    <h2 class="title">Treatments for Arthritis and Stroke</h2>
+                    <h2 class="title">
+                      Treatments for Arthritis and Rheumatism
+                    </h2>
                     <nav aria-label="breadcrumb" class="breadcrumb">
                       <span property="itemListElement" typeof="ListItem">
                         <a
@@ -136,8 +138,8 @@ const Arthritis = () => {
                       <span class="rating-count">( 2 Customers Review )</span>
                     </div>
                     <h3 class="product_title title entry-title">
-                      Arthritis stroke e.g Pains in joint, Waist, Shoulder,
-                      Wrist, Leg, Knees etc
+                      Arthritis and Rheumatism e.g Pains in joint, Waist,
+                      Shoulder, Wrist, Leg, Knees etc
                     </h3>
 
                     <div class="woocommerce-product-details__short-description">
@@ -152,7 +154,8 @@ const Arthritis = () => {
 
                     <div class="inner-shop-details-bottom">
                       <div class="posted_in">
-                        <b>Category :</b> <a rel="tag">Arthritis and Stroke</a>
+                        <b>Category :</b>{" "}
+                        <a rel="tag">Arthritis and Rheumatism</a>
                       </div>
                       {/*} <div class="tagged_as">
                         <b>Tags : </b>
@@ -350,13 +353,13 @@ const Arthritis = () => {
                                               Select Supplement **
                                             </option>
                                             <option value="Delivery &amp; Orders">
-                                              Arthritis and Stroke
+                                              Arthritis and Rheumatism
                                             </option>
                                             <option value="Delivery &amp; Orders">
                                               Diabetes
                                             </option>
                                             <option value="Diet &amp; Exercise">
-                                              Fibroid/Cyst
+                                              Fibroid/Cyst/fertility-booster
                                             </option>
                                             <option value="Marketing &amp; Press">
                                               Ulcer
@@ -368,7 +371,7 @@ const Arthritis = () => {
                                               HIV/Cancer/Hepatitis
                                             </option>
                                             <option value="Wholesale And Returns">
-                                              High blood pressure
+                                              High blood pressure and Stroke
                                             </option>
                                           </select>
                                         </span>
@@ -1089,13 +1092,14 @@ const Arthritis = () => {
                                 The Condition<br></br>
                                 NOTE: The duration of treatment you are to use
                                 depends on the level of severity of your
-                                arthritis and stroke<br></br>
+                                arthritis and rheumatism<br></br>
                                 This Is Permanent Treatment That Clears The
                                 Viral Load So You Will Be Free From Sickness And
                                 Live A Normal Long Healthy Life<br></br>
                                 This treatment is for those that think it is
                                 finished after they discovered they have
-                                arthritis and stroke. don't lose hope.<br></br>
+                                arthritis and rheumatism. don't lose hope.
+                                <br></br>
                                 When there’s life there’s hope take this simple
                                 step today by getting this treatment and you
                                 will have your testimonies very soon.

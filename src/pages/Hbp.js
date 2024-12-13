@@ -61,7 +61,8 @@ const Hbp = () => {
                 <div class="col-xl-10">
                   <div class="breadcrumb-content text-center">
                     <h2 class="title">
-                      High Blood Pressure(HBP) Also called Hypertension
+                      High Blood Pressure(HBP) Also called Hypertension and
+                      Stroke
                     </h2>
                     <nav aria-label="breadcrumb" class="breadcrumb">
                       <span property="itemListElement" typeof="ListItem">
@@ -138,8 +139,8 @@ const Hbp = () => {
                       <span class="rating-count">( 2 Customers Review )</span>
                     </div>
                     <h3 class="product_title title entry-title">
-                      High Blood Pressure(HBP) Also called Hypertension is a
-                      silence disease with no symptoms for years
+                      High Blood Pressure(HBP) Also called Hypertension and
+                      Stroke is a silence disease with no symptoms for years
                     </h3>
 
                     <div class="woocommerce-product-details__short-description">
@@ -157,7 +158,8 @@ const Hbp = () => {
                       <div class="posted_in">
                         <b>Category :</b>{" "}
                         <a rel="tag">
-                          High Blood Pressure(HBP) Also called Hypertension
+                          High Blood Pressure(HBP) Also called
+                          Hypertension/Stroke
                         </a>
                       </div>
                       {/*} <div class="tagged_as">
@@ -239,13 +241,20 @@ const Hbp = () => {
                                 __html: description || "Loading description...",
                               }}
                             ></div>
-                            <img
-                              decoding="async"
-                              src="wp-content/uploads/2022/09/whatsapp.jpeg"
-                              alt=""
-                              class="main-img"
-                              style={{ width: "250px", height: "80px" }}
-                            />
+                            <a
+                              href="https://wa.me/+2348113201322"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <img
+                                decoding="async"
+                                src="wp-content/uploads/2022/09/whatsapp.jpeg"
+                                alt="WhatsApp"
+                                class="main-img"
+                                style={{ width: "250px", height: "80px" }}
+                              />
+                            </a>
+
                             <img
                               decoding="async"
                               src="wp-content/uploads/2022/09/bar.jpeg"
@@ -325,9 +334,104 @@ const Hbp = () => {
                                         browser for the next time I comment.
                                       </label>
                                     </p>
+
                                     <p class="comment-form-email">
                                       <label for="email">
-                                        Full Address&nbsp;
+                                        Select Supplement&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <span
+                                          class="wpcf7-form-control-wrap"
+                                          data-name="your-subject"
+                                        >
+                                          <select
+                                            class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required form-select"
+                                            aria-required="true"
+                                            aria-invalid="false"
+                                            name="your-subject"
+                                          >
+                                            <option
+                                              value="Select Subject **"
+                                              disabled
+                                            >
+                                              Select Supplement **
+                                            </option>
+                                            <option value="Delivery &amp; Orders">
+                                              Arthritis and Rheumatism
+                                            </option>
+                                            <option value="Delivery &amp; Orders">
+                                              Diabetes
+                                            </option>
+                                            <option value="Diet &amp; Exercise">
+                                              Fibroid/Cyst/fertility-booster
+                                            </option>
+                                            <option value="Marketing &amp; Press">
+                                              Ulcer
+                                            </option>
+                                            <option value="Marketing &amp; Press">
+                                              Erectile Dysfunction
+                                            </option>
+                                            <option value="Share Your Success">
+                                              HIV/Cancer/Hepatitis
+                                            </option>
+                                            <option value="Wholesale And Returns">
+                                              High blood pressure and Stroke
+                                            </option>
+                                          </select>
+                                        </span>
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Number of bottles&nbsp;
+                                        <span class="required">*</span>
+                                      </label>
+                                      <div class="comment-field">
+                                        <span
+                                          class="wpcf7-form-control-wrap"
+                                          data-name="your-subject"
+                                        >
+                                          <select
+                                            class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required form-select"
+                                            aria-required="true"
+                                            aria-invalid="false"
+                                            name="your-subject"
+                                          >
+                                            <option
+                                              value="Select Subject **"
+                                              disabled
+                                            >
+                                              Select Number **
+                                            </option>
+                                            <option value="Delivery &amp; Orders">
+                                              1
+                                            </option>
+                                            <option value="Delivery &amp; Orders">
+                                              2
+                                            </option>
+                                            <option value="Diet &amp; Exercise">
+                                              3
+                                            </option>
+                                            <option value="Marketing &amp; Press">
+                                              4
+                                            </option>
+                                            <option value="Marketing &amp; Press">
+                                              5
+                                            </option>
+                                            <option value="Share Your Success">
+                                              6
+                                            </option>
+                                            <option value="Wholesale And Returns">
+                                              7
+                                            </option>
+                                          </select>
+                                        </span>
+                                      </div>
+                                    </p>
+                                    <p class="comment-form-email">
+                                      <label for="email">
+                                        Phone Number&nbsp;
                                         <span class="required">*</span>
                                       </label>
                                       <div class="comment-field">
@@ -341,28 +445,16 @@ const Hbp = () => {
                                         />
                                       </div>
                                     </p>
-
-                                    <p class="comment-form-cookies-consent">
-                                      <input
-                                        id="wp-comment-cookies-consent"
-                                        name="wp-comment-cookies-consent"
-                                        type="checkbox"
-                                        value="yes"
-                                      />{" "}
-                                      <label for="wp-comment-cookies-consent">
-                                        Full Address
-                                      </label>
-                                    </p>
                                     <p class="comment-form-email">
                                       <label for="email">
-                                        Phone Number&nbsp;
+                                        Address(Delivery location)&nbsp;
                                         <span class="required">*</span>
                                       </label>
                                       <div class="comment-field">
                                         <input
-                                          id="email"
-                                          name="email"
-                                          type="email"
+                                          id="address"
+                                          name="address"
+                                          type="text"
                                           value=""
                                           size="30"
                                           required
@@ -383,18 +475,19 @@ const Hbp = () => {
                                     </p>
                                     <p class="comment-form-email">
                                       <label for="email">
-                                        Request/Order&nbsp;
+                                        Any Message&nbsp;
                                         <span class="required">*</span>
                                       </label>
                                       <div class="comment-field">
-                                        <input
-                                          id="email"
-                                          name="email"
-                                          type="email"
-                                          value=""
-                                          size="30"
-                                          required
-                                        />
+                                        <textarea
+                                          cols="40"
+                                          rows="10"
+                                          class="wpcf7-form-control wpcf7-textarea"
+                                          id="message"
+                                          aria-invalid="false"
+                                          placeholder="Enter here"
+                                          name="your-message"
+                                        ></textarea>
                                       </div>
                                     </p>
 
@@ -409,6 +502,13 @@ const Hbp = () => {
                                         Request/Order
                                       </label>
                                     </p>
+                                    <div class="form-btn">
+                                      <input
+                                        class="wpcf7-form-control wpcf7-submit has-spinner btn"
+                                        type="submit"
+                                        value="make request"
+                                      />
+                                    </div>
                                   </form>{" "}
                                 </div>
                               </div>

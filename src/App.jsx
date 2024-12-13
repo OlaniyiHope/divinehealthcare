@@ -123,7 +123,7 @@ function App() {
           />
           <Route
             exact
-            path="/product/arthritis-and-stroke"
+            path="/product/arthritis-and-rheumatism"
             element={
               <>
                 <PageTitleSetter />
@@ -268,7 +268,7 @@ function App() {
           />
           <Route
             exact
-            path="/product/Hbp"
+            path="/product/hbp-and-stroke"
             element={
               <>
                 <PageTitleSetter />
