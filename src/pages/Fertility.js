@@ -1013,13 +1013,13 @@ const Fertility = () => {
                                 The Condition<br></br>
                                 NOTE: The duration of treatment you are to use
                                 depends on the level of severity of your
-                                hepatitis<br></br>
+                                Erectile Dysfunction<br></br>
                                 This Is Permanent Treatment That Clears The
                                 Viral Load So You Will Be Free From Sickness And
                                 Live A Normal Long Healthy Life<br></br>
                                 This treatment is for those that think it is
                                 finished after they discovered they have
-                                Hepatitis. don't lose hope.<br></br>
+                                Erectile Dysfunction. don't lose hope.<br></br>
                                 When there’s life there’s hope take this simple
                                 step today by getting this treatment and you
                                 will have your testimonies very soon.
