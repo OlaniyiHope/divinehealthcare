@@ -23,7 +23,7 @@ const GetForm = () => {
 
   return (
     <>
-      <div className="container">
+      <div>
         <h2>Submitted Forms</h2>
         <table className="styled-table">
           <thead>
