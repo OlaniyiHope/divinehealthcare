@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios"; // Import Axios for API requests
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import "./form.css"; // Assuming you have a separate CSS file for styling
 
 const GetForm = () => {
   const [formData, setFormData] = useState([]);
@@ -24,7 +25,7 @@ const GetForm = () => {
     <>
       <div className="container">
         <h2>Submitted Forms</h2>
-        <table>
+        <table className="styled-table">
           <thead>
             <tr>
               <th>Full Name</th>
