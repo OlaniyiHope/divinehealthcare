@@ -1,13 +1,6 @@
 import { Badge } from "@material-ui/core";
 import { Search, ShoppingCartOutlined } from "@material-ui/icons";
 import React from "react";
-import white from "./home.png";
-import young from "./woman.jpg";
-import old from "./shop2.jpg";
-import Navbar from "../components/Navbar";
-import step from "./quicks.png";
-import oil from "./safe.png";
-import hiab from "./ran.png";
 import "./whatsapp.css";
 import "./home.css";
 import Footer from "../components/Footer";
@@ -165,7 +158,6 @@ const Pricing = () => {
                                         per <br /> bottle
                                       </span>
                                     </div>
-
                                     <h5 class="total">(N57,000 TOTAL)</h5>
 
                                     <div class="pricing-btn">

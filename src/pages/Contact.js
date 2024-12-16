@@ -254,7 +254,6 @@ const Contact = () => {
                                                   aria-required="true"
                                                   aria-invalid="false"
                                                   placeholder="Enter here"
-                                                  value=""
                                                   type="text"
                                                   name="your-name"
                                                 />
@@ -277,7 +276,6 @@ const Contact = () => {
                                                   aria-required="true"
                                                   aria-invalid="false"
                                                   placeholder="Enter here"
-                                                  value=""
                                                   type="email"
                                                   name="your-email"
                                                 />
@@ -348,25 +346,25 @@ const Contact = () => {
                                                 Number of bottles **
                                               </option>
                                               <option value="Delivery &amp; Orders">
-                                                Arthritis and Stroke
+                                                1
                                               </option>
                                               <option value="Delivery &amp; Orders">
-                                                Diabetes
+                                                2
                                               </option>
                                               <option value="Diet &amp; Exercise">
-                                                Fibroid/Cyst
+                                                3
                                               </option>
                                               <option value="Marketing &amp; Press">
-                                                Ulcer
+                                                4
                                               </option>
                                               <option value="Marketing &amp; Press">
-                                                Erectile Dysfunction
+                                                5
                                               </option>
                                               <option value="Share Your Success">
-                                                HIV/Cancer/Hepatitis
+                                                6
                                               </option>
                                               <option value="Wholesale And Returns">
-                                                High blood pressure
+                                                7
                                               </option>
                                             </select>
                                           </span>
