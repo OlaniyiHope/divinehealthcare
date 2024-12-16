@@ -26,13 +26,7 @@ const Form = () => {
                   <span class="required">*</span>
                 </label>
                 <div class="comment-field">
-                  <input
-                    id="author"
-                    name="author"
-                    type="text"
-                    size="30"
-                    required
-                  />
+                  <input id="name" name="fullname" type="text" size="30" />
                 </div>
               </p>
               <p class="comment-form-email">
@@ -41,13 +35,7 @@ const Form = () => {
                   <span class="required">*</span>
                 </label>
                 <div class="comment-field">
-                  <input
-                    id="email"
-                    name="email"
-                    type="email"
-                    size="30"
-                    required
-                  />
+                  <input id="email" name="email" type="email" size="30" />
                 </div>
               </p>
               <p class="comment-form-cookies-consent">
@@ -139,13 +127,7 @@ const Form = () => {
                   <span class="required">*</span>
                 </label>
                 <div class="comment-field">
-                  <input
-                    id="email"
-                    name="email"
-                    type="email"
-                    size="30"
-                    required
-                  />
+                  <input id="phone" name="phone" type="phone" size="30" />
                 </div>
               </p>
               <p class="comment-form-email">
@@ -160,7 +142,6 @@ const Form = () => {
                     type="text"
                     git
                     size="30"
-                    required
                   />
                 </div>
               </p>
