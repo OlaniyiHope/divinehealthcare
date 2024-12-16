@@ -303,7 +303,6 @@ const Form = () => {
 
   return (
     <>
-      <Navbar />
       <div id="review_form_wrapper">
         <div id="review_form" className="comment-input">
           <div id="respond" className="comment-respond">
@@ -515,8 +514,6 @@ const Form = () => {
           </div>
         </div>
       </div>
-
-      <Footer />
     </>
   );
 };
