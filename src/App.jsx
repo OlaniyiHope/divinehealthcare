@@ -35,6 +35,7 @@ import EditErectile from "./pages/EditErectile";
 import EditHbp from "./pages/EditHbp";
 import EditDiabetes from "./pages/EditDiabetes";
 import EditUlcer from "./pages/EditUlcer";
+import GetForm from "./pages/GetForm";
 
 function App() {
   return (
@@ -283,6 +284,16 @@ function App() {
               <>
                 <PageTitleSetter />
                 <Pricing />
+              </>
+            }
+          />
+          <Route
+            exact
+            path="/form"
+            element={
+              <>
+                <PageTitleSetter />
+                <GetForm />
               </>
             }
           />
