@@ -176,7 +176,7 @@ const Footer = () => {
             <div class="row align-items-center">
               <div class="col-md-7">
                 <div class="copyright-text">
-                  <p>Copyright © 2022 divinehealthcare All Rights Reserved.</p>
+                  <p>Copyright © 2024 divinehealthcare All Rights Reserved.</p>
                 </div>
               </div>
               <div class="col-md-5">
