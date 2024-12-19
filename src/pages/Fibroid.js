@@ -263,7 +263,9 @@ const Fibroid = () => {
                             <p>
                               {" "}
                               2. OR Call/Text /Send your Address as SMS to
-                              08113201322
+                              <a href="https://wa.me/2348113201322">
+                                08113201322
+                              </a>
                             </p>
 
                             <p> 3. OR Fill our form below</p>
@@ -273,7 +275,11 @@ const Fibroid = () => {
                             <br></br>
                             <p style={{ fontWeight: "700" }}>
                               IF YOU HAVE ANY QUESTIONS OR CLARIFICATIONS BEFORE
-                              YOU ORDER, CALL ME ON: 08113201322<br></br>
+                              YOU ORDER, CALL ME ON:{" "}
+                              <a href="https://wa.me/2348113201322">
+                                08113201322
+                              </a>
+                              <br></br>
                               NOTE: Payment is made at the point of delivery.
                               Please do not place an order if you are not ready
                               to pay and receive your product within the next 1

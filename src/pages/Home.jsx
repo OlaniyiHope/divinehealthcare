@@ -190,7 +190,7 @@ const Home = () => {
                               <div class="col-2">
                                 <div class="brand-item">
                                   <a
-                                    href="/product/arthritis-and-stroke"
+                                    href="/product/arthritis-and-rheumatism"
                                     style={{
                                       color: "black",
                                       fontSize: "25px",
@@ -246,28 +246,28 @@ const Home = () => {
                               <div class="col-2">
                                 <div class="brand-item">
                                   <a
-                                    href="/product/Hbp"
+                                    href="/product/hbp-and-stroke"
                                     style={{
                                       color: "black",
                                       fontSize: "25px",
                                       fontWeight: "500",
                                     }}
                                   >
-                                    HBP
+                                    HBP & Stroke
                                   </a>
                                 </div>
                               </div>
                               <div class="col-2">
                                 <div class="brand-item">
                                   <a
-                                    href="#"
+                                    href="/product/erectile-dysfunction"
                                     style={{
                                       color: "black",
                                       fontSize: "25px",
                                       fontWeight: "500",
                                     }}
                                   >
-                                    Weak Erection
+                                    Erectile Dysfunction
                                   </a>
                                 </div>
                               </div>
