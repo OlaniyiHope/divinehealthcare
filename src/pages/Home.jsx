@@ -634,7 +634,7 @@ const Home = () => {
                                 </a>
                               </div>
                             </div>*/}
-                              <div class="col-xxl-6 col-lg-7">
+                              <div class="col-xxl-6 col-lg-6">
                                 <div class="features-items-wrap">
                                   <div class="row justify-content-center">
                                     <div class="col-md-6 col-sm-8">
@@ -1516,7 +1516,7 @@ const Home = () => {
                                   </a>
                                 </div>
                               </div>*/}
-                              <div class="col-xxl-6 col-lg-7">
+                              <div class="col-xxl-6 col-lg-6">
                                 <div class="features-items-wrap">
                                   <div class="row justify-content-center">
                                     <div class="col-md-6 col-sm-8">
