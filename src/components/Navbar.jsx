@@ -24,7 +24,7 @@ const Navbar = () => {
                   <div class="menu-wrap">
                     <nav class="menu-nav">
                       <div class="logo">
-                        <a class="sticky-logo" href="index.html">
+                        <a class="sticky-logo" href="/">
                           <img
                             src="wp-content/themes/suxnix/assets/img/logo/secondary_logo.png"
                             alt="Logo"
@@ -37,7 +37,7 @@ const Navbar = () => {
                             id="menu-item-105"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-65 current_page_item menu-item-105"
                           >
-                            <a href="index.html" aria-current="page">
+                            <a href="/" aria-current="page">
                               Home
                             </a>
                           </li>
@@ -45,7 +45,7 @@ const Navbar = () => {
                             id="menu-item-106"
                             class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-106"
                           >
-                            <a href="index.html#features" aria-current="page">
+                            <a href="/" aria-current="page">
                               Features
                             </a>
                           </li>
@@ -53,7 +53,7 @@ const Navbar = () => {
                             id="menu-item-107"
                             class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-107"
                           >
-                            <a href="index.html#paroller" aria-current="page">
+                            <a href="/" aria-current="page">
                               Product
                             </a>
                           </li>
@@ -61,7 +61,7 @@ const Navbar = () => {
                             id="menu-item-108"
                             class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-108"
                           >
-                            <a href="index.html#ingredient" aria-current="page">
+                            <a href="/" aria-current="page">
                               Ingredient
                             </a>
                           </li>
@@ -69,7 +69,7 @@ const Navbar = () => {
                             id="menu-item-109"
                             class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-109"
                           >
-                            <a href="index.html#pricing" aria-current="page">
+                            <a href="/" aria-current="page">
                               Pricing
                             </a>
                           </li>
@@ -83,15 +83,13 @@ const Navbar = () => {
                                 id="menu-item-112"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"
                               >
-                                <a href="shop/index.html">Our Shop</a>
+                                <a href="/">Our Shop</a>
                               </li>
                               <li
                                 id="menu-item-111"
                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111"
                               >
-                                <a href="product/sneaky-supplements/index.html">
-                                  Shop Details
-                                </a>
+                                <a href="/">Shop Details</a>
                               </li>
                             </ul>
                           </li>
@@ -99,7 +97,7 @@ const Navbar = () => {
                             id="menu-item-114"
                             class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-114"
                           >
-                            <a href="index.html#news" aria-current="page">
+                            <a href="/" aria-current="page">
                               Blog
                             </a>
                             <ul class="sub-menu">
@@ -107,15 +105,13 @@ const Navbar = () => {
                                 id="menu-item-115"
                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"
                               >
-                                <a href="blog/index.html">Our Blog</a>
+                                <a href="/">Our Blog</a>
                               </li>
                               <li
                                 id="menu-item-116"
                                 class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116"
                               >
-                                <a href="culpa-qui-officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis/index.html">
-                                  Blog Details
-                                </a>
+                                <a href="/">Blog Details</a>
                               </li>
                             </ul>
                           </li>
@@ -123,14 +119,14 @@ const Navbar = () => {
                             id="menu-item-113"
                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"
                           >
-                            <a href="contact-us/index.html">Contacts</a>
+                            <a href="/">Contacts</a>
                           </li>
                         </ul>{" "}
                       </div>
                       <div class="header-action d-none d-sm-block">
                         <ul>
                           <li class="header-shop-cart">
-                            <a href="cart/index.html" class="cart-count">
+                            <a href="/" class="cart-count">
                               <i class="flaticon-shopping-cart"></i>
                               <span id="tp-cart-item" class="mini-cart-count">
                                 0
@@ -165,7 +161,7 @@ const Navbar = () => {
                         <i class="fas fa-times"></i>
                       </div>
                       <div class="nav-logo">
-                        <a href="index.html">
+                        <a href="/">
                           <img
                             src="wp-content/uploads/2022/09/logo.png"
                             alt="Logo"
@@ -176,27 +172,27 @@ const Navbar = () => {
                       <div class="menu-outer">
                         <ul id="menu-main-menu-1" class="navigation">
                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-65 current_page_item menu-item-105">
-                            <a href="index.html" aria-current="page">
+                            <a href="/" aria-current="page">
                               Home
                             </a>
                           </li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-106">
-                            <a href="index.html#features" aria-current="page">
+                            <a href="/" aria-current="page">
                               Features
                             </a>
                           </li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-107">
-                            <a href="index.html#paroller" aria-current="page">
+                            <a href="/" aria-current="page">
                               Product
                             </a>
                           </li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-108">
-                            <a href="index.html#ingredient" aria-current="page">
+                            <a href="/" aria-current="page">
                               Ingredient
                             </a>
                           </li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-109">
-                            <a href="index.html#pricing" aria-current="page">
+                            <a href="/" aria-current="page">
                               Pricing
                             </a>
                           </li>
@@ -204,32 +200,28 @@ const Navbar = () => {
                             <a href="#">Shop</a>
                             <ul class="sub-menu">
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112">
-                                <a href="shop/index.html">Our Shop</a>
+                                <a href="/">Our Shop</a>
                               </li>
                               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-111">
-                                <a href="product/sneaky-supplements/index.html">
-                                  Shop Details
-                                </a>
+                                <a href="/">Shop Details</a>
                               </li>
                             </ul>
                           </li>
                           <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children has-children menu-item-114">
-                            <a href="index.html#news" aria-current="page">
+                            <a href="/" aria-current="page">
                               Blog
                             </a>
                             <ul class="sub-menu">
                               <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115">
-                                <a href="blog/index.html">Our Blog</a>
+                                <a href="/">Our Blog</a>
                               </li>
                               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116">
-                                <a href="culpa-qui-officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis/index.html">
-                                  Blog Details
-                                </a>
+                                <a href="/">Blog Details</a>
                               </li>
                             </ul>
                           </li>
                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113">
-                            <a href="contact-us/index.html">Contacts</a>
+                            <a href="/">Contacts</a>
                           </li>
                         </ul>{" "}
                       </div>

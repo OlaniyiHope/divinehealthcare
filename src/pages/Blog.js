@@ -113,13 +113,11 @@ const Blog = () => {
 
                       <div class="blog--post--content">
                         <div class="blog--tag">
-                          <a href="../category/technology/index.html">
-                            Technology
-                          </a>{" "}
+                          <a href="/">Technology</a>{" "}
                         </div>
 
                         <h2 class="blog--post--title">
-                          <a href="../culpa-qui-officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis/index.html">
+                          <a href="/">
                             Culpa qui officia deserunt mollit anim id est
                             laborum sed ut perspiciatis
                           </a>
@@ -134,9 +132,7 @@ const Blog = () => {
 
                             <li>
                               <i class="far fa-comments"></i>{" "}
-                              <a href="../culpa-qui-officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis/index.html#comments">
-                                3 Comments
-                              </a>
+                              <a href="">3 Comments</a>
                             </li>
                           </ul>
                         </div>
