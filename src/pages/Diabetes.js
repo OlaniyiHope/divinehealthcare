@@ -652,7 +652,6 @@ const Diabetes = () => {
                                       <a
                                         rel="nofollow"
                                         id="cancel-comment-reply-link"
-                                        href="index.html#respond"
                                         style={{ display: "none" }}
                                       >
                                         Cancel reply
