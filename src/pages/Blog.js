@@ -96,7 +96,7 @@ const Blog = () => {
                       class="blog--post--item mb-40 format-image post-52 post type-post status-publish format-standard has-post-thumbnail hentry category-technology tag-popular tag-usability tag-ux"
                     >
                       <div class="blog--post--thumb">
-                        <a href="../culpa-qui-officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis/index.html">
+                        <a>
                           <img
                             width="850"
                             height="480"
@@ -159,13 +159,12 @@ const Blog = () => {
                             </div>
                             <div class="blog--avatar--info">
                               <p>
-                                By{" "}
-                                <a href="../author/admin/index.html">admin</a>
+                                By <a>admin</a>
                               </p>
                             </div>
                           </div>
                           <div class="blog--read--more">
-                            <a href="../culpa-qui-officia-deserunt-mollit-anim-id-est-laborum-sed-ut-perspiciatis/index.html">
+                            <a>
                               <i class="fas fa-arrow-right"></i>Read More
                             </a>
                           </div>
@@ -178,7 +177,7 @@ const Blog = () => {
                       class="blog--post--item mb-40 format-image post-53 post type-post status-publish format-standard has-post-thumbnail hentry category-consultant category-creative tag-desgin tag-popular tag-ux"
                     >
                       <div class="blog--post--thumb">
-                        <a href="../lorem-ipsum-dolor-sit-amet-consecte-cing-elit-sed-do-eiusmod-tempor/index.html">
+                        <a>
                           <img
                             width="850"
                             height="480"
@@ -194,13 +193,11 @@ const Blog = () => {
 
                       <div class="blog--post--content">
                         <div class="blog--tag">
-                          <a href="../category/consultant/index.html">
-                            Consultant
-                          </a>{" "}
+                          <a>Consultant</a>{" "}
                         </div>
 
                         <h2 class="blog--post--title">
-                          <a href="../lorem-ipsum-dolor-sit-amet-consecte-cing-elit-sed-do-eiusmod-tempor/index.html">
+                          <a>
                             Lorem ipsum dolor sit amet consecte cing elit sed do
                             eiusmod tempor
                           </a>
@@ -214,10 +211,7 @@ const Blog = () => {
                             </li>
 
                             <li>
-                              <i class="far fa-comments"></i>{" "}
-                              <a href="../lorem-ipsum-dolor-sit-amet-consecte-cing-elit-sed-do-eiusmod-tempor/index.html#comments">
-                                1 Comment
-                              </a>
+                              <i class="far fa-comments"></i> <a>1 Comment</a>
                             </li>
                           </ul>
                         </div>
@@ -244,13 +238,12 @@ const Blog = () => {
                             </div>
                             <div class="blog--avatar--info">
                               <p>
-                                By{" "}
-                                <a href="../author/admin/index.html">admin</a>
+                                By <a>admin</a>
                               </p>
                             </div>
                           </div>
                           <div class="blog--read--more">
-                            <a href="../lorem-ipsum-dolor-sit-amet-consecte-cing-elit-sed-do-eiusmod-tempor/index.html">
+                            <a>
                               <i class="fas fa-arrow-right"></i>Read More
                             </a>
                           </div>
@@ -283,13 +276,11 @@ const Blog = () => {
 
                       <div class="blog--post--content">
                         <div class="blog--tag">
-                          <a href="../category/consultant/index.html">
-                            Consultant
-                          </a>{" "}
+                          <a>Consultant</a>{" "}
                         </div>
 
                         <h2 class="blog--post--title">
-                          <a href="../magna-aliqua-ut-enim-minim-venia-mola-quis-nostrud-exercitation-ullamco/index.html">
+                          <a>
                             Magna aliqua ut enim minim venia mola quis nostrud
                             exercitation ullamco
                           </a>
@@ -303,10 +294,7 @@ const Blog = () => {
                             </li>
 
                             <li>
-                              <i class="far fa-comments"></i>{" "}
-                              <a href="../magna-aliqua-ut-enim-minim-venia-mola-quis-nostrud-exercitation-ullamco/index.html#respond">
-                                No Comments
-                              </a>
+                              <i class="far fa-comments"></i> <a>No Comments</a>
                             </li>
                           </ul>
                         </div>
@@ -333,13 +321,12 @@ const Blog = () => {
                             </div>
                             <div class="blog--avatar--info">
                               <p>
-                                By{" "}
-                                <a href="../author/admin/index.html">admin</a>
+                                By <a>admin</a>
                               </p>
                             </div>
                           </div>
                           <div class="blog--read--more">
-                            <a href="../magna-aliqua-ut-enim-minim-venia-mola-quis-nostrud-exercitation-ullamco/index.html">
+                            <a>
                               <i class="fas fa-arrow-right"></i>Read More
                             </a>
                           </div>
@@ -358,12 +345,10 @@ const Blog = () => {
                           </span>
                         </li>
                         <li class="page-item">
-                          <a class="page-numbers" href="page/2/index.html">
-                            2
-                          </a>
+                          <a>2</a>
                         </li>
                         <li class="page-item">
-                          <a class="next page-numbers" href="page/2/index.html">
+                          <a>
                             <i class="fas fa-angle-double-right"></i>
                           </a>
                         </li>
@@ -410,7 +395,7 @@ const Blog = () => {
                       <div class="rc__post-wrapper">
                         <div class="rc-post">
                           <div class="rc-post-thumb">
-                            <a href="../in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur-2/index.html">
+                            <a>
                               <img
                                 src="../wp-content/uploads/2022/09/inner_blog_thumb02.jpg"
                                 alt="img"
@@ -420,9 +405,7 @@ const Blog = () => {
 
                           <div class="rc-post-content">
                             <h5 class="title">
-                              <a href="../in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur-2/index.html">
-                                In reprehenderit in voluptate velit esse
-                              </a>
+                              <a>In reprehenderit in voluptate velit esse</a>
                             </h5>
                             <div class="rc-post-date">
                               <i class="far fa-calendar-alt"></i>
@@ -433,7 +416,7 @@ const Blog = () => {
 
                         <div class="rc-post">
                           <div class="rc-post-thumb">
-                            <a href="../magna-aliqua-ut-enim-minim-venia-mola-quis-nostrud-exercitation-ullamco/index.html">
+                            <a>
                               <img
                                 src="../wp-content/uploads/2022/09/inner_blog_thumb03.jpg"
                                 alt="img"
@@ -443,9 +426,7 @@ const Blog = () => {
 
                           <div class="rc-post-content">
                             <h5 class="title">
-                              <a href="../magna-aliqua-ut-enim-minim-venia-mola-quis-nostrud-exercitation-ullamco/index.html">
-                                Magna aliqua ut enim minim venia
-                              </a>
+                              <a>Magna aliqua ut enim minim venia</a>
                             </h5>
                             <div class="rc-post-date">
                               <i class="far fa-calendar-alt"></i>
@@ -456,7 +437,7 @@ const Blog = () => {
 
                         <div class="rc-post">
                           <div class="rc-post-thumb">
-                            <a href="../lorem-ipsum-dolor-sit-amet-consecte-cing-elit-sed-do-eiusmod-tempor/index.html">
+                            <a>
                               <img
                                 src="../wp-content/uploads/2022/09/inner_blog_thumb01.jpg"
                                 alt="img"
@@ -466,9 +447,7 @@ const Blog = () => {
 
                           <div class="rc-post-content">
                             <h5 class="title">
-                              <a href="../lorem-ipsum-dolor-sit-amet-consecte-cing-elit-sed-do-eiusmod-tempor/index.html">
-                                Lorem ipsum dolor sit amet consecte
-                              </a>
+                              <a>Lorem ipsum dolor sit amet consecte</a>
                             </h5>
                             <div class="rc-post-date">
                               <i class="far fa-calendar-alt"></i>
@@ -487,24 +466,16 @@ const Blog = () => {
                       </div>
                       <ul>
                         <li class="cat-item cat-item-16">
-                          <a href="../category/business/index.html">Business</a>{" "}
-                          <span class="float-right">1</span>
+                          <a>Business</a> <span class="float-right">1</span>
                         </li>
                         <li class="cat-item cat-item-23">
-                          <a href="../category/consultant/index.html">
-                            Consultant
-                          </a>{" "}
-                          <span class="float-right">2</span>
+                          <a>Consultant</a> <span class="float-right">2</span>
                         </li>
                         <li class="cat-item cat-item-24">
-                          <a href="../category/creative/index.html">Creative</a>{" "}
-                          <span class="float-right">1</span>
+                          <a>Creative</a> <span class="float-right">1</span>
                         </li>
                         <li class="cat-item cat-item-25">
-                          <a href="../category/technology/index.html">
-                            Technology
-                          </a>{" "}
-                          <span class="float-right">1</span>
+                          <a>Technology</a> <span class="float-right">1</span>
                         </li>
                       </ul>
                     </div>
@@ -517,7 +488,6 @@ const Blog = () => {
                       </div>
                       <div class="tagcloud">
                         <a
-                          href="../tag/business/index.html"
                           class="tag-cloud-link tag-link-21 tag-link-position-1"
                           style={{ fontSize: "8pt" }}
                           aria-label="business (1 item)"
@@ -525,7 +495,6 @@ const Blog = () => {
                           business
                         </a>
                         <a
-                          href="../tag/desgin/index.html"
                           class="tag-cloud-link tag-link-18 tag-link-position-2"
                           style={{ fontSize: "22pt" }}
                           aria-label="desgin (3 items)"
@@ -533,7 +502,6 @@ const Blog = () => {
                           desgin
                         </a>
                         <a
-                          href="../tag/popular/index.html"
                           class="tag-cloud-link tag-link-17 tag-link-position-3"
                           style={{ fontSize: "16.4pt" }}
                           aria-label="Popular (2 items)"
@@ -541,7 +509,6 @@ const Blog = () => {
                           Popular
                         </a>
                         <a
-                          href="../tag/tech/index.html"
                           class="tag-cloud-link tag-link-22 tag-link-position-4"
                           style={{ fontSize: "16.4pt" }}
                           aria-label="tech (2 items)"
@@ -549,7 +516,6 @@ const Blog = () => {
                           tech
                         </a>
                         <a
-                          href="../tag/usability/index.html"
                           class="tag-cloud-link tag-link-20 tag-link-position-5"
                           style={{ fontSize: "8pt" }}
                           aria-label="usability (1 item)"
@@ -557,7 +523,6 @@ const Blog = () => {
                           usability
                         </a>
                         <a
-                          href="../tag/ux/index.html"
                           class="tag-cloud-link tag-link-19 tag-link-position-6"
                           style={{ fontSize: "22pt" }}
                           aria-label="ux (3 items)"

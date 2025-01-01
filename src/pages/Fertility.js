@@ -84,7 +84,6 @@ const Fertility = () => {
                           property="item"
                           typeof="WebPage"
                           title="Go to Products."
-                          href="../../shop/index.html"
                           class="archive post-product-archive"
                         >
                           <span property="name">Category</span>
@@ -712,7 +711,6 @@ const Fertility = () => {
                                       <a
                                         rel="nofollow"
                                         id="cancel-comment-reply-link"
-                                        href="index.html#respond"
                                         style={{ display: "none" }}
                                       >
                                         Cancel reply
